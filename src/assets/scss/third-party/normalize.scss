@@ -13,8 +13,8 @@
 html {
   font-family: sans-serif; /* 1 */
   line-height: 1.15; /* 2 */
-  text-size-adjust: 100%; /* 3 */
-  text-size-adjust: 100%; /* 3 */
+  // text-size-adjust: 100%; /* 3 */
+  // text-size-adjust: 100%; /* 3 */
 }
 
 /* Sections
@@ -105,7 +105,7 @@ pre {
 
 a {
   background-color: transparent; /* 1 */
-  text-decoration-skip: objects; /* 2 */
+  // text-decoration-skip: objects; /* 2 */
 }
 
 /**

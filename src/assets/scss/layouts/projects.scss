@@ -13,7 +13,7 @@
   display: block;
   display: flex;
   flex-direction: column;
-  justify-content: center;
+  justify-content: top;
   padding: 15px 25px;
   border: 1px solid var(--color-border);
   border-radius: var(--border-radius);
@@ -23,6 +23,11 @@
   :root[data-theme="dark"] & {
     background-color: var(--color-bg-secondary-dark);
   }
+}
+
+.project-card:hover {
+  transform: scale(1.1);
+  // filter: brightness(115%);
 }
 
 .project-card__title {
@@ -39,20 +44,21 @@
 }
 
 .project-card__tag {
-  background-color: var(--color-secondary);
-  color: var(--color-text-alt);
+  background-color: var(--color-bg-secondary);
+  color: var(--color-text);
 
   :root[data-theme="dark"] & {
-    background-color: var(--color-secondary-dark);
+    background-color: var(--color-bg-wrapper-bg-dark);
     color: var(--color-text-alt);
   }
 
   &:hover {
-    color: var(--color-text-alt);
+    color: var(--color-text);
     filter: brightness(90%);
 
     :root[data-theme="dark"] & {
       color: var(--color-text-alt);
+      filter: brightness(90%);
     }
   }
 }

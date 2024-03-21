@@ -8,6 +8,8 @@
   --color-bg-secondary: #f7f7f7;
   --color-bg-accent: rgb(174, 182, 225);
   --color-bg-hover: #f3f4f6cc;
+  --color-bg-tag: #FFFF80;
+  --color-bg-tag-hover: #D6D6D6
 
   /* Text and Border Colors */
   --color-text: #222;
@@ -36,8 +38,8 @@
   --shadow: 0 10px 15px -3px rgb(0 0 0 / 10%), 0 4px 6px -2px rgb(0 0 0 / 5%);
 
   // Dark mode colors
-  --color-secondary-dark: rgb(22, 78, 99);
-
+  // --color-secondary-dark: rgb(22, 78, 99);
+  --color-link-dark: #D6D600;
   --color-link-dark: rgb(8, 145, 178);
 
   --color-bg-dark: #000;
