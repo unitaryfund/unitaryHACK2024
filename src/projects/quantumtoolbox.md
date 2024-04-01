@@ -1,7 +1,7 @@
 ---
 title: "QuantumToolbox.jl"
 emoji: 
-project_url: [https://github.com/TeamGraphix/graphix](https://github.com/albertomercurio/QuantumToolbox.jl)
+project_url: https://github.com/albertomercurio/QuantumToolbox.jl
 metaDescription: Julia Package for Quantum Optics and Quantum Physics
 date: 2024-04-01
 summary: Julia Package for Quantum Optics and Quantum Physics
