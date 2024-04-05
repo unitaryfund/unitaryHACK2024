@@ -17,6 +17,6 @@ eleventyNavigation:
 ## Submission Requirements
 A contribution to a participating project for this hackathon consists of making a pull request yourself to the project's repository. For pull requests resolving bountied issues, the first **accepted** PR from the project maintainers will receive the prize! Pull requests are reviewed and decisions to accept are made by the project maintainers. Hackers can make contributions anytime between May 29th and June 12th [AoE](https://time.is/Anywhere_on_Earth).
 
-**All participants and maintainers must adhere to the project's Code of Conduct as well as the Unitary Fund's [Community Code of Conduct]({{ '/coc/' | url }}).**
+**All participants and maintainers must adhere to the project's Code of Conduct as well as the Unitary Fund's [Community Code of Conduct](https://github.com/unitaryfund/unitary.fund/blob/master/CODE_OF_CONDUCT.md).**
 
 If you have any questions about the event contact us [hack@unitary.fund](mailto:hack@unitary.fund), or to get in touch with others working on the event, join our [Discord](http://discord.unitary.fund)!
