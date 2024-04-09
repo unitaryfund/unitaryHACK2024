@@ -38,9 +38,7 @@ QuantumToolbox.jl is equipped with a robust set of features:
 ## Installation
 
 ```julia
-
 using Pkg
 
 Pkg.add("QuantumToolbox")
-
 ```

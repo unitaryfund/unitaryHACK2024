@@ -40,7 +40,5 @@ Just head over to [Classiq's platform](https://platform.classiq.io/) and follow 
 If you'd rather work programmatically, using Python, Classiq also provides an SDK, which can be installed as follows:
 
 ```bash
-
 pip install classiq
-
 ```
