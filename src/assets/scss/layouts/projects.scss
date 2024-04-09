@@ -71,18 +71,38 @@ img[alt=Dev] {
   width: 80px;
 }
 
+img[alt=Dev]:hover {
+  filter: brightness(120%);
+}
+
 img[alt=Stable] {
   width: 98px;
+}
+
+img[alt=Stable]:hover {
+  filter: brightness(120%);
 }
 
 img[alt=Build-Status] {
   width: 170px;
 }
 
+img[alt=Build-Status]:hover {
+  filter: brightness(120%);
+}
+
 img[alt=Coverage] {
   width: 141px;
 }
 
+img[alt=Coverage]:hover {
+  filter: brightness(120%);
+}
+
 img[alt=DOI] {
   width: 240px;
+}
+
+img[alt=DOI]:hover {
+  filter: brightness(120%);
 }
