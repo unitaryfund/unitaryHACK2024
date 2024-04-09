@@ -19,7 +19,7 @@ No matter your experience in quantum tech or open source communities, **you** ca
 
 ## ⌚ Before the Hack ⌚
 
-[REGISTER HERE](https://airtable.com/app5sTD1ailjCEft1/pag7CoNawqpRfN6Oo/form)! You'll need to be registered in order to recieve awards.
+[REGISTER HERE](https://airtable.com/app5sTD1ailjCEft1/pag7CoNawqpRfN6Oo/form)! You'll need to be registered in order to receive awards.
 
 ### Brush up on your open source contribution skills
 
