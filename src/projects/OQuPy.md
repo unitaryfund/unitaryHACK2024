@@ -1,7 +1,7 @@
 ---
 title: OQuPy
 emoji: ☁️
-project_url: https://github.com/Qiskit/openqasm3_parser/
+project_url: https://github.com/tempoCollaboration/OQuPy
 metaDescription: A Python 3 package to efficiently compute non-Markovian open quantum systems.
 date: 2024-03-28
 summary: A Python 3 package to efficiently compute non-Markovian open quantum systems.
