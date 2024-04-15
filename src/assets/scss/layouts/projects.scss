@@ -106,3 +106,16 @@ img[alt=DOI] {
 img[alt=DOI]:hover {
   filter: brightness(120%);
 }
+
+// Bounty CSS
+.bounties {
+  .tag {
+    background: white;
+    font-size: 1.8rem;
+    font-weight: 400;
+  }
+}
+
+.tag.bounty-closed {
+  color: #b3b3b3;
+}
