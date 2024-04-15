@@ -10,6 +10,7 @@ tags:
   - Algorithms
   - Qmod
   - Quantum Applications
+  - Python
 bounties:
   - TBD
 ---
