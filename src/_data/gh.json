@@ -12,13 +12,6 @@
       {
         "assignees": [],
         "state": "open",
-        "title": "Add/remove tags in submission detail view; respect soft-delete for references",
-        "url": "https://github.com/unitaryfund/metriq-client/issues/71",
-        "value": 100
-      },
-      {
-        "assignees": [],
-        "state": "open",
         "title": "Adding tag via submission view requires double action",
         "url": "https://github.com/unitaryfund/metriq-client/issues/72",
         "value": 75
@@ -29,6 +22,13 @@
         "title": "Unable to unlike submission post",
         "url": "https://github.com/unitaryfund/metriq-app/issues/73",
         "value": 75
+      },
+      {
+        "assignees": [],
+        "state": "open",
+        "title": "Add/remove tags in submission detail view; respect soft-delete for references",
+        "url": "https://github.com/unitaryfund/metriq-client/issues/71",
+        "value": 100
       },
       {
         "assignees": [],
