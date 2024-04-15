@@ -42,6 +42,28 @@ module.exports = function (eleventyConfig) {
   // Allow Turbolinks to work in development mode
   eleventyConfig.setBrowserSyncConfig(browserSyncConfig);
 
+  // Markdown Plugins
+  let markdownIt = require("markdown-it");
+  let markdownItAnchor = require("markdown-it-anchor");
+  let options = {
+    html: true,
+    breaks: true,
+    linkify: true,
+  };
+  let opts = {
+    permalink: false,
+  };
+
+  eleventyConfig.setLibrary(
+    "md",
+    markdownIt(options).use(markdownItAnchor, opts)
+  );
+
+  eleventyConfig.addPairedShortcode("mdRender", (title) => {
+    return markdownIt().renderInline(title);
+  });
+
+
   return {
     templateFormats: ['md', 'njk', 'html'],
     markdownTemplateEngine: 'njk',

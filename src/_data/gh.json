@@ -1,0 +1,48 @@
+{
+  "metriq-app": {
+    "amount_available": 500,
+    "bounties": [
+      {
+        "assignees": [],
+        "state": "open",
+        "title": "Make it possible to create a new platform from the add result modal",
+        "url": "https://github.com/unitaryfund/metriq-app/issues/708",
+        "value": 75
+      },
+      {
+        "assignees": [],
+        "state": "open",
+        "title": "Add/remove tags in submission detail view; respect soft-delete for references",
+        "url": "https://github.com/unitaryfund/metriq-client/issues/71",
+        "value": 100
+      },
+      {
+        "assignees": [],
+        "state": "open",
+        "title": "Adding tag via submission view requires double action",
+        "url": "https://github.com/unitaryfund/metriq-client/issues/72",
+        "value": 75
+      },
+      {
+        "assignees": [],
+        "state": "open",
+        "title": "Unable to unlike submission post",
+        "url": "https://github.com/unitaryfund/metriq-app/issues/73",
+        "value": 75
+      },
+      {
+        "assignees": [],
+        "state": "open",
+        "title": "Add mathjax support to text input boxes boxes",
+        "url": "https://github.com/unitaryfund/metriq-app/issues/269",
+        "value": 175
+      }
+    ],
+    "emoji": "\ud83d\udcca",
+    "name": "Metriq",
+    "num_bounties": 5,
+    "num_open_bounties": 1,
+    "total_amount": 500,
+    "url": "https://github.com/unitaryfund/metriq-app"
+  }
+}
