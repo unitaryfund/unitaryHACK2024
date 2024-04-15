@@ -6,10 +6,10 @@ metaDescription: Quantum Applications, Algorithms, Tutorials and Functions, buil
 date: 2024-04-04
 summary: Quantum Applications, Algorithms, Tutorials and Functions, built with the Classiq Platform
 tags:
-  - Quantum Error Correction
-  - Rust
-  - Vue
-  - ThreeJS
+  - Quantum Software
+  - Algorithms
+  - Qmod
+  - Quantum Applications
 bounties:
   - TBD
 ---
