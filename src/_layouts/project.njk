@@ -10,6 +10,10 @@ section: project
      <a href={{ project_url }}>{{ title }}</a>
   </h1>
 
+  {{ layoutContent | safe }}
+
+ <hr/>
+
 {# Bounty list #}
 {% set bounties = gh[id or title | lower].bounties %}
   {% if bounties %}
@@ -33,8 +37,6 @@ section: project
     {% endfor %}
   {% endif %}
 
-  <hr/>
-  {{ layoutContent | safe }}
   <nav>
     <a href="{{ '/projects/' | url }}">← View All Projects</a>
   </nav>
