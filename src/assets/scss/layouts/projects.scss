@@ -113,9 +113,26 @@ img[alt=DOI]:hover {
     background: white;
     font-size: 1.8rem;
     font-weight: 400;
+    border-radius: 0;
+    padding: 0;
+
+    &:hover {
+      color: var(--color-secondary);
+      border-bottom: 2px solid var(--color-secondary);
+
+      :root[data-theme="dark"] & {
+        color: var(--color-link-dark);
+        border-color: var(--color-link-dark);
+      }
+    }
   }
 }
 
 .tag.bounty-closed {
   color: #b3b3b3;
+
+  &:hover {
+    color: #808080;
+    border-bottom: 2px solid;
+  }
 }
