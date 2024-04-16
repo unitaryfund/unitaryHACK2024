@@ -19,6 +19,6 @@ pagination:
   {{ layoutContent | safe }}
 
   {# Projects #}
-{% from "_includes/macros/projectlist.njk" import projectlist %}
+{% from "macros/projectlist.njk" import projectlist %}
   {{ projectlist(projects = collections.project | reverse) }}
 </div>
