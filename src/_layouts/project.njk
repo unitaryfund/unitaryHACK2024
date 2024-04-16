@@ -14,7 +14,7 @@ section: project
 
  <hr/>
 
-{# Bounty list #}
+{# Bounty list
 {% set bounties = gh[id or title | lower].bounties %}
   {% if bounties %}
     {% for state, bts in bounties | groupby("state") | dictsort | reverse %}
@@ -36,7 +36,7 @@ section: project
       </ul>
     {% endfor %}
   {% endif %}
-
+ #}
   <nav>
     <a href="{{ '/projects/' | url }}">← View All Projects</a>
   </nav>
