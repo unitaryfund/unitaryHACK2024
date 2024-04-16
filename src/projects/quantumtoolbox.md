@@ -15,7 +15,7 @@ bounties:
 
 # QuantumToolbox
 
-| [![Dev](/src/assets/img/docs-dev-blue.svg)](https://albertomercurio.github.io/QuantumToolbox.jl/dev) | [![Stable](/src/assets/img/docs-stable-blue.svg)](https://albertomercurio.github.io/QuantumToolbox.jl/stable) | [![Build-Status](/src/assets/img/build-status.svg)](https://github.com/albertomercurio/QuantumToolbox.jl/actions/workflows/CI.yml?query=branch%3Amain) | [![Coverage](/src/assets/img/coverage.svg)](https://codecov.io/gh/albertomercurio/QuantumToolbox.jl) | [![DOI](/src/assets/img/DOI.svg)](https://doi.org/10.5281/zenodo.10822817) |
+| [![Dev](/assets/img/docs-dev-blue.svg)](https://albertomercurio.github.io/QuantumToolbox.jl/dev) | [![Stable](/assets/img/docs-stable-blue.svg)](https://albertomercurio.github.io/QuantumToolbox.jl/stable) | [![Build-Status](/assets/img/build-status.svg)](https://github.com/albertomercurio/QuantumToolbox.jl/actions/workflows/CI.yml?query=branch%3Amain) | [![Coverage](/assets/img/coverage.svg)](https://codecov.io/gh/albertomercurio/QuantumToolbox.jl) | [![DOI](/assets/img/DOI.svg)](https://doi.org/10.5281/zenodo.10822817) |
 |-----|--------|-------|----------|-----|
 
 
