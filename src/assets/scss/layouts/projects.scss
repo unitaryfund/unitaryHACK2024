@@ -136,3 +136,13 @@ img[alt=DOI]:hover {
     border-bottom: 2px solid;
   }
 }
+
+// Badges
+.badges {
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.badge {
+  padding: 10px;
+}
