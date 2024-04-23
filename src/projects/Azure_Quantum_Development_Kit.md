@@ -4,7 +4,7 @@ emoji:
 project_url: https://github.com/microsoft/qsharp
 metaDescription: Azure Quantum Development Kit, including Q# programming language, Azure Quantum Resource Estimator, and Quantum Katas.
 date: 2024-04-16
-summary: Is it possible to distinguish the given random numbers are produced from a specific quantum computer? More generally, this problem is related to the topic of cross-platform comparison of quantum circuits.
+summary: Azure Quantum Development Kit, including the Q# programming language, resource estimator, and Quantum Katas
 tags:
   - Qsharp
   - Quantum Resource Estimation
