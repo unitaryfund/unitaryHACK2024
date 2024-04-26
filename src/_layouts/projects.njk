@@ -20,5 +20,5 @@ pagination:
 
   {# Projects #}
 {% from "macros/projectlist.njk" import projectlist %}
-  {{ projectlist(projects = collections.project | reverse) }}
+    {{ projectlist(projects = collections.sortedProjects) }}
 </div>

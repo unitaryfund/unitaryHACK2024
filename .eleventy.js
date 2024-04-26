@@ -42,6 +42,17 @@ module.exports = function (eleventyConfig) {
   // Allow Turbolinks to work in development mode
   eleventyConfig.setBrowserSyncConfig(browserSyncConfig);
 
+  // Sorting
+  eleventyConfig.addCollection("sortedProjects", function (collection) {
+    return collection.getFilteredByGlob("src/projects/*.md").sort(function (a, b) {
+      let nameA = a.data.title.toUpperCase();
+      let nameB = b.data.title.toUpperCase();
+      if (nameA < nameB) return -1;
+      else if (nameA > nameB) return 1;
+      else return 0;
+    });
+  });
+  
   // Markdown Plugins
   let markdownIt = require("markdown-it");
   let markdownItAnchor = require("markdown-it-anchor");
