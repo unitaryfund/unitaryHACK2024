@@ -17,7 +17,7 @@ We have some outlines below for what you can expect before and during the event,
 ## 🗓️ Maintainer Timeline 🗓️
 
 > - **ASAP**: Maintainers from invited projects fill our participation form
-> - **May TBD**: Maintainers party + Q&A
+> - **May 23 at 9 am PT**: Maintainers party + Q&A
 >   - Review of the event + rules
 >   - Answer any initial questions folks have about the event
 >   - Give a short intro about your project
