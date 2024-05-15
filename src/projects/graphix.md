@@ -7,6 +7,9 @@ date: 2024-04-01
 summary: Graphix is a measurement-based quantum computing (MBQC) software package
 tags:
   - optics
+  - Measurement-based quantum computing
+  - Measurement calculus
+  - python
 bounties:
   - TBD
 ---
