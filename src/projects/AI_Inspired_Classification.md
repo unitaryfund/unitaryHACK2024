@@ -9,8 +9,6 @@ tags:
   - DI-QRNG
   - Classification
   - Cloud QC
-bounties:
-  - TBD
 ---
 
 Quantum computers promise diverse applications with fault-tolerant architectures. Near-term quantum computers are comprised of different physical entities, such as superconducting qubits, propagating photons, trapped ions and tweezer-based neutral atoms.
@@ -32,6 +30,7 @@ The DoraHacks team is currently working on [further improvements](https://github
 For this challenge, please build on top of the most recent progress and improve the prediction accuracy. The bounty winner will go to the team / individual that produces the best results. We haven't explored this on general quantum circuits, progress on general circuits can claim separate / additional bounty prizes.
 
 ## Resources:
+
 [1] Einstein, Albert, Boris Podolsky, and Nathan Rosen. "Can quantum-mechanical description of physical reality be considered complete?." Physical review 47.10 (1935): 777.
 
 [2] Hensen, Bas, et al. "Loophole-free Bell inequality violation using electron spins separated by 1.3 kilometres." Nature 526.7575 (2015): 682-686.

@@ -11,14 +11,14 @@ tags:
   - Qmod
   - Quantum Applications
   - Python
-bounties:
-  - TBD
 ---
+
 # Classiq
 
 Your entry-point for creating & running quantum programs.
 
-The [Classiq Library](https://github.com/Classiq/classiq-library)holds a wide collection of quantum functions, algorithms, applications and tutorials built with Classiq. In this project we welcome you to expand the library with your own algorithms and applications. 
+The [Classiq Library](https://github.com/Classiq/classiq-library)holds a wide collection of quantum functions, algorithms, applications and tutorials built with Classiq. In this project we welcome you to expand the library with your own algorithms and applications.
+
 <hr> <br>
 <p align="center">
    &emsp;
@@ -34,6 +34,7 @@ The [Classiq Library](https://github.com/Classiq/classiq-library)holds a wide co
 <hr>
 
 # Installation
+
 Working with Classiq's latest GUI requires no installations!
 
 Just head over to [Classiq's platform](https://platform.classiq.io/) and follow the examples below over there :)

@@ -9,8 +9,6 @@ tags:
   - Amazon Braket
   - Python
   - PennyLane
-bounties:
-  - TBD
 ---
 
 The Amazon Braket PennyLane plugin offers four Amazon Braket quantum devices to work with PennyLane:

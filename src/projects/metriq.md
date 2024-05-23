@@ -11,9 +11,8 @@ tags:
   - node
   - react
   - benchmarking
-bounties:
-  - TBD
 ---
+
 There has been rapid progress in quantum computing, but it can be hard to track that progress. Researchers want to know how to compare against the state of the art and users want to know what tools best suit them.
 
 [Metriq](metriq.info) is a free and open source platform that helps anyone better answer this question for themselves.

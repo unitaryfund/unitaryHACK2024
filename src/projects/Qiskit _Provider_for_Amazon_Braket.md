@@ -9,8 +9,6 @@ tags:
   - Amazon Braket
   - Python
   - Qiskit
-bounties:
-  - TBD
 ---
 
 The Qiskit Provider for Amazon Braket allows running Qiskit programs on Amazon Braket quantum hardware and simulators.

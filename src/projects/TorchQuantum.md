@@ -1,6 +1,6 @@
 ---
 title: TorchQuantum
-emoji: 
+emoji:
 project_url: https://github.com/mit-han-lab/torchquantum
 metaDescription: Quantum Computing in PyTorch
 date: 2024-05-06
@@ -9,9 +9,8 @@ tags:
   - Classical Simulation
   - Quantum Machine Learning
   - Variational Quantum Algorithms
-bounties:
-  - TBD
 ---
+
 #### What it is doing
 
 Simulate quantum computations on classical hardware using PyTorch. It supports statevector simulation and pulse simulation on GPUs. It can scale up to the simulation of 30+ qubits with multiple GPUs.

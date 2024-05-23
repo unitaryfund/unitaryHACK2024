@@ -11,8 +11,6 @@ tags:
   - Programming interface
   - Mid-circuit measurement
   - OpenQASM
-bounties:
-  - TBD
 ---
 
 AutoQASM provides a Pythonic developer experience for writing quantum programs. The name AutoQASM is derived from the name of the [AutoGraph module of TensorFlow](https://www.tensorflow.org/api_docs/python/tf/autograph). AutoQASM uses AutoGraph to construct quantum assembly (QASM) programs rather than TensorFlow graphs.

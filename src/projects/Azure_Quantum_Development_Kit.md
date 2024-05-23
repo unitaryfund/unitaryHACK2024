@@ -1,6 +1,6 @@
 ---
 title: Azure Quantum Development Kit
-emoji: 
+emoji:
 project_url: https://github.com/microsoft/qsharp
 metaDescription: Azure Quantum Development Kit, including Q# programming language, Azure Quantum Resource Estimator, and Quantum Katas.
 date: 2024-04-16
@@ -9,8 +9,6 @@ tags:
   - Qsharp
   - Quantum Resource Estimation
   - Tutorials
-bounties:
-  - TBD
 ---
 
 Welcome to the Azure Quantum Development Kit!

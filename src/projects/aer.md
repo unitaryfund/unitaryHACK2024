@@ -8,12 +8,10 @@ date: 2024-03-27
 summary: Aer is a high performance simulator for quantum circuits that includes noise models
 tags:
   - qiskit
-  - OpenQASM 
+  - OpenQASM
   - c++
   - gpu
   - cuda
-bounties:
-  - TBD
 ---
 
 Aer provides interfaces to run Qiskit quantum circuits with or without noise using multiple different simulation methods. Aer supports leveraging MPI and running on GPUs to improve the performance of simulation.

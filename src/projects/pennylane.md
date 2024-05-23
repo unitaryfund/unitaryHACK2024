@@ -9,8 +9,6 @@ tags:
   - python
   - quantum machine learning
   - quantum-chemistry
-bounties:
-  - TBD
 ---
 
 PennyLane is a cross-platform Python library for differentiable programming of quantum computers.

@@ -12,8 +12,6 @@ tags:
   - compilation
   - OpenQASM
   - pulse
-bounties:
-  - TBD
 ---
 
 [Qiskit](https://www.ibm.com/quantum/qiskit) is a popular SDK to build, transpile, execute, and visualize quantum circuits. It is mainly written in Python and there are some components in Rust.

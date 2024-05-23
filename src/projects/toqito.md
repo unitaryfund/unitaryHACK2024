@@ -1,6 +1,6 @@
 ---
 title: toqito
-emoji: 
+emoji:
 project_url: "https://github.com/vprusso/toqito"
 metaDescription: "|toqito> (Theory of Quantum Information Toolkit) in Python"
 date: 2024-03-28
@@ -11,8 +11,6 @@ tags:
   - nonlocal-games
   - semidefinite-programming
   - quantum-information-theory
-bounties:
-  - TBD
 ---
 
 (Theory of Quantum Information Toolkit)

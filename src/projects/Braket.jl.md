@@ -9,8 +9,6 @@ tags:
   - Amazon Braket
   - Julia
   - Quantum Circuits
-bounties:
-  - TBD
 ---
 
 Braket.jl is a Julia implementation of the Amazon Braket SDK, allowing users to access quantum hardware and simulators.

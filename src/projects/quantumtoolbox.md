@@ -1,6 +1,6 @@
 ---
 title: "QuantumToolbox.jl"
-emoji: 
+emoji:
 project_url: https://github.com/albertomercurio/QuantumToolbox.jl
 metaDescription: Julia Package for Quantum Optics and Quantum Physics
 date: 2024-04-01
@@ -9,8 +9,6 @@ tags:
   - lindblad
   - optics
   - julia
-bounties:
-  - TBD
 ---
 
 # QuantumToolbox
@@ -19,31 +17,31 @@ bounties:
 
   <div class="badge" markdown="2">
 
-  [![Dev](/assets/img/docs-dev-blue.svg)](https://albertomercurio.github.io/QuantumToolbox.jl/dev)
+[![Dev](/assets/img/docs-dev-blue.svg)](https://albertomercurio.github.io/QuantumToolbox.jl/dev)
 
   </div>
 
   <div class="badge" markdown="2">
 
-  [![Stable](/assets/img/docs-stable-blue.svg)](https://albertomercurio.github.io/QuantumToolbox.jl/stable)
+[![Stable](/assets/img/docs-stable-blue.svg)](https://albertomercurio.github.io/QuantumToolbox.jl/stable)
 
   </div>
 
   <div class="badge" markdown="2">
 
-  [![Build-Status](/assets/img/build-status.svg)](https://github.com/albertomercurio/QuantumToolbox.jl/actions/workflows/CI.yml?query=branch%3Amain)
+[![Build-Status](/assets/img/build-status.svg)](https://github.com/albertomercurio/QuantumToolbox.jl/actions/workflows/CI.yml?query=branch%3Amain)
 
   </div>
 
   <div class="badge" markdown="2">
 
-  [![Coverage](/assets/img/coverage.svg)](https://codecov.io/gh/albertomercurio/QuantumToolbox.jl)
+[![Coverage](/assets/img/coverage.svg)](https://codecov.io/gh/albertomercurio/QuantumToolbox.jl)
 
   </div>
 
   <div class="badge" markdown="2">
 
-  [![DOI](/assets/img/DOI.svg)](https://doi.org/10.5281/zenodo.10822817)
+[![DOI](/assets/img/DOI.svg)](https://doi.org/10.5281/zenodo.10822817)
 
   </div>
 </div>

@@ -1,48 +1,442 @@
 {
+  "amazon-braket-default-simulator-python": {
+    "amount_available": 0,
+    "bounties": [],
+    "emoji": "\u269b\ufe0f\ud83d\udcca",
+    "name": "Amazon Braket Default Simulator",
+    "num_bounties": 0,
+    "num_open_bounties": 0,
+    "total_amount": 0,
+    "url": "https://github.com/amazon-braket/amazon-braket-default-simulator-python"
+  },
+  "amazon-braket-pennylane-plugin-python": {
+    "amount_available": 0,
+    "bounties": [],
+    "emoji": "\u269b\ufe0f\ud83e\ude99",
+    "name": "PennyLane Plugin for Amazon Braket",
+    "num_bounties": 0,
+    "num_open_bounties": 0,
+    "total_amount": 0,
+    "url": "https://github.com/amazon-braket/amazon-braket-pennylane-plugin-python"
+  },
+  "amazon-braket-sdk-python": {
+    "amount_available": 0,
+    "bounties": [],
+    "emoji": "\u269b\ufe0f\ud83d\udcbb",
+    "name": "Amazon Braket SDK",
+    "num_bounties": 0,
+    "num_open_bounties": 0,
+    "total_amount": 0,
+    "url": "https://github.com/amazon-braket/amazon-braket-sdk-python"
+  },
+  "autoqasm": {
+    "amount_available": 0,
+    "bounties": [],
+    "emoji": "\u269b\ufe0f\ud83d\udc0d",
+    "name": "AutoQASM",
+    "num_bounties": 0,
+    "num_open_bounties": 0,
+    "total_amount": 0,
+    "url": "https://github.com/amazon-braket/autoqasm"
+  },
+  "bloqade-python": {
+    "amount_available": 0,
+    "bounties": [],
+    "emoji": "\u269b\ufe0f",
+    "name": "bloqade-python",
+    "num_bounties": 0,
+    "num_open_bounties": 0,
+    "total_amount": 0,
+    "url": "https://github.com/QuEraComputing/bloqade-python"
+  },
+  "bqskit": {
+    "amount_available": 0,
+    "bounties": [],
+    "emoji": "\ud83c\udf6a",
+    "name": "BQSKit",
+    "num_bounties": 0,
+    "num_open_bounties": 0,
+    "total_amount": 0,
+    "url": "https://github.com/bqskit/bqskit"
+  },
+  "braket.jl": {
+    "amount_available": 0,
+    "bounties": [],
+    "emoji": "\u269b\ufe0f\ud83d\udd34",
+    "name": "Braket.jl",
+    "num_bounties": 0,
+    "num_open_bounties": 0,
+    "total_amount": 0,
+    "url": "https://github.com/amazon-braket/Braket.jl"
+  },
+  "braketahs.jl": {
+    "amount_available": 0,
+    "bounties": [],
+    "emoji": "\u269b\ufe0f\ud83c\udf0a",
+    "name": "BraketAHS.jl",
+    "num_bounties": 0,
+    "num_open_bounties": 0,
+    "total_amount": 0,
+    "url": "https://github.com/amazon-braket/BraketAHS.jl"
+  },
+  "braketsimulator.jl": {
+    "amount_available": 0,
+    "bounties": [],
+    "emoji": "\u269b\ufe0f\ud83d\udcf6",
+    "name": "BraketSimulator.jl",
+    "num_bounties": 0,
+    "num_open_bounties": 0,
+    "total_amount": 0,
+    "url": "https://github.com/amazon-braket/BraketSimulator.jl"
+  },
+  "cirq": {
+    "amount_available": 0,
+    "bounties": [],
+    "emoji": null,
+    "name": "Cirq",
+    "num_bounties": 0,
+    "num_open_bounties": 0,
+    "total_amount": 0,
+    "url": "https://github.com/quantumlib/Cirq"
+  },
+  "classiq-library": {
+    "amount_available": 0,
+    "bounties": [],
+    "emoji": "\ud83d\udcda\ud83d\udc69\ud83c\udffb\u200d\ud83d\udcbb",
+    "name": "Classiq Library",
+    "num_bounties": 0,
+    "num_open_bounties": 0,
+    "total_amount": 0,
+    "url": "https://github.com/Classiq/classiq-library"
+  },
+  "cuda-quantum": {
+    "amount_available": 0,
+    "bounties": [],
+    "emoji": "\ud83c\udfce\ufe0f",
+    "name": "CUDA-Q",
+    "num_bounties": 0,
+    "num_open_bounties": 0,
+    "total_amount": 0,
+    "url": "https://github.com/NVIDIA/cuda-quantum"
+  },
+  "fusion-blossom": {
+    "amount_available": 0,
+    "bounties": [],
+    "emoji": "\ud83e\udd80\ud83d\udc0d",
+    "name": "Fusion Blossom",
+    "num_bounties": 0,
+    "num_open_bounties": 0,
+    "total_amount": 0,
+    "url": "https://github.com/yuewuo/fusion-blossom"
+  },
+  "graphix": {
+    "amount_available": 0,
+    "bounties": [],
+    "emoji": "\ud83d\udd78\ufe0f",
+    "name": "graphix",
+    "num_bounties": 0,
+    "num_open_bounties": 0,
+    "total_amount": 0,
+    "url": "https://github.com/TeamGraphix/graphix"
+  },
+  "hierarqcal": {
+    "amount_available": 0,
+    "bounties": [],
+    "emoji": "\ud83e\udea1",
+    "name": "HierarQcal",
+    "num_bounties": 0,
+    "num_open_bounties": 0,
+    "total_amount": 0,
+    "url": "https://github.com/matt-lourens/hierarqcal"
+  },
+  "ion-q-thruster": {
+    "amount_available": 0,
+    "bounties": [],
+    "emoji": "\ud83d\ude80",
+    "name": "Ion(Q) Thruster",
+    "num_bounties": 0,
+    "num_open_bounties": 0,
+    "total_amount": 0,
+    "url": "https://github.com/ionq-samples/Ion-Q-Thruster"
+  },
+  "kqcircuits": {
+    "amount_available": 0,
+    "bounties": [],
+    "emoji": "\ud83e\udd91",
+    "name": "KQCircuits",
+    "num_bounties": 0,
+    "num_open_bounties": 0,
+    "total_amount": 0,
+    "url": "https://github.com/iqm-finland/KQCircuits"
+  },
+  "lambeq": {
+    "amount_available": 0,
+    "bounties": [],
+    "emoji": null,
+    "name": "lambeq",
+    "num_bounties": 0,
+    "num_open_bounties": 0,
+    "total_amount": 0,
+    "url": "https://github.com/CQCL/lambeq"
+  },
   "metriq-app": {
-    "amount_available": 500,
-    "bounties": [
-      {
-        "assignees": [],
-        "state": "open",
-        "title": "Make it possible to create a new platform from the add result modal",
-        "url": "https://github.com/unitaryfund/metriq-app/issues/708",
-        "value": 75
-      },
-      {
-        "assignees": [],
-        "state": "open",
-        "title": "Adding tag via submission view requires double action",
-        "url": "https://github.com/unitaryfund/metriq-client/issues/72",
-        "value": 75
-      },
-      {
-        "assignees": [],
-        "state": "open",
-        "title": "Unable to unlike submission post",
-        "url": "https://github.com/unitaryfund/metriq-app/issues/73",
-        "value": 75
-      },
-      {
-        "assignees": [],
-        "state": "open",
-        "title": "Add/remove tags in submission detail view; respect soft-delete for references",
-        "url": "https://github.com/unitaryfund/metriq-client/issues/71",
-        "value": 100
-      },
-      {
-        "assignees": [],
-        "state": "open",
-        "title": "Add mathjax support to text input boxes boxes",
-        "url": "https://github.com/unitaryfund/metriq-app/issues/269",
-        "value": 175
-      }
-    ],
+    "amount_available": 0,
+    "bounties": [],
     "emoji": "\ud83d\udcca",
     "name": "Metriq",
-    "num_bounties": 5,
-    "num_open_bounties": 1,
-    "total_amount": 500,
+    "num_bounties": 0,
+    "num_open_bounties": 0,
+    "total_amount": 0,
     "url": "https://github.com/unitaryfund/metriq-app"
+  },
+  "mitiq": {
+    "amount_available": 0,
+    "bounties": [],
+    "emoji": "\ud83c\udf34",
+    "name": "Mitiq",
+    "num_bounties": 0,
+    "num_open_bounties": 0,
+    "total_amount": 0,
+    "url": "https://github.com/unitaryfund/mitiq"
+  },
+  "openqaoa": {
+    "amount_available": 0,
+    "bounties": [],
+    "emoji": "\u2615\ud83e\udd9d",
+    "name": "OpenQAOA",
+    "num_bounties": 0,
+    "num_open_bounties": 0,
+    "total_amount": 0,
+    "url": "https://github.com/entropicalabs/openqaoa"
+  },
+  "openqasm3_parser": {
+    "amount_available": 0,
+    "bounties": [],
+    "emoji": "\ud83c\udf10\ud83e\udd80",
+    "name": "OpenQASM 3 Parser",
+    "num_bounties": 0,
+    "num_open_bounties": 0,
+    "total_amount": 0,
+    "url": "https://github.com/Qiskit/openqasm3_parser/"
+  },
+  "pennylane": {
+    "amount_available": 0,
+    "bounties": [],
+    "emoji": "\ud83e\uddd1\u200d\ud83d\udd2c\ud83d\udcda",
+    "name": "PennyLane",
+    "num_bounties": 0,
+    "num_open_bounties": 0,
+    "total_amount": 0,
+    "url": "https://github.com/PennyLaneAI/pennylane"
+  },
+  "piccolo.jl": {
+    "amount_available": 0,
+    "bounties": [],
+    "emoji": null,
+    "name": "Piccolo.jl",
+    "num_bounties": 0,
+    "num_open_bounties": 0,
+    "total_amount": 0,
+    "url": "https://github.com/aarontrowbridge/Piccolo.jl"
+  },
+  "pyclifford": {
+    "amount_available": 0,
+    "bounties": [],
+    "emoji": null,
+    "name": "PyClifford",
+    "num_bounties": 0,
+    "num_open_bounties": 0,
+    "total_amount": 0,
+    "url": "https://github.com/hongyehu/PyClifford"
+  },
+  "qadence": {
+    "amount_available": 0,
+    "bounties": [],
+    "emoji": null,
+    "name": "Qadence",
+    "num_bounties": 0,
+    "num_open_bounties": 0,
+    "total_amount": 0,
+    "url": "https://github.com/pasqal-io/qadence"
+  },
+  "qbraid": {
+    "amount_available": 0,
+    "bounties": [],
+    "emoji": "\ud83c\udfc3\u200d\u2642\ufe0f\u23f1\ufe0f",
+    "name": "qBraid-SDK",
+    "num_bounties": 0,
+    "num_open_bounties": 0,
+    "total_amount": 0,
+    "url": "https://github.com/qBraid/qBraid"
+  },
+  "qbraid-qir": {
+    "amount_available": 0,
+    "bounties": [],
+    "emoji": "\ud83d\udc23 \ud83d\udef8",
+    "name": "qBraid-QIR",
+    "num_bounties": 0,
+    "num_open_bounties": 0,
+    "total_amount": 0,
+    "url": "https://github.com/qBraid/qbraid-qir"
+  },
+  "qiskit": {
+    "amount_available": 0,
+    "bounties": [],
+    "emoji": "\ud83c\udf10",
+    "name": "Qiskit",
+    "num_bounties": 0,
+    "num_open_bounties": 0,
+    "total_amount": 0,
+    "url": "https://github.com/Qiskit/qiskit/"
+  },
+  "qiskit-aer": {
+    "amount_available": 0,
+    "bounties": [],
+    "emoji": "\ud83c\udf10\ud83d\udca8",
+    "name": "Qiskit Aer",
+    "num_bounties": 0,
+    "num_open_bounties": 0,
+    "total_amount": 0,
+    "url": "https://github.com/Qiskit/qiskit-aer"
+  },
+  "qiskit-braket-provider": {
+    "amount_available": 0,
+    "bounties": [],
+    "emoji": "\u269b\ufe0f\ud83c\udf10",
+    "name": "Qiskit Provider for Amazon Braket",
+    "num_bounties": 0,
+    "num_open_bounties": 0,
+    "total_amount": 0,
+    "url": "https://github.com/qiskit-community/qiskit-braket-provider"
+  },
+  "qlasskit": {
+    "amount_available": 0,
+    "bounties": [],
+    "emoji": "\u2699\ufe0f",
+    "name": "qlasskit",
+    "num_bounties": 0,
+    "num_open_bounties": 0,
+    "total_amount": 0,
+    "url": "https://github.com/dakk/qlasskit"
+  },
+  "qrack": {
+    "amount_available": 0,
+    "bounties": [],
+    "emoji": "\ud83d\ude08",
+    "name": "Qrack",
+    "num_bounties": 0,
+    "num_open_bounties": 0,
+    "total_amount": 0,
+    "url": "https://github.com/unitaryfund/qrack"
+  },
+  "qsharp": {
+    "amount_available": 0,
+    "bounties": [],
+    "emoji": null,
+    "name": "Azure Quantum Development Kit",
+    "num_bounties": 0,
+    "num_open_bounties": 0,
+    "total_amount": 0,
+    "url": "https://github.com/microsoft/qsharp"
+  },
+  "qua-qsim": {
+    "amount_available": 0,
+    "bounties": [],
+    "emoji": "\u269b\ufe0f\ud83d\udc0d",
+    "name": "Quantum Machines QUA-to-Qiskit compiler & simulator",
+    "num_bounties": 0,
+    "num_open_bounties": 0,
+    "total_amount": 0,
+    "url": "https://github.com/qua-platform/qua-qsim"
+  },
+  "quantum-randomness-generator": {
+    "amount_available": 0,
+    "bounties": [],
+    "emoji": "\ud83e\uddd9\u200d\u2642\ufe0f",
+    "name": "AI-inspired Classification of Quantum Computers",
+    "num_bounties": 0,
+    "num_open_bounties": 0,
+    "total_amount": 0,
+    "url": "https://github.com/dorahacksglobal/quantum-randomness-generator"
+  },
+  "quantumtoolbox.jl": {
+    "amount_available": 0,
+    "bounties": [],
+    "emoji": null,
+    "name": "QuantumToolbox.jl",
+    "num_bounties": 0,
+    "num_open_bounties": 0,
+    "total_amount": 0,
+    "url": "https://github.com/albertomercurio/QuantumToolbox.jl"
+  },
+  "qublitz": {
+    "amount_available": 0,
+    "bounties": [],
+    "emoji": "\ud83d\udccd",
+    "name": "Qublitz",
+    "num_bounties": 0,
+    "num_open_bounties": 0,
+    "total_amount": 0,
+    "url": "https://github.com/mvwf/qublitz"
+  },
+  "qutip-tutorials": {
+    "amount_available": 0,
+    "bounties": [],
+    "emoji": null,
+    "name": "QuTiP Tutorials",
+    "num_bounties": 0,
+    "num_open_bounties": 0,
+    "total_amount": 0,
+    "url": "https://github.com/qutip/qutip-tutorials/"
+  },
+  "rustworkx": {
+    "amount_available": 0,
+    "bounties": [],
+    "emoji": "\u2699\ufe0f",
+    "name": "rustworkx",
+    "num_bounties": 0,
+    "num_open_bounties": 0,
+    "total_amount": 0,
+    "url": "https://github.com/Qiskit/rustworkx"
+  },
+  "scqubits": {
+    "amount_available": 0,
+    "bounties": [],
+    "emoji": "\ud83d\udce1",
+    "name": "scqubits",
+    "num_bounties": 0,
+    "num_open_bounties": 0,
+    "total_amount": 0,
+    "url": "https://github.com/scqubits/scqubits"
+  },
+  "tensorcircuit": {
+    "amount_available": 0,
+    "bounties": [],
+    "emoji": "\ud83d\ude80\ud83c\udf14",
+    "name": "TensorCircuit",
+    "num_bounties": 0,
+    "num_open_bounties": 0,
+    "total_amount": 0,
+    "url": "https://github.com/tencent-quantum-lab/tensorcircuit"
+  },
+  "toqito": {
+    "amount_available": 0,
+    "bounties": [],
+    "emoji": null,
+    "name": "toqito",
+    "num_bounties": 0,
+    "num_open_bounties": 0,
+    "total_amount": 0,
+    "url": "https://github.com/vprusso/toqito"
+  },
+  "torchquantum": {
+    "amount_available": 0,
+    "bounties": [],
+    "emoji": null,
+    "name": "TorchQuantum",
+    "num_bounties": 0,
+    "num_open_bounties": 0,
+    "total_amount": 0,
+    "url": "https://github.com/mit-han-lab/torchquantum"
   }
 }

@@ -10,11 +10,10 @@ tags:
   - Measurement-based quantum computing
   - Measurement calculus
   - python
-bounties:
-  - TBD
 ---
 
 Graphix is a measurement-based quantum computing (MBQC) software package, featuring
+
 - the measurement calculus framework with integrated graphical rewrite rules
 - circuit-to-pattern transpiler, graph-based deterministic pattern generator and manual pattern generation for flexible pattern construction
 - resource graph visualization tools based on causal flow, gflow, pauli flow and pattern correction sets
