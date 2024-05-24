@@ -12,7 +12,16 @@ tags:
   - react
   - benchmarking
 bounties:
-  - TBD
+  - issue_num: 918
+    value: 100
+  - issue_num: 880
+    value: 50
+  - issue_num: 851
+    value: 150
+  - issue_num: 119
+    value: 100
+  - issue_num: 878
+    value: 100
 ---
 There has been rapid progress in quantum computing, but it can be hard to track that progress. Researchers want to know how to compare against the state of the art and users want to know what tools best suit them.
 

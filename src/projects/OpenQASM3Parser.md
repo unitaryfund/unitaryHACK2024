@@ -11,7 +11,16 @@ tags:
   - OpenQASM
   - parser
 bounties:
-  - TBD
+  - issue_num: 626
+    value: 150
+  - issue_num: 618
+    value: 75
+  - issue_num: 619
+    value: 125
+  - issue_num: 624
+    value: 75
+  - issue_num: 625
+    value: 75
 ---
 
 `openqasm3_parser` provides a compiler front end for OpenQASM 3 language (OQ3).

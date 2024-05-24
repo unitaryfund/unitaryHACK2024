@@ -12,7 +12,14 @@ tags:
   - Quantum Applications
   - Python
 bounties:
-  - TBD
+  - issue_num: 28
+    value: 50
+  - issue_num: 34
+    value: 120
+  - issue_num: 36
+    value: 80
+  - issue_num: 41
+    value: 150
 ---
 # Classiq
 

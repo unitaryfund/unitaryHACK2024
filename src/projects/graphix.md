@@ -11,7 +11,16 @@ tags:
   - Measurement calculus
   - python
 bounties:
-  - TBD
+  - issue_num: 48
+    value: 130
+  - issue_num: 70
+    value: 100
+  - issue_num: 136
+    value: 100
+  - issue_num: 101
+    value: 40
+  - issue_num: 137
+    value: 40
 ---
 
 Graphix is a measurement-based quantum computing (MBQC) software package, featuring

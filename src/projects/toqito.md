@@ -12,7 +12,18 @@ tags:
   - semidefinite-programming
   - quantum-information-theory
 bounties:
-  - TBD
+  - issue_num: 519
+    value: 80
+  - issue_num: 554
+    value: 100
+  - issue_num: 518
+    value: 80
+  - issue_num: 168
+    value: 80
+  - issue_num: 431
+    value: 80
+  - issue_num: 401
+    value: 80
 ---
 
 (Theory of Quantum Information Toolkit)

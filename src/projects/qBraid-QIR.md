@@ -12,7 +12,16 @@ tags:
   - Cirq
   - OpenQASM
 bounties:
-  - TBD
+  - issue_num: 626
+    value: 150
+  - issue_num: 618
+    value: 75
+  - issue_num: 619
+    value: 125
+  - issue_num: 624
+    value: 75
+  - issue_num: 625
+    value: 75
 ---
 
 Python package for generating [QIR](https://www.qir-alliance.org/) (Quantum Intermediate Representation) programs from high-level quantum programming languages. Currently supports conversions for Cirq and OpenQASM 3. This project aims to make QIR representations accessible via the [qBraid-SDK transpiler](https://github.com/qBraid/qBraid), and by doing so, open the door to language-specific conversions from any and all high-level quantum languages [supported](https://docs.qbraid.com/en/latest/sdk/overview.html#supported-frontends) by `qbraid`. See QIR Alliance: [why do we need it?](https://www.qir-alliance.org/qir-book/concepts/why-do-we-need.html). This project was conceived in collaboration with [QOSF](https://qosf.org/) (Quantum Open Source Foundation).

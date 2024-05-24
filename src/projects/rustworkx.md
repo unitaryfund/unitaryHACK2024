@@ -10,7 +10,14 @@ tags:
   - rust
   - graph theory
 bounties:
-  - TBD
+  - issue_num: 318
+    value: 75
+  - issue_num: 319
+    value: 75
+  - issue_num: 320
+    value: 100
+  - issue_num: 321
+    value: 200
 ---
 
 A high-performance, general-purpose graph library for Python, written in Rust. You can see the full rendered docs at: https://www.rustworkx.org/
