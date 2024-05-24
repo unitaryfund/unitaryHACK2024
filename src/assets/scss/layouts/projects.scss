@@ -67,6 +67,18 @@
   margin-right: 8px;
 }
 
+.bounty-right {
+  float: right;
+  font-size: 0.7em;
+  font-weight: 400;
+}
+
+.completion-emoji {
+  margin: 8px;
+  vertical-align: middle;
+  font-size: var(--font-size-emoji);
+}
+
 img[alt=Dev] {
   width: 80px;
 }
