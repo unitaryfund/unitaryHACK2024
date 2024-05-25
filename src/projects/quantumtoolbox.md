@@ -10,7 +10,14 @@ tags:
   - optics
   - julia
 bounties:
-  - TBD
+  - issue_num: 81
+    value: 125
+  - issue_num: 82
+    value: 125
+  - issue_num: 84
+    value: 125
+  - issue_num: 95
+    value: 125
 ---
 
 # QuantumToolbox
