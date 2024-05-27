@@ -12,7 +12,19 @@ tags:
   - Python
   - C++
 bounties:
-  - TBD
+  - issue_num: 1638
+    value: 100
+  - issue_num: 1624
+    value: 100
+  - issue_num: 1616
+    value: 100
+  - issue_num: 1589
+    value: 75
+  - issue_num: 1642
+    value: 75
+  - issue_num: 1639
+    value: 50
+    
 ---
 
 To do algorithm research and build applications for future quantum advantages, a bridging technology is needed to enable dynamic workflows across disparate system architectures. 
