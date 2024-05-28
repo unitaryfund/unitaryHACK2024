@@ -163,13 +163,35 @@
     "url": "https://github.com/amazon-braket/autoqasm"
   },
   "bloqade-python": {
-    "amount_available": 0,
-    "bounties": [],
+    "amount_available": 420,
+    "bounties": [
+      {
+        "assignees": [],
+        "state": "open",
+        "title": "improve docstrings",
+        "url": "https://github.com/QuEraComputing/bloqade-python/issues/957",
+        "value": 200
+      },
+      {
+        "assignees": [],
+        "state": "open",
+        "title": "add more plots and explaination in line with whitepaper in tutorial examples",
+        "url": "https://github.com/QuEraComputing/bloqade-python/issues/876",
+        "value": 200
+      },
+      {
+        "assignees": [],
+        "state": "open",
+        "title": "Improve documentation on Batch tasks. ",
+        "url": "https://github.com/QuEraComputing/bloqade-python/issues/741",
+        "value": 20
+      }
+    ],
     "emoji": "\u269b\ufe0f",
     "name": "bloqade-python",
-    "num_bounties": 0,
-    "num_open_bounties": 0,
-    "total_amount": 0,
+    "num_bounties": 3,
+    "num_open_bounties": 3,
+    "total_amount": 420,
     "url": "https://github.com/QuEraComputing/bloqade-python"
   },
   "bqskit": {
@@ -430,23 +452,102 @@
     "url": "https://github.com/Classiq/classiq-library"
   },
   "cuda-quantum": {
-    "amount_available": 0,
-    "bounties": [],
+    "amount_available": 500,
+    "bounties": [
+      {
+        "assignees": [],
+        "state": "open",
+        "title": "Enable emitting circuit diagrams for unitary quantum kernels in LaTeX",
+        "url": "https://github.com/NVIDIA/cuda-quantum/issues/1638",
+        "value": 100
+      },
+      {
+        "assignees": [],
+        "state": "open",
+        "title": "Organize Documentation Examples ",
+        "url": "https://github.com/NVIDIA/cuda-quantum/issues/1624",
+        "value": 100
+      },
+      {
+        "assignees": [],
+        "state": "open",
+        "title": "State Preparation Circuit Synthesis via Matrix Product State Decomposition",
+        "url": "https://github.com/NVIDIA/cuda-quantum/issues/1616",
+        "value": 100
+      },
+      {
+        "assignees": [],
+        "state": "open",
+        "title": "Dynamic support of QPU topologies for the mapping pass",
+        "url": "https://github.com/NVIDIA/cuda-quantum/issues/1589",
+        "value": 75
+      },
+      {
+        "assignees": [],
+        "state": "open",
+        "title": "Readout Error Mitigation",
+        "url": "https://github.com/NVIDIA/cuda-quantum/issues/1642",
+        "value": 75
+      },
+      {
+        "assignees": [],
+        "state": "open",
+        "title": "Bloch sphere visualization for single-qubit operations",
+        "url": "https://github.com/NVIDIA/cuda-quantum/issues/1639",
+        "value": 50
+      }
+    ],
     "emoji": "\ud83c\udfce\ufe0f",
     "name": "CUDA-Q",
-    "num_bounties": 0,
-    "num_open_bounties": 0,
-    "total_amount": 0,
+    "num_bounties": 6,
+    "num_open_bounties": 6,
+    "total_amount": 500,
     "url": "https://github.com/NVIDIA/cuda-quantum"
   },
   "fusion-blossom": {
-    "amount_available": 0,
-    "bounties": [],
+    "amount_available": 500,
+    "bounties": [
+      {
+        "assignees": [],
+        "state": "open",
+        "title": "understanding the accuracy implication of `max_tree_size`",
+        "url": "https://github.com/yuewuo/fusion-blossom/issues/31",
+        "value": 50
+      },
+      {
+        "assignees": [],
+        "state": "open",
+        "title": "optimize dual module with priority queue",
+        "url": "https://github.com/yuewuo/fusion-blossom/issues/32",
+        "value": 150
+      },
+      {
+        "assignees": [],
+        "state": "open",
+        "title": "Better visualization tool that supports Jupyter notebook",
+        "url": "https://github.com/yuewuo/fusion-blossom/issues/33",
+        "value": 150
+      },
+      {
+        "assignees": [],
+        "state": "open",
+        "title": "documentation of configuring parallel parameters",
+        "url": "https://github.com/yuewuo/fusion-blossom/issues/34",
+        "value": 100
+      },
+      {
+        "assignees": [],
+        "state": "open",
+        "title": "Rust programming: fix build error in latest rust compiler",
+        "url": "https://github.com/yuewuo/fusion-blossom/issues/36",
+        "value": 50
+      }
+    ],
     "emoji": "\ud83e\udd80\ud83d\udc0d",
     "name": "Fusion Blossom",
-    "num_bounties": 0,
-    "num_open_bounties": 0,
-    "total_amount": 0,
+    "num_bounties": 5,
+    "num_open_bounties": 5,
+    "total_amount": 500,
     "url": "https://github.com/yuewuo/fusion-blossom"
   },
   "graphix": {
@@ -843,13 +944,35 @@
     "url": "https://github.com/PennyLaneAI/pennylane"
   },
   "perceval": {
-    "amount_available": 0,
-    "bounties": [],
+    "amount_available": 500,
+    "bounties": [
+      {
+        "assignees": [],
+        "state": "open",
+        "title": "QASM to linear optics circuit converter",
+        "url": "https://github.com/Quandela/Perceval/issues/399",
+        "value": 200
+      },
+      {
+        "assignees": [],
+        "state": "open",
+        "title": "Create a Perceval - PennyLane plugin",
+        "url": "https://github.com/Quandela/Perceval/issues/400",
+        "value": 200
+      },
+      {
+        "assignees": [],
+        "state": "open",
+        "title": "Heralds out of their box",
+        "url": "https://github.com/Quandela/Perceval/issues/207",
+        "value": 100
+      }
+    ],
     "emoji": null,
     "name": "Perceval",
-    "num_bounties": 0,
-    "num_open_bounties": 0,
-    "total_amount": 0,
+    "num_bounties": 3,
+    "num_open_bounties": 3,
+    "total_amount": 500,
     "url": "https://github.com/Quandela/Perceval"
   },
   "piccolo.jl": {
@@ -916,7 +1039,7 @@
     "url": "https://github.com/hongyehu/PyClifford"
   },
   "qadence": {
-    "amount_available": 450,
+    "amount_available": 500,
     "bounties": [
       {
         "assignees": [],
@@ -944,7 +1067,7 @@
         "state": "open",
         "title": "[Feature] Add checkpoint_best_only in train_grad",
         "url": "https://github.com/pasqal-io/qadence/issues/214",
-        "value": 100
+        "value": 150
       },
       {
         "assignees": [
@@ -960,7 +1083,7 @@
     "name": "Qadence",
     "num_bounties": 5,
     "num_open_bounties": 5,
-    "total_amount": 450,
+    "total_amount": 500,
     "url": "https://github.com/pasqal-io/qadence"
   },
   "qbraid": {
@@ -1145,9 +1268,9 @@
     "bounties": [
       {
         "assignees": [
-          "s-aldaihan",
+          "ruijterj",
           "rum1887",
-          "ruijterj"
+          "s-aldaihan"
         ],
         "state": "open",
         "title": "Support noise models",
@@ -1269,13 +1392,42 @@
     "url": "https://github.com/qosf/qosf.org"
   },
   "qrack": {
-    "amount_available": 0,
-    "bounties": [],
+    "amount_available": 375,
+    "bounties": [
+      {
+        "assignees": [],
+        "state": "open",
+        "title": "Extend `ZMask()` to `PhaseRootNMask()`",
+        "url": "https://github.com/unitaryfund/qrack/issues/876",
+        "value": 125
+      },
+      {
+        "assignees": [],
+        "state": "open",
+        "title": "Dividend-and-remainder unitary division",
+        "url": "https://github.com/unitaryfund/qrack/issues/1003",
+        "value": 125
+      },
+      {
+        "assignees": [],
+        "state": "open",
+        "title": "Generalize expectation value and variance to all model moments",
+        "url": "https://github.com/unitaryfund/qrack/issues/1008",
+        "value": 125
+      },
+      {
+        "assignees": [],
+        "state": "closed",
+        "title": "ADC/SBC superposed",
+        "url": "https://github.com/unitaryfund/qrack/issues/23",
+        "value": 125
+      }
+    ],
     "emoji": "\ud83d\ude08",
     "name": "Qrack",
-    "num_bounties": 0,
-    "num_open_bounties": 0,
-    "total_amount": 0,
+    "num_bounties": 4,
+    "num_open_bounties": 3,
+    "total_amount": 500,
     "url": "https://github.com/unitaryfund/qrack"
   },
   "qsharp": {
@@ -1332,13 +1484,56 @@
     "url": "https://github.com/microsoft/qsharp"
   },
   "qua-qsim": {
-    "amount_available": 0,
-    "bounties": [],
+    "amount_available": 500,
+    "bounties": [
+      {
+        "assignees": [],
+        "state": "open",
+        "title": "Add resonator that can be coupled to a transmon",
+        "url": "https://github.com/qua-platform/qua-qsim/issues/1",
+        "value": 50
+      },
+      {
+        "assignees": [],
+        "state": "open",
+        "title": "Add flux-tunable transmon",
+        "url": "https://github.com/qua-platform/qua-qsim/issues/2",
+        "value": 75
+      },
+      {
+        "assignees": [],
+        "state": "open",
+        "title": "Add decoherence (T1 and T2)",
+        "url": "https://github.com/qua-platform/qua-qsim/issues/3",
+        "value": 75
+      },
+      {
+        "assignees": [],
+        "state": "open",
+        "title": "Create frontend interface",
+        "url": "https://github.com/qua-platform/qua-qsim/issues/4",
+        "value": 100
+      },
+      {
+        "assignees": [],
+        "state": "open",
+        "title": "Live conversion from QUA to Qiskit simulations",
+        "url": "https://github.com/qua-platform/qua-qsim/issues/5",
+        "value": 100
+      },
+      {
+        "assignees": [],
+        "state": "open",
+        "title": "Selecting schedules and slice measurements in multidimensional QUA programs",
+        "url": "https://github.com/qua-platform/qua-qsim/issues/6",
+        "value": 100
+      }
+    ],
     "emoji": "\u269b\ufe0f\ud83d\udc0d",
     "name": "Quantum Machines QUA-to-Qiskit compiler & simulator",
-    "num_bounties": 0,
-    "num_open_bounties": 0,
-    "total_amount": 0,
+    "num_bounties": 6,
+    "num_open_bounties": 6,
+    "total_amount": 500,
     "url": "https://github.com/qua-platform/qua-qsim"
   },
   "quantum-randomness-generator": {
@@ -1598,23 +1793,110 @@
     "url": "https://github.com/scqubits/scqubits"
   },
   "tangelo": {
-    "amount_available": 0,
-    "bounties": [],
+    "amount_available": 330,
+    "bounties": [
+      {
+        "assignees": [
+          "ValentinS4t1qbit",
+          "alexfleury-sb"
+        ],
+        "state": "open",
+        "title": "Incompatibility with PySCF >= 2.5.0",
+        "url": "https://github.com/goodchemistryco/Tangelo/issues/383",
+        "value": 50
+      },
+      {
+        "assignees": [
+          "ValentinS4t1qbit",
+          "alexfleury-sb"
+        ],
+        "state": "open",
+        "title": "Circuit as reference state in the ansatz definition",
+        "url": "https://github.com/goodchemistryco/Tangelo/issues/384",
+        "value": 60
+      },
+      {
+        "assignees": [
+          "ValentinS4t1qbit",
+          "alexfleury-sb"
+        ],
+        "state": "open",
+        "title": "Automatic documentation deployment",
+        "url": "https://github.com/goodchemistryco/Tangelo/issues/385",
+        "value": 70
+      },
+      {
+        "assignees": [
+          "ValentinS4t1qbit"
+        ],
+        "state": "open",
+        "title": "Augment the Rotosolve optimizer to support Rotoselect",
+        "url": "https://github.com/goodchemistryco/Tangelo/issues/386",
+        "value": 70
+      },
+      {
+        "assignees": [
+          "ValentinS4t1qbit"
+        ],
+        "state": "open",
+        "title": "Support for multi-controlled rotation (RX, RY, RZ) gates for qiskit backend",
+        "url": "https://github.com/goodchemistryco/Tangelo/issues/387",
+        "value": 40
+      },
+      {
+        "assignees": [
+          "ValentinS4t1qbit"
+        ],
+        "state": "open",
+        "title": "[BUG] `Circuit.draw()` returns an error when gate parameter is a string",
+        "url": "https://github.com/goodchemistryco/Tangelo/issues/388",
+        "value": 40
+      }
+    ],
     "emoji": null,
     "name": "Tangelo",
-    "num_bounties": 0,
-    "num_open_bounties": 0,
-    "total_amount": 0,
+    "num_bounties": 6,
+    "num_open_bounties": 6,
+    "total_amount": 330,
     "url": "https://github.com/goodchemistryco/Tangelo"
   },
   "tensorcircuit": {
-    "amount_available": 0,
-    "bounties": [],
+    "amount_available": 500,
+    "bounties": [
+      {
+        "assignees": [],
+        "state": "open",
+        "title": "Add examples benchmarking different contractor settings provided by cotengra",
+        "url": "https://github.com/tencent-quantum-lab/tensorcircuit/issues/212",
+        "value": 100
+      },
+      {
+        "assignees": [],
+        "state": "open",
+        "title": "Stabilizer simulation example utilizing stim backend",
+        "url": "https://github.com/tencent-quantum-lab/tensorcircuit/issues/211",
+        "value": 150
+      },
+      {
+        "assignees": [],
+        "state": "open",
+        "title": "Backend agnostic implementation of quantum Hamiltonian generation",
+        "url": "https://github.com/tencent-quantum-lab/tensorcircuit/issues/161",
+        "value": 150
+      },
+      {
+        "assignees": [],
+        "state": "open",
+        "title": "SPSA optimization example",
+        "url": "https://github.com/tencent-quantum-lab/tensorcircuit/issues/73",
+        "value": 100
+      }
+    ],
     "emoji": "\ud83d\ude80\ud83c\udf14",
     "name": "TensorCircuit",
-    "num_bounties": 0,
-    "num_open_bounties": 0,
-    "total_amount": 0,
+    "num_bounties": 4,
+    "num_open_bounties": 4,
+    "total_amount": 500,
     "url": "https://github.com/tencent-quantum-lab/tensorcircuit"
   },
   "toqito": {
