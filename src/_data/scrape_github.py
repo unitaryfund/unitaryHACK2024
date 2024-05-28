@@ -39,7 +39,10 @@ for project in get_project_info():
         repo = g.get_repo(repo_key)
 
         issue_num = bounty["issue_num"]
-        issue = repo.get_issue(number=issue_num)
+        try:
+            issue = repo.get_issue(number=issue_num)
+        except:
+            print(project_url, issue_num)
         state = bounty.get("state") or issue.state
         if state == "open":
             amount_available += bounty["value"]

@@ -9,6 +9,15 @@ tags:
   - qiskit
   - rust
   - graph theory
+bounties:
+  - issue_num: 774
+    value: 75
+  - issue_num: 750
+    value: 75
+  - issue_num: 804
+    value: 100
+  - issue_num: 803
+    value: 200
 ---
 
 A high-performance, general-purpose graph library for Python, written in Rust. You can see the full rendered docs at: https://www.rustworkx.org/

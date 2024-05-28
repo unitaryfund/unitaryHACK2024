@@ -1,7 +1,7 @@
 ---
 title: "QuantumToolbox.jl"
 emoji:
-project_url: https://github.com/albertomercurio/QuantumToolbox.jl
+project_url: https://github.com/qutip/QuantumToolbox.jl
 metaDescription: Julia Package for Quantum Optics and Quantum Physics
 date: 2024-04-01
 summary: Julia Package for Quantum Optics and Quantum Physics
@@ -9,6 +9,15 @@ tags:
   - lindblad
   - optics
   - julia
+bounties:
+  - issue_num: 81
+    value: 125
+  - issue_num: 82
+    value: 125
+  - issue_num: 84
+    value: 125
+  - issue_num: 95
+    value: 125
 ---
 
 # QuantumToolbox

@@ -7,6 +7,17 @@ date: 2024-04-01
 summary: A multi-backend python library for quantum optimisation using QAOA on Quantum computers and Quantum computer simulators.
 tags:
   - optimization
+bounties:
+  - issue_num: 307
+    value: 70
+  - issue_num: 308
+    value: 70
+  - issue_num: 304
+    value: 120
+  - issue_num: 306
+    value: 100
+  - issue_num: 305
+    value: 140
 ---
 
 **OpenQAOA** is a python library that allows implementing the Quantum Approximate Optimisation Algorithm on a variety of backends. Effectively, the package allows to solve optimisation problems using quantum computers and simulators.

@@ -9,6 +9,17 @@ tags:
   - Classical Simulation
   - Quantum Machine Learning
   - Variational Quantum Algorithms
+bounties:
+  - issue_num: 260
+    value: 100
+  - issue_num: 261
+    value: 100
+  - issue_num: 262
+    value: 100
+  - issue_num: 263
+    value: 100
+  - issue_num: 264
+    value: 100
 ---
 
 #### What it is doing

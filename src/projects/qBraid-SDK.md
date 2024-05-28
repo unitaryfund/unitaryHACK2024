@@ -11,6 +11,17 @@ tags:
   - Transpiler
   - Provider
   - Runtime
+bounties:
+  - issue_num: 626
+    value: 150
+  - issue_num: 618
+    value: 75
+  - issue_num: 619
+    value: 125
+  - issue_num: 624
+    value: 75
+  - issue_num: 625
+    value: 75
 ---
 
 The [qBraid-SDK](https://github.com/qBraid/qBraid) is a platform-agnostic quantum runtime framework designed for both quantum software and hardware providers.

@@ -12,6 +12,17 @@ tags:
   - c++
   - gpu
   - cuda
+bounties:
+  - issue_num: 2112
+    value: 200
+  - issue_num: 2116
+    value: 100
+  - issue_num: 2113
+    value: 70
+  - issue_num: 2117
+    value: 70
+  - issue_num: 2114
+    value: 60
 ---
 
 Aer provides interfaces to run Qiskit quantum circuits with or without noise using multiple different simulation methods. Aer supports leveraging MPI and running on GPUs to improve the performance of simulation.

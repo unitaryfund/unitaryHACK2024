@@ -10,6 +10,13 @@ tags:
   - rust
   - OpenQASM
   - parser
+bounties:
+  - issue_num: 163
+    value: 100
+  - issue_num: 170
+    value: 100
+  - issue_num: 195
+    value: 100
 ---
 
 `openqasm3_parser` provides a compiler front end for OpenQASM 3 language (OQ3).

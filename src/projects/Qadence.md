@@ -8,6 +8,17 @@ summary: Qadence is a Python package that provides a simple interface to build d
 tags:
   - Digital Analog
   - Differentiability
+bounties:
+  - issue_num: 370
+    value: 100
+  - issue_num: 368
+    value: 100
+  - issue_num: 268
+    value: 50
+  - issue_num: 214
+    value: 100
+  - issue_num: 40
+    value: 100
 ---
 
 ## Feature highlights
