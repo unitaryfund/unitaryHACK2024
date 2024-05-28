@@ -1,5 +1,6 @@
 ---
 title: Quantum Machines QUA-to-Qiskit compiler & simulator
+id: qua-qsim
 emoji: ⚛️🐍
 project_url: https://github.com/qua-platform/qua-qsim
 metaDescription: Transforming QUA into Qiskit to simulate quantum programs without hardware constraints.

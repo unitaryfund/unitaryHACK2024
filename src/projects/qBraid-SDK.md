@@ -1,5 +1,6 @@
 ---
 title: qBraid-SDK
+id: qbraid
 emoji: 🏃‍♂️⏱️
 project_url: https://github.com/qBraid/qBraid
 metaDescription: Platform-agnostic quantum runtime framework designed for both quantum software and hardware providers.

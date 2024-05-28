@@ -1,5 +1,6 @@
 ---
 title: BraketSimulator.jl
+permalink: projects/BraketSimulator-jl
 emoji: ⚛️📶
 project_url: https://github.com/amazon-braket/BraketSimulator.jl
 metaDescription: A quantum circuit simulator written in the Julia programming language, meant to be compatible with the Amazon Braket SDK

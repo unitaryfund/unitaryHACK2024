@@ -1,5 +1,6 @@
 ---
 title: CUDA-Q
+id: cuda-quantum
 emoji: 🏎️
 project_url: https://github.com/NVIDIA/cuda-quantum
 metaDescription: A high-performance platform for hybrid quantum-classical computing

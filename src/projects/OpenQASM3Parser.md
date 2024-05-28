@@ -1,5 +1,6 @@
 ---
 title: OpenQASM 3 Parser
+id: openqasm3_parser
 emoji: 🌐🦀
 project_url: https://github.com/Qiskit/openqasm3_parser/
 metaDescription: Parser and semantic analyzer for the OpenQASM 3.0 language, used by Qiskit
