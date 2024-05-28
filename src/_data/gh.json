@@ -1218,7 +1218,7 @@
     "url": "https://github.com/Qiskit/qiskit/"
   },
   "qiskit-aer": {
-    "amount_available": 430,
+    "amount_available": 500,
     "bounties": [
       {
         "assignees": [],
@@ -1243,9 +1243,9 @@
       },
       {
         "assignees": [],
-        "state": "closed",
-        "title": "Minor issue in EstimatorV2 __init__ - can't specify method in options",
-        "url": "https://github.com/Qiskit/qiskit-aer/issues/2117",
+        "state": "open",
+        "title": "Improve stability of MPI parallel simulations",
+        "url": "https://github.com/Qiskit/qiskit-aer/issues/2115",
         "value": 70
       },
       {
@@ -1259,7 +1259,7 @@
     "emoji": "\ud83c\udf10\ud83d\udca8",
     "name": "Qiskit Aer",
     "num_bounties": 5,
-    "num_open_bounties": 4,
+    "num_open_bounties": 5,
     "total_amount": 500,
     "url": "https://github.com/Qiskit/qiskit-aer"
   },
@@ -1268,9 +1268,9 @@
     "bounties": [
       {
         "assignees": [
-          "ruijterj",
+          "s-aldaihan",
           "rum1887",
-          "s-aldaihan"
+          "ruijterj"
         ],
         "state": "open",
         "title": "Support noise models",
@@ -1346,7 +1346,7 @@
     "url": "https://github.com/dakk/qlasskit"
   },
   "qosf.org": {
-    "amount_available": 190,
+    "amount_available": 250,
     "bounties": [
       {
         "assignees": [],
@@ -1378,21 +1378,21 @@
       },
       {
         "assignees": [],
-        "state": "closed",
-        "title": "Update relevant info",
-        "url": "https://github.com/qosf/qosf.org/issues/63",
+        "state": "open",
+        "title": "Design a  monthly challenge",
+        "url": "https://github.com/qosf/monthly-challenges/issues/63",
         "value": 60
       }
     ],
     "emoji": "\ud83d\udd35\u26aa",
     "name": "Quantum Open Source Foundation (QOSF)",
     "num_bounties": 5,
-    "num_open_bounties": 4,
+    "num_open_bounties": 5,
     "total_amount": 250,
     "url": "https://github.com/qosf/qosf.org"
   },
   "qrack": {
-    "amount_available": 375,
+    "amount_available": 500,
     "bounties": [
       {
         "assignees": [],
@@ -1417,16 +1417,16 @@
       },
       {
         "assignees": [],
-        "state": "closed",
-        "title": "ADC/SBC superposed",
-        "url": "https://github.com/unitaryfund/qrack/issues/23",
+        "state": "open",
+        "title": "CI publishing pipeline",
+        "url": "https://github.com/unitaryfund/pyqrack/issues/23",
         "value": 125
       }
     ],
     "emoji": "\ud83d\ude08",
     "name": "Qrack",
     "num_bounties": 4,
-    "num_open_bounties": 3,
+    "num_open_bounties": 4,
     "total_amount": 500,
     "url": "https://github.com/unitaryfund/qrack"
   },
@@ -1797,8 +1797,8 @@
     "bounties": [
       {
         "assignees": [
-          "ValentinS4t1qbit",
-          "alexfleury-sb"
+          "alexfleury-sb",
+          "ValentinS4t1qbit"
         ],
         "state": "open",
         "title": "Incompatibility with PySCF >= 2.5.0",
@@ -1807,8 +1807,8 @@
       },
       {
         "assignees": [
-          "ValentinS4t1qbit",
-          "alexfleury-sb"
+          "alexfleury-sb",
+          "ValentinS4t1qbit"
         ],
         "state": "open",
         "title": "Circuit as reference state in the ansatz definition",
@@ -1817,8 +1817,8 @@
       },
       {
         "assignees": [
-          "ValentinS4t1qbit",
-          "alexfleury-sb"
+          "alexfleury-sb",
+          "ValentinS4t1qbit"
         ],
         "state": "open",
         "title": "Automatic documentation deployment",

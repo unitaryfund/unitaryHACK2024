@@ -19,7 +19,7 @@ bounties:
     value: 100
   - issue_num: 2113
     value: 70
-  - issue_num: 2117
+  - issue_num: 2115
     value: 70
   - issue_num: 2114
     value: 60
