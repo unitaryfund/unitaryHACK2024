@@ -16,7 +16,7 @@ bounties:
   - issue_num: 268
     value: 50
   - issue_num: 214
-    value: 100
+    value: 150
   - issue_num: 40
     value: 100
 ---
