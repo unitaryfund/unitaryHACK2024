@@ -1,5 +1,6 @@
 ---
 title: Amazon Braket Default Simulator
+id: amazon-braket-default-simulator-python
 emoji: ⚛️📊
 project_url: https://github.com/amazon-braket/amazon-braket-default-simulator-python
 metaDescription: Provides an implementation of quantum simulators that can run locally, meant to be compatible with the Amazon Braket SDK
