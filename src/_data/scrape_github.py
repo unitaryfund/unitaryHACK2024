@@ -5,7 +5,7 @@ import re
 import frontmatter
 import github
 
-g = github.Github(os.getenv("GITHUB_TOKEN"))
+g = github.Github(os.getenv("GH_TOKEN"))
 
 PROJECT_PATH = "../projects"
 
@@ -39,10 +39,7 @@ for project in get_project_info():
         repo = g.get_repo(repo_key)
 
         issue_num = bounty["issue_num"]
-        try:
-            issue = repo.get_issue(number=issue_num)
-        except:
-            print(project_url, issue_num)
+        issue = repo.get_issue(number=issue_num)
         state = bounty.get("state") or issue.state
         if state == "open":
             amount_available += bounty["value"]
