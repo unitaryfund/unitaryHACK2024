@@ -1,6 +1,6 @@
 ---
 title: Tangelo
-emoji: 
+emoji: 🍊
 project_url: https://github.com/goodchemistryco/Tangelo
 metaDescription: SandboxAQ's python package to explore chemistry workflows on quantum computers
 date: 2024-05-27
