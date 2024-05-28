@@ -14,6 +14,19 @@ tags:
   - FastAPI
   - Transmons
   - Quantum simulation
+bounties:
+  - issue_num: 1
+    value: 50
+  - issue_num: 2
+    value: 75
+  - issue_num: 3
+    value: 75
+  - issue_num: 4
+    value: 100
+  - issue_num: 5
+    value: 100
+  - issue_num: 6
+    value: 100
 ---
 
 Unlock the full potential of quantum computing with our cutting-edge project that converts QUA, QM's hardware programming language, into a Qiskit Pulse representation. This advancement allows developers to directly simulate quantum-control programs on virtual qubit systems, bypassing the need for physical quantum hardware. This enhanced capability not only accelerates the development and testing of quantum applications but also deepens user understanding and intuition of QUA, Qiskit, and the broader field of quantum computing.
