@@ -842,6 +842,16 @@
     "total_amount": 500,
     "url": "https://github.com/PennyLaneAI/pennylane"
   },
+  "perceval": {
+    "amount_available": 0,
+    "bounties": [],
+    "emoji": null,
+    "name": "Perceval",
+    "num_bounties": 0,
+    "num_open_bounties": 0,
+    "total_amount": 0,
+    "url": "https://github.com/Quandela/Perceval"
+  },
   "piccolo.jl": {
     "amount_available": 500,
     "bounties": [
@@ -1135,9 +1145,9 @@
     "bounties": [
       {
         "assignees": [
-          "ruijterj",
           "s-aldaihan",
-          "rum1887"
+          "rum1887",
+          "ruijterj"
         ],
         "state": "open",
         "title": "Support noise models",
@@ -1211,6 +1221,52 @@
     "num_open_bounties": 5,
     "total_amount": 425,
     "url": "https://github.com/dakk/qlasskit"
+  },
+  "qosf.org": {
+    "amount_available": 190,
+    "bounties": [
+      {
+        "assignees": [],
+        "state": "open",
+        "title": "Infographic of the main quantum open source projects.",
+        "url": "https://github.com/qosf/qosf.org/issues/93",
+        "value": 50
+      },
+      {
+        "assignees": [],
+        "state": "open",
+        "title": "Create an initial framework for an Autograder for the monthly challenges. ",
+        "url": "https://github.com/qosf/qosf.org/issues/94",
+        "value": 80
+      },
+      {
+        "assignees": [],
+        "state": "open",
+        "title": "Automate the list of contributors",
+        "url": "https://github.com/qosf/qosf.org/issues/28",
+        "value": 30
+      },
+      {
+        "assignees": [],
+        "state": "open",
+        "title": "Current status of QOSF website",
+        "url": "https://github.com/qosf/qosf.org/issues/89",
+        "value": 30
+      },
+      {
+        "assignees": [],
+        "state": "closed",
+        "title": "Update relevant info",
+        "url": "https://github.com/qosf/qosf.org/issues/63",
+        "value": 60
+      }
+    ],
+    "emoji": "\ud83d\udd35\u26aa",
+    "name": "Quantum Open Source Foundation (QOSF)",
+    "num_bounties": 5,
+    "num_open_bounties": 4,
+    "total_amount": 250,
+    "url": "https://github.com/qosf/qosf.org"
   },
   "qrack": {
     "amount_available": 0,
@@ -1301,8 +1357,8 @@
       {
         "assignees": [],
         "state": "open",
-        "title": "Building a Quantum Computer  [unitaryhack] ",
-        "url": "https://github.com/Quantum-Universal-Education/Quantum-Universal-Education.github.io/issues/16",
+        "title": "Quantum Software and Games  [unitaryhack]",
+        "url": "https://github.com/Quantum-Universal-Education/Quantum-Universal-Education.github.io/issues/24",
         "value": 50
       },
       {
@@ -1315,12 +1371,12 @@
       {
         "assignees": [],
         "state": "open",
-        "title": "Quantum Software and Games  [unitaryhack]",
-        "url": "https://github.com/Quantum-Universal-Education/Quantum-Universal-Education.github.io/issues/24",
+        "title": "Building a Quantum Computer  [unitaryhack] ",
+        "url": "https://github.com/Quantum-Universal-Education/Quantum-Universal-Education.github.io/issues/16",
         "value": 50
       }
     ],
-    "emoji": "\ud83d\udc31\ud83c\udf10",
+    "emoji": null,
     "name": "Quantum Universal Education",
     "num_bounties": 3,
     "num_open_bounties": 3,
@@ -1540,6 +1596,16 @@
     "num_open_bounties": 5,
     "total_amount": 500,
     "url": "https://github.com/scqubits/scqubits"
+  },
+  "tangelo": {
+    "amount_available": 0,
+    "bounties": [],
+    "emoji": null,
+    "name": "Tangelo",
+    "num_bounties": 0,
+    "num_open_bounties": 0,
+    "total_amount": 0,
+    "url": "https://github.com/goodchemistryco/Tangelo"
   },
   "tensorcircuit": {
     "amount_available": 0,
