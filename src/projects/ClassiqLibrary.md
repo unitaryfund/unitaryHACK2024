@@ -12,13 +12,24 @@ tags:
   - Quantum Applications
   - Python
 bounties:
-  - TBD
+  - issue_num: 28
+    value: 50
+  - issue_num: 34
+    value: 120
+  - issue_num: 36
+    value: 80
+  - issue_num: 37
+    value: 100
+  - issue_num: 41
+    value: 150
 ---
+
 # Classiq
 
 Your entry-point for creating & running quantum programs.
 
-The [Classiq Library](https://github.com/Classiq/classiq-library)holds a wide collection of quantum functions, algorithms, applications and tutorials built with Classiq. In this project we welcome you to expand the library with your own algorithms and applications. 
+The [Classiq Library](https://github.com/Classiq/classiq-library)holds a wide collection of quantum functions, algorithms, applications and tutorials built with Classiq. In this project we welcome you to expand the library with your own algorithms and applications.
+
 <hr> <br>
 <p align="center">
    &emsp;
@@ -34,6 +45,7 @@ The [Classiq Library](https://github.com/Classiq/classiq-library)holds a wide co
 <hr>
 
 # Installation
+
 Working with Classiq's latest GUI requires no installations!
 
 Just head over to [Classiq's platform](https://platform.classiq.io/) and follow the examples below over there :)

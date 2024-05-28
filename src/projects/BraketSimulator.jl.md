@@ -10,7 +10,16 @@ tags:
   - Julia
   - Simulator
 bounties:
-  - TBD
+  - issue_num: 13
+    value: 140
+  - issue_num: 14
+    value: 80
+  - issue_num: 15
+    value: 120
+  - issue_num: 16
+    value: 80
+  - issue_num: 17
+    value: 80
 ---
 
 This package is a quantum circuit simulator written in the [Julia programming language](https://julialang.org/), meant to be compatible with the [Amazon Braket SDK](https://github.com/amazon-braket/amazon-braket-sdk-python). It can simulate gate-based quantum circuits using both state vectors and density matrices (when noise is present).

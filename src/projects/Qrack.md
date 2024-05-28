@@ -12,7 +12,15 @@ tags:
   - clifford
   - stabilizer
 bounties:
-  - TBD
+  - issue_num: 876
+    value: 125
+  - issue_num: 1003
+    value: 125
+  - issue_num: 1008
+    value: 125
+  - issue_num: 23
+    value: 125
+    repo: unitaryfund/pyqrack
 ---
 
 Qrack is one of the fastest and most portable gate-based quantum computer simulators for (classical) hardware ranging from a Raspberry Pi, cell phone, or laptop, up to true "high-performance computing" scales with many GPUs! Via WebAssembly and CPU-only build settings, Qrack can even run in a browser while still benefiting from "novel" optimizations relying on "Schmidt decomposition," quantum circuit diagrams as a form of tensor network, and "hybrid" stabilizer simulation that can mix Clifford or near-Clifford sub-circuits with universal sub-circuits for huge savings in memory footprint and execution time!

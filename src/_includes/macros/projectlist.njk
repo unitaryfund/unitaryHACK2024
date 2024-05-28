@@ -6,7 +6,7 @@
         onclick="window.location.href='{{ project.url | url }}';"
         style="cursor:pointer;"
         {% if project.url == url %} data-current="current item"{% endif %}>
-      {#  {% set project = post.data %}
+       {# {% set project = post.data %}
           {% set project_meta = gh[project.id or project.title | lower] %}
           {% if project_meta %}  #}
           <h4 class="project-card__title">

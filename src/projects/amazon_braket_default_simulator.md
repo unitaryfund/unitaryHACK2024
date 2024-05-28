@@ -12,7 +12,12 @@ tags:
   - OpenQASM
   - simulators
 bounties:
-  - TBD
+  - issue_num: 252
+    value: 100
+  - issue_num: 253
+    value: 70
+  - issue_num: 240
+    value: 70
 ---
 
 The Amazon Braket Default Simulator is a Python open source library that provides an implementation of a quantum simulator that you can run locally. You can use the simulator to test quantum tasks that you construct for the [Amazon Braket SDK](https://github.com/amazon-braket/amazon-braket-sdk-python) before you submit them to the Amazon Braket service for execution.

@@ -10,7 +10,12 @@ tags:
   - Photonics
   - Python
 bounties:
-  - TBD
+  - issue_num: 399
+    value: 200
+  - issue_num: 400
+    value: 200
+  - issue_num: 207
+    value: 100
 ---
 
 Through a simple object-oriented python API, Perceval provides tools for building a circuit with linear optics components, defining single-photon sources and their error model, manipulating Fock states, running simulations, reproducing published experimental papers results, and experimenting a new generation of quantum algorithms.

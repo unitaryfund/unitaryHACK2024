@@ -10,8 +10,6 @@ tags:
   - Qiskit
   - Native Gates
   - Optimization
-bounties:
-  - TBD
 ---
 
 **Description:**

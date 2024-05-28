@@ -11,7 +11,12 @@ tags:
   - OpenQASM
   - parser
 bounties:
-  - TBD
+  - issue_num: 163
+    value: 100
+  - issue_num: 170
+    value: 100
+  - issue_num: 195
+    value: 100
 ---
 
 `openqasm3_parser` provides a compiler front end for OpenQASM 3 language (OQ3).
@@ -19,7 +24,8 @@ bounties:
 In this document, this parser is referred to as `openqasm3_parser`.
 
 Differences with the [OpenQASM reference parser](https://github.com/openqasm/openqasm) are
+
 - The parser in `openqasm3_parser` is much more performant. A crude test with large source files showed parse time reduced by a factor of 80.
 - `openqasm3_parser` performs semantic analysis.
 
-For support from the community, please join the [Qiskit Slack community](https://qisk.it/join-slack). The channel `#open-qasm` might be a good place for questions on the development. 
+For support from the community, please join the [Qiskit Slack community](https://qisk.it/join-slack). The channel `#open-qasm` might be a good place for questions on the development.

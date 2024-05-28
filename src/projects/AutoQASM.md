@@ -12,7 +12,16 @@ tags:
   - Mid-circuit measurement
   - OpenQASM
 bounties:
-  - TBD
+  - issue_num: 9
+    value: 50
+  - issue_num: 10
+    value: 50
+  - issue_num: 11
+    value: 50
+  - issue_num: 12
+    value: 60
+  - issue_num: 13
+    value: 40
 ---
 
 AutoQASM provides a Pythonic developer experience for writing quantum programs. The name AutoQASM is derived from the name of the [AutoGraph module of TensorFlow](https://www.tensorflow.org/api_docs/python/tf/autograph). AutoQASM uses AutoGraph to construct quantum assembly (QASM) programs rather than TensorFlow graphs.
