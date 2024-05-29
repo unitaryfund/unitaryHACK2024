@@ -9,23 +9,23 @@ summary: quantum optimal control with direct collocation
 tags:
   -
 bounties:
-  - issue_num: 
-    value: 
+  - issue_num: 102
+    value: 50
     repo: aarontrowbridge/QuantumCollocation.jl
-  - issue_num: 
-    value: 
+  - issue_num: 85
+    value: 50
     repo: aarontrowbridge/QuantumCollocation.jl
-  - issue_num: 
-    value: 
+  - issue_num: 89
+    value: 150
     repo: aarontrowbridge/QuantumCollocation.jl
-  - issue_num: 
-    value: 
+  - issue_num: 88
+    value: 100
     repo: aarontrowbridge/QuantumCollocation.jl
-  - issue_num: 
-    value: 
+  - issue_num: 37
+    value: 100
     repo: aarontrowbridge/NamedTrajectories.jl
-  - issue_num: 
-    value: 
+  - issue_num: 39
+    value: 50
     repo: aarontrowbridge/QuantumCollocation.jl
 ---
 
