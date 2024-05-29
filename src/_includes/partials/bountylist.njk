@@ -1,4 +1,4 @@
-{%- for project in collections.project -%}
+{%- for project in collections.sortedProjects -%}
   {% set project_id = project.data.id or project.data.title | lower %}
   {% set metadata = gh[project_id] %}
   <section>
