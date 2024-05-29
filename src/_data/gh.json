@@ -976,7 +976,7 @@
     "url": "https://github.com/Quandela/Perceval"
   },
   "piccolo.jl": {
-    "amount_available": 500,
+    "amount_available": 450,
     "bounties": [
       {
         "assignees": [],
@@ -988,8 +988,8 @@
       {
         "assignees": [],
         "state": "open",
-        "title": "[Feature]: Cat qubit quantum system template",
-        "url": "https://github.com/aarontrowbridge/QuantumCollocation.jl/issues/87",
+        "title": "[Feature]: Global Trajectory Parameters",
+        "url": "https://github.com/aarontrowbridge/NamedTrajectories.jl/issues/37",
         "value": 100
       },
       {
@@ -1002,22 +1002,15 @@
       {
         "assignees": [],
         "state": "open",
-        "title": "[Feature]: Virtual Z-gate Loss",
-        "url": "https://github.com/aarontrowbridge/QuantumCollocation.jl/issues/86",
+        "title": "[Feature]: Sample-based robust control",
+        "url": "https://github.com/aarontrowbridge/QuantumCollocation.jl/issues/89",
         "value": 150
       },
       {
         "assignees": [],
         "state": "open",
-        "title": "[Feature]: Global Trajectory Parameters",
-        "url": "https://github.com/aarontrowbridge/NamedTrajectories.jl/issues/37",
-        "value": 50
-      },
-      {
-        "assignees": [],
-        "state": "open",
-        "title": "[Feature]: Sample-based robust control",
-        "url": "https://github.com/aarontrowbridge/QuantumCollocation.jl/issues/89",
+        "title": "[Feature]: quantum utils docstrings and tests",
+        "url": "https://github.com/aarontrowbridge/QuantumCollocation.jl/issues/102",
         "value": 50
       }
     ],
