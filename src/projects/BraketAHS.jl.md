@@ -1,6 +1,5 @@
 ---
 title: BraketAHS.jl
-id: braketahs-jl
 emoji: ⚛️🌊
 project_url: https://github.com/amazon-braket/BraketAHS.jl
 metaDescription: Tensor network simulator for analog Hamiltonian simulation
