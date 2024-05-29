@@ -1,6 +1,6 @@
 ---
 title: Quantum Open Source Foundation (QOSF)
-id: quantum-open-source-foundation-qosf
+id: quantum-open-source-foundation-(qosf)
 # id: qosf.org
 emoji: 🔵⚪
 project_url: https://github.com/qosf/qosf.org
