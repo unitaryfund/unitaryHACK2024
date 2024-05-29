@@ -25,7 +25,7 @@ jobs:
 
       - name: Scrape GitHub
         env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: |
           cd src/_data
           python scrape_github.py
