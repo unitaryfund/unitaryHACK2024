@@ -1,6 +1,5 @@
 ---
 title: Piccolo.jl
-id: piccolo-jl
 emoji:
 project_url: https://github.com/aarontrowbridge/Piccolo.jl
 metaDescription: An interactive tool for the ZX calculus.
