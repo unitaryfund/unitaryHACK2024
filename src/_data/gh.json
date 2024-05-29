@@ -1029,13 +1029,42 @@
     "url": "https://github.com/aarontrowbridge/Piccolo.jl"
   },
   "pyclifford": {
-    "amount_available": 0,
-    "bounties": [],
+    "amount_available": 475,
+    "bounties": [
+      {
+        "assignees": [],
+        "state": "open",
+        "title": "[Unitary Hack]Mix state evolution, and expectation value calculation",
+        "url": "https://github.com/hongyehu/PyClifford/issues/22",
+        "value": 75
+      },
+      {
+        "assignees": [],
+        "state": "open",
+        "title": "[Unitary Hack]Test and benchmarking the entropy calculation for mixed state",
+        "url": "https://github.com/hongyehu/PyClifford/issues/23",
+        "value": 100
+      },
+      {
+        "assignees": [],
+        "state": "open",
+        "title": "[Unitary Hack]Partial Trace of the stabilizer state",
+        "url": "https://github.com/hongyehu/PyClifford/issues/24",
+        "value": 100
+      },
+      {
+        "assignees": [],
+        "state": "open",
+        "title": "[Unitary Hack]Implementation of generalized stabilizer state",
+        "url": "https://github.com/hongyehu/PyClifford/issues/25",
+        "value": 200
+      }
+    ],
     "emoji": null,
     "name": "PyClifford",
-    "num_bounties": 0,
-    "num_open_bounties": 0,
-    "total_amount": 0,
+    "num_bounties": 4,
+    "num_open_bounties": 4,
+    "total_amount": 475,
     "url": "https://github.com/hongyehu/PyClifford"
   },
   "qadence": {
@@ -1090,7 +1119,9 @@
     "amount_available": 500,
     "bounties": [
       {
-        "assignees": [],
+        "assignees": [
+          "anomius"
+        ],
         "state": "open",
         "title": "Convert OpenQASM 3 program to specified basis gate set",
         "url": "https://github.com/qBraid/qBraid/issues/626",
@@ -1268,8 +1299,8 @@
     "bounties": [
       {
         "assignees": [
-          "s-aldaihan",
           "rum1887",
+          "s-aldaihan",
           "ruijterj"
         ],
         "state": "open",
@@ -1797,8 +1828,8 @@
     "bounties": [
       {
         "assignees": [
-          "alexfleury-sb",
-          "ValentinS4t1qbit"
+          "ValentinS4t1qbit",
+          "alexfleury-sb"
         ],
         "state": "open",
         "title": "Incompatibility with PySCF >= 2.5.0",
@@ -1807,8 +1838,8 @@
       },
       {
         "assignees": [
-          "alexfleury-sb",
-          "ValentinS4t1qbit"
+          "ValentinS4t1qbit",
+          "alexfleury-sb"
         ],
         "state": "open",
         "title": "Circuit as reference state in the ansatz definition",
@@ -1817,8 +1848,8 @@
       },
       {
         "assignees": [
-          "alexfleury-sb",
-          "ValentinS4t1qbit"
+          "ValentinS4t1qbit",
+          "alexfleury-sb"
         ],
         "state": "open",
         "title": "Automatic documentation deployment",
@@ -1853,7 +1884,7 @@
         "value": 40
       }
     ],
-    "emoji": null,
+    "emoji": "\ud83c\udf4a",
     "name": "Tangelo",
     "num_bounties": 6,
     "num_open_bounties": 6,
