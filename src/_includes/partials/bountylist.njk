@@ -9,7 +9,7 @@
       </div>
       {% if metadata.amount_available > 0 %}
         <span class="bounty-right" style="display: flex; justify-content: right; align-items: center;">
-          <span class="completion-emoji">💰</span><b>${{ metadata.amount_available }}</b> up for grabs!<span class="completion-emoji">🤑</span>
+          <span class="completion-emoji">💰</span><b>${{ metadata.amount_available }}</b>&nbsp;up for grabs!<span class="completion-emoji">🤑</span>
         </span>
       {% elif metadata.total_amount > 0 and metadata.amount_available == 0 %}
         <span class="bounty-right" style="display: flex; justify-content: right; align-items: center;">
