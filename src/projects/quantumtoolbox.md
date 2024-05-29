@@ -1,6 +1,6 @@
 ---
 title: QuantumToolbox.jl
-permalink: projects/quantumtoolbox-jl
+id: quantumtoolbox-jl
 emoji:
 project_url: https://github.com/qutip/QuantumToolbox.jl
 metaDescription: Julia Package for Quantum Optics and Quantum Physics

@@ -1,6 +1,6 @@
 ---
 title: Braket.jl
-permalink: /projects/braket-jl
+id: braket-jl
 emoji: ⚛️🔴
 project_url: https://github.com/amazon-braket/Braket.jl
 metaDescription: Julia implementation of the Amazon Braket SDK, allowing users to access quantum hardware and simulators
