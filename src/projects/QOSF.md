@@ -27,4 +27,4 @@ bounties:
     repo: qosf/monthly-challenges
 ---
 
-QOSF aims to enhance open source software in quantum computing, focusing on current and near-term NISQ technologies, while also supporting the development of fault-tolerant universal quantum computer software and standardizing low-level hardware interfaces for cross-compatibility of quantum programming languages.
+QOSF aims to enhance open source software in quantum computing, focusing on current and near-term NISQ technologies, while also supporting the development of fault-tolerant universal quantum computer software and standardizing low-level hardware interfaces for cross-compatibility of quantum programming languages..
