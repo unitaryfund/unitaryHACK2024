@@ -7,7 +7,8 @@ metaDescription: An interactive tool for the ZX calculus.
 date: 2024-03-28
 summary: quantum optimal control with direct collocation
 tags:
-  -
+  - Quantum Control
+  - Julia
 bounties:
   - issue_num: 102
     value: 50
