@@ -1,5 +1,6 @@
 ---
 title: Quantum Open Source Foundation (QOSF)
+permalink: projects/quantum-open-source-foundation-qosf
 emoji: 🔵⚪
 project_url: https://github.com/qosf/qosf.org
 metaDescription: QOSF aims to enhance open source software in quantum computing
