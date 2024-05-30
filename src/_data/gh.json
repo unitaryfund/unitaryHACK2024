@@ -1136,8 +1136,8 @@
     "bounties": [
       {
         "assignees": [
-          "dhanaabhirajk",
-          "anomius"
+          "anomius",
+          "dhanaabhirajk"
         ],
         "state": "open",
         "title": "Convert OpenQASM 3 program to specified basis gate set",
@@ -1316,9 +1316,9 @@
     "bounties": [
       {
         "assignees": [
+          "s-aldaihan",
           "rum1887",
-          "ruijterj",
-          "s-aldaihan"
+          "ruijterj"
         ],
         "state": "open",
         "title": "Support noise models",
@@ -1749,7 +1749,9 @@
     "amount_available": 450,
     "bounties": [
       {
-        "assignees": [],
+        "assignees": [
+          "maxwell04-wq"
+        ],
         "state": "open",
         "title": "`mpl_draw()` does not work for multigraphs",
         "url": "https://github.com/Qiskit/rustworkx/issues/774",
