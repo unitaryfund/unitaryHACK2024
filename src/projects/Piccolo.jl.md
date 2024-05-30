@@ -26,7 +26,7 @@ bounties:
     repo: aarontrowbridge/NamedTrajectories.jl
   - issue_num: 39
     value: 50
-    repo: aarontrowbridge/QuantumCollocation.jl
+    repo: aarontrowbridge/NamedTrajectories.jl
 ---
 
 Piccolo.jl is a meta-package for quantum optimal control using the Pade Integrator COllocation (PICO) method.

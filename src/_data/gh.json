@@ -990,7 +990,7 @@
     "url": "https://github.com/Quandela/Perceval"
   },
   "piccolo.jl": {
-    "amount_available": 450,
+    "amount_available": 500,
     "bounties": [
       {
         "assignees": [],
@@ -1029,16 +1029,16 @@
       },
       {
         "assignees": [],
-        "state": "closed",
-        "title": "CompatHelper: bump compat for Documenter to 1, (keep existing compat)",
-        "url": "https://github.com/aarontrowbridge/QuantumCollocation.jl/issues/39",
+        "state": "open",
+        "title": "[Feature]: docstrings for NamedTrajectory struct and consttructors",
+        "url": "https://github.com/aarontrowbridge/NamedTrajectories.jl/issues/39",
         "value": 50
       }
     ],
     "emoji": null,
     "name": "Piccolo.jl",
     "num_bounties": 6,
-    "num_open_bounties": 5,
+    "num_open_bounties": 6,
     "total_amount": 500,
     "url": "https://github.com/aarontrowbridge/Piccolo.jl"
   },
@@ -1314,9 +1314,9 @@
     "bounties": [
       {
         "assignees": [
+          "rum1887",
           "ruijterj",
-          "s-aldaihan",
-          "rum1887"
+          "s-aldaihan"
         ],
         "state": "open",
         "title": "Support noise models",
