@@ -1316,9 +1316,9 @@
     "bounties": [
       {
         "assignees": [
-          "rum1887",
           "s-aldaihan",
-          "ruijterj"
+          "ruijterj",
+          "rum1887"
         ],
         "state": "open",
         "title": "Support noise models",
@@ -1851,7 +1851,7 @@
     "url": "https://github.com/goodchemistryco/Tangelo"
   },
   "tensorcircuit": {
-    "amount_available": 500,
+    "amount_available": 350,
     "bounties": [
       {
         "assignees": [],
@@ -1869,7 +1869,7 @@
       },
       {
         "assignees": [],
-        "state": "open",
+        "state": "closed",
         "title": "Backend agnostic implementation of quantum Hamiltonian generation",
         "url": "https://github.com/tencent-quantum-lab/tensorcircuit/issues/161",
         "value": 150
@@ -1885,7 +1885,7 @@
     "emoji": "\ud83d\ude80\ud83c\udf14",
     "name": "TensorCircuit",
     "num_bounties": 4,
-    "num_open_bounties": 4,
+    "num_open_bounties": 3,
     "total_amount": 500,
     "url": "https://github.com/tencent-quantum-lab/tensorcircuit"
   },
