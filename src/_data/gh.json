@@ -1316,9 +1316,9 @@
     "bounties": [
       {
         "assignees": [
-          "s-aldaihan",
+          "rum1887",
           "ruijterj",
-          "rum1887"
+          "s-aldaihan"
         ],
         "state": "open",
         "title": "Support noise models",
@@ -1851,7 +1851,7 @@
     "url": "https://github.com/goodchemistryco/Tangelo"
   },
   "tensorcircuit": {
-    "amount_available": 350,
+    "amount_available": 250,
     "bounties": [
       {
         "assignees": [],
@@ -1868,15 +1868,19 @@
         "value": 150
       },
       {
-        "assignees": [],
+        "assignees": [
+          "king-p3nguin"
+        ],
         "state": "closed",
         "title": "Backend agnostic implementation of quantum Hamiltonian generation",
         "url": "https://github.com/tencent-quantum-lab/tensorcircuit/issues/161",
         "value": 150
       },
       {
-        "assignees": [],
-        "state": "open",
+        "assignees": [
+          "Gopal-Dahale"
+        ],
+        "state": "closed",
         "title": "SPSA optimization example",
         "url": "https://github.com/tencent-quantum-lab/tensorcircuit/issues/73",
         "value": 100
@@ -1885,7 +1889,7 @@
     "emoji": "\ud83d\ude80\ud83c\udf14",
     "name": "TensorCircuit",
     "num_bounties": 4,
-    "num_open_bounties": 3,
+    "num_open_bounties": 2,
     "total_amount": 500,
     "url": "https://github.com/tencent-quantum-lab/tensorcircuit"
   },
