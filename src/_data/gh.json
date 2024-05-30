@@ -785,9 +785,7 @@
     "amount_available": 500,
     "bounties": [
       {
-        "assignees": [
-          "anonymousr007"
-        ],
+        "assignees": [],
         "state": "open",
         "title": "Tutorial : Use ZNE & REM to simulate time evolution of gauge invariant models",
         "url": "https://github.com/unitaryfund/mitiq/issues/1794",
@@ -815,9 +813,7 @@
         "value": 100
       },
       {
-        "assignees": [
-          "FarLab"
-        ],
+        "assignees": [],
         "state": "open",
         "title": "Support `observable=None` in Quantum Subspace Expansion (QSE)",
         "url": "https://github.com/unitaryfund/mitiq/issues/1813",
@@ -1316,9 +1312,9 @@
     "bounties": [
       {
         "assignees": [
+          "ruijterj",
           "s-aldaihan",
-          "rum1887",
-          "ruijterj"
+          "rum1887"
         ],
         "state": "open",
         "title": "Support noise models",
@@ -1961,7 +1957,9 @@
         "value": 100
       },
       {
-        "assignees": [],
+        "assignees": [
+          "SaashaJoshi"
+        ],
         "state": "open",
         "title": "Develop the TorchQuantum Testing Suite",
         "url": "https://github.com/mit-han-lab/torchquantum/issues/261",
@@ -1982,7 +1980,9 @@
         "value": 100
       },
       {
-        "assignees": [],
+        "assignees": [
+          "anonymousr007"
+        ],
         "state": "open",
         "title": "Adding new examples and algorithms for TQ",
         "url": "https://github.com/mit-han-lab/torchquantum/issues/264",
