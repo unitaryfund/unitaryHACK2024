@@ -361,21 +361,27 @@
     "amount_available": 500,
     "bounties": [
       {
-        "assignees": [],
+        "assignees": [
+          "burlemarxiste"
+        ],
         "state": "open",
         "title": "Create a gate to represent a PauliRotation",
         "url": "https://github.com/quantumlib/Cirq/issues/6598",
         "value": 100
       },
       {
-        "assignees": [],
+        "assignees": [
+          "anonymousr007"
+        ],
         "state": "open",
         "title": "CZSWAP and CXSWAP gate",
         "url": "https://github.com/quantumlib/Cirq/issues/6424",
         "value": 100
       },
       {
-        "assignees": [],
+        "assignees": [
+          "rodolfocarobene"
+        ],
         "state": "open",
         "title": "`Xa*Zb*Zb*Zb` works but `Xa*Zb**3` raises error ",
         "url": "https://github.com/quantumlib/Cirq/issues/5715",
@@ -423,7 +429,9 @@
         "value": 120
       },
       {
-        "assignees": [],
+        "assignees": [
+          "scssandanayake"
+        ],
         "state": "open",
         "title": "Add initial conditions to the arithmetic example in the arithmetic_expressions notebook",
         "url": "https://github.com/Classiq/classiq-library/issues/36",
@@ -775,7 +783,9 @@
     "amount_available": 500,
     "bounties": [
       {
-        "assignees": [],
+        "assignees": [
+          "anonymousr007"
+        ],
         "state": "open",
         "title": "Tutorial : Use ZNE & REM to simulate time evolution of gauge invariant models",
         "url": "https://github.com/unitaryfund/mitiq/issues/1794",
@@ -869,14 +879,18 @@
     "amount_available": 300,
     "bounties": [
       {
-        "assignees": [],
+        "assignees": [
+          "abhamra"
+        ],
         "state": "open",
         "title": "Refactor lowering list of qubits (gate operands) in syntax_to_semantics.rs",
         "url": "https://github.com/Qiskit/openqasm3_parser/issues/163",
         "value": 100
       },
       {
-        "assignees": [],
+        "assignees": [
+          "abhamra"
+        ],
         "state": "open",
         "title": "Implement function `from_designator` in syntax_to_semantics.rs",
         "url": "https://github.com/Qiskit/openqasm3_parser/issues/170",
@@ -981,23 +995,16 @@
       {
         "assignees": [],
         "state": "open",
-        "title": "[Feature]: interface with QuantumOptics.jl",
-        "url": "https://github.com/aarontrowbridge/QuantumCollocation.jl/issues/85",
+        "title": "[Feature]: quantum utils docstrings and tests",
+        "url": "https://github.com/aarontrowbridge/QuantumCollocation.jl/issues/102",
         "value": 50
       },
       {
         "assignees": [],
         "state": "open",
-        "title": "[Feature]: Global Trajectory Parameters",
-        "url": "https://github.com/aarontrowbridge/NamedTrajectories.jl/issues/37",
-        "value": 100
-      },
-      {
-        "assignees": [],
-        "state": "open",
-        "title": "[Feature]: rydberg gate problem templates ",
-        "url": "https://github.com/aarontrowbridge/QuantumCollocation.jl/issues/88",
-        "value": 100
+        "title": "[Feature]: interface with QuantumOptics.jl",
+        "url": "https://github.com/aarontrowbridge/QuantumCollocation.jl/issues/85",
+        "value": 50
       },
       {
         "assignees": [],
@@ -1009,15 +1016,29 @@
       {
         "assignees": [],
         "state": "open",
-        "title": "[Feature]: quantum utils docstrings and tests",
-        "url": "https://github.com/aarontrowbridge/QuantumCollocation.jl/issues/102",
+        "title": "[Feature]: rydberg gate problem templates ",
+        "url": "https://github.com/aarontrowbridge/QuantumCollocation.jl/issues/88",
+        "value": 100
+      },
+      {
+        "assignees": [],
+        "state": "open",
+        "title": "[Feature]: Global Trajectory Parameters",
+        "url": "https://github.com/aarontrowbridge/NamedTrajectories.jl/issues/37",
+        "value": 100
+      },
+      {
+        "assignees": [],
+        "state": "closed",
+        "title": "CompatHelper: bump compat for Documenter to 1, (keep existing compat)",
+        "url": "https://github.com/aarontrowbridge/QuantumCollocation.jl/issues/39",
         "value": 50
       }
     ],
     "emoji": null,
     "name": "Piccolo.jl",
     "num_bounties": 6,
-    "num_open_bounties": 6,
+    "num_open_bounties": 5,
     "total_amount": 500,
     "url": "https://github.com/aarontrowbridge/Piccolo.jl"
   },
@@ -1113,7 +1134,8 @@
     "bounties": [
       {
         "assignees": [
-          "anomius"
+          "anomius",
+          "dhanaabhirajk"
         ],
         "state": "open",
         "title": "Convert OpenQASM 3 program to specified basis gate set",
@@ -1341,7 +1363,9 @@
         "value": 100
       },
       {
-        "assignees": [],
+        "assignees": [
+          "Youngcius"
+        ],
         "state": "open",
         "title": "Pow operator",
         "url": "https://github.com/dakk/qlasskit/issues/23",
@@ -1350,7 +1374,7 @@
       {
         "assignees": [],
         "state": "open",
-        "title": "Qint division",
+        "title": "Qint integer division",
         "url": "https://github.com/dakk/qlasskit/issues/27",
         "value": 100
       },
@@ -1737,9 +1761,7 @@
         "value": 75
       },
       {
-        "assignees": [
-          "abhamra"
-        ],
+        "assignees": [],
         "state": "open",
         "title": "A BFS layers algorithm",
         "url": "https://github.com/Qiskit/rustworkx/issues/804",
@@ -1817,71 +1839,13 @@
     "url": "https://github.com/scqubits/scqubits"
   },
   "tangelo": {
-    "amount_available": 330,
-    "bounties": [
-      {
-        "assignees": [
-          "ValentinS4t1qbit",
-          "alexfleury-sb"
-        ],
-        "state": "open",
-        "title": "Incompatibility with PySCF >= 2.5.0",
-        "url": "https://github.com/goodchemistryco/Tangelo/issues/383",
-        "value": 50
-      },
-      {
-        "assignees": [
-          "ValentinS4t1qbit",
-          "alexfleury-sb"
-        ],
-        "state": "open",
-        "title": "Circuit as reference state in the ansatz definition",
-        "url": "https://github.com/goodchemistryco/Tangelo/issues/384",
-        "value": 60
-      },
-      {
-        "assignees": [
-          "ValentinS4t1qbit",
-          "alexfleury-sb"
-        ],
-        "state": "open",
-        "title": "Automatic documentation deployment",
-        "url": "https://github.com/goodchemistryco/Tangelo/issues/385",
-        "value": 70
-      },
-      {
-        "assignees": [
-          "ValentinS4t1qbit"
-        ],
-        "state": "open",
-        "title": "Augment the Rotosolve optimizer to support Rotoselect",
-        "url": "https://github.com/goodchemistryco/Tangelo/issues/386",
-        "value": 70
-      },
-      {
-        "assignees": [
-          "ValentinS4t1qbit"
-        ],
-        "state": "open",
-        "title": "Support for multi-controlled rotation (RX, RY, RZ) gates for qiskit backend",
-        "url": "https://github.com/goodchemistryco/Tangelo/issues/387",
-        "value": 40
-      },
-      {
-        "assignees": [
-          "ValentinS4t1qbit"
-        ],
-        "state": "open",
-        "title": "[BUG] `Circuit.draw()` returns an error when gate parameter is a string",
-        "url": "https://github.com/goodchemistryco/Tangelo/issues/388",
-        "value": 40
-      }
-    ],
+    "amount_available": 0,
+    "bounties": [],
     "emoji": "\ud83c\udf4a",
     "name": "Tangelo",
-    "num_bounties": 6,
-    "num_open_bounties": 6,
-    "total_amount": 330,
+    "num_bounties": 0,
+    "num_open_bounties": 0,
+    "total_amount": 0,
     "url": "https://github.com/goodchemistryco/Tangelo"
   },
   "tensorcircuit": {
@@ -1955,7 +1919,9 @@
         "value": 80
       },
       {
-        "assignees": [],
+        "assignees": [
+          "golanor"
+        ],
         "state": "open",
         "title": "Ensure PSD operators are being optimized over proper space",
         "url": "https://github.com/vprusso/toqito/issues/431",

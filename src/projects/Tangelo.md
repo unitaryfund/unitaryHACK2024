@@ -12,7 +12,6 @@ tags:
   - Experiments
   - Drug Discovery
   - Quantum Circuits
-bounties:
 ---
 
 Tangelo is an open-source Python package for quantum chemistry simulation workflows on quantum computers. It was developed as an engine to accelerate research, and takes advantage of other popular frameworks to harness the innovation in the field.
