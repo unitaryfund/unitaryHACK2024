@@ -1222,6 +1222,38 @@
     "total_amount": 500,
     "url": "https://github.com/qBraid/qbraid-qir"
   },
+  "qc-classifier": {
+    "amount_available": 500,
+    "bounties": [
+      {
+        "assignees": [],
+        "state": "open",
+        "title": "QRNG Classifier Preprocessing Functions Improvements",
+        "url": "https://github.com/dorahacksglobal/qc-classifier/issues/1",
+        "value": 150
+      },
+      {
+        "assignees": [],
+        "state": "open",
+        "title": "QNRG Classifier ML Model Improvements",
+        "url": "https://github.com/dorahacksglobal/qc-classifier/issues/3",
+        "value": 150
+      },
+      {
+        "assignees": [],
+        "state": "open",
+        "title": "Classification Model for General Quantum Circuits",
+        "url": "https://github.com/dorahacksglobal/qc-classifier/issues/2",
+        "value": 200
+      }
+    ],
+    "emoji": "\ud83e\uddd9\u200d\u2642\ufe0f",
+    "name": "AI-inspired Classification of Quantum Computers",
+    "num_bounties": 3,
+    "num_open_bounties": 3,
+    "total_amount": 500,
+    "url": "https://github.com/dorahacksglobal/qc-classifier"
+  },
   "qiskit": {
     "amount_available": 350,
     "bounties": [
@@ -1311,11 +1343,7 @@
     "amount_available": 500,
     "bounties": [
       {
-        "assignees": [
-          "ruijterj",
-          "rum1887",
-          "s-aldaihan"
-        ],
+        "assignees": [],
         "state": "open",
         "title": "Support noise models",
         "url": "https://github.com/qiskit-community/qiskit-braket-provider/issues/89",
@@ -1582,16 +1610,6 @@
     "total_amount": 500,
     "url": "https://github.com/qua-platform/qua-qsim"
   },
-  "quantum-randomness-generator": {
-    "amount_available": 0,
-    "bounties": [],
-    "emoji": "\ud83e\uddd9\u200d\u2642\ufe0f",
-    "name": "AI-inspired Classification of Quantum Computers",
-    "num_bounties": 0,
-    "num_open_bounties": 0,
-    "total_amount": 0,
-    "url": "https://github.com/dorahacksglobal/quantum-randomness-generator"
-  },
   "quantum-universal-education.github.io": {
     "amount_available": 150,
     "bounties": [
@@ -1841,13 +1859,72 @@
     "url": "https://github.com/scqubits/scqubits"
   },
   "tangelo": {
-    "amount_available": 0,
-    "bounties": [],
+    "amount_available": 500,
+    "bounties": [
+      {
+        "assignees": [
+          "alexfleury-sb",
+          "ValentinS4t1qbit"
+        ],
+        "state": "open",
+        "title": "Incompatibility with PySCF >= 2.5.0",
+        "url": "https://github.com/goodchemistryco/Tangelo/issues/383",
+        "value": 100
+      },
+      {
+        "assignees": [
+          "alexfleury-sb",
+          "ValentinS4t1qbit"
+        ],
+        "state": "open",
+        "title": "Circuit as reference state in the ansatz definition",
+        "url": "https://github.com/goodchemistryco/Tangelo/issues/384",
+        "value": 100
+      },
+      {
+        "assignees": [
+          "alexfleury-sb",
+          "ValentinS4t1qbit"
+        ],
+        "state": "open",
+        "title": "Automatic documentation deployment",
+        "url": "https://github.com/goodchemistryco/Tangelo/issues/385",
+        "value": 100
+      },
+      {
+        "assignees": [
+          "ValentinS4t1qbit"
+        ],
+        "state": "open",
+        "title": "Augment the Rotosolve optimizer to support Rotoselect",
+        "url": "https://github.com/goodchemistryco/Tangelo/issues/386",
+        "value": 100
+      },
+      {
+        "assignees": [
+          "ValentinS4t1qbit"
+        ],
+        "state": "open",
+        "title": "Support for multi-controlled rotation (RX, RY, RZ) gates for qiskit backend",
+        "url": "https://github.com/goodchemistryco/Tangelo/issues/387",
+        "value": 50
+      },
+      {
+        "assignees": [
+          "anushkrishnav",
+          "ValentinS4t1qbit"
+        ],
+        "state": "open",
+        "title": "[BUG] `Circuit.draw()` returns an error when gate parameter is a string",
+        "url": "https://github.com/goodchemistryco/Tangelo/issues/388",
+        "value": 50
+      }
+    ],
     "emoji": "\ud83c\udf4a",
     "name": "Tangelo",
-    "num_bounties": 0,
-    "num_open_bounties": 0,
-    "total_amount": 0,
+    "num_bounties": 6,
+    "num_open_bounties": 6,
+    "total_amount": 500,
     "url": "https://github.com/goodchemistryco/Tangelo"
   },
   "tensorcircuit": {
@@ -1975,7 +2052,9 @@
         "value": 100
       },
       {
-        "assignees": [],
+        "assignees": [
+          "Youngcius"
+        ],
         "state": "open",
         "title": "Supporting Additional Features for tq2qiskit and qiskit2tq",
         "url": "https://github.com/mit-han-lab/torchquantum/issues/263",

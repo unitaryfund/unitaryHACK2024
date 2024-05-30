@@ -1,7 +1,8 @@
 ---
 title: AI-inspired Classification of Quantum Computers
+id: qc-classifier
 emoji: 🧙‍♂️
-project_url: https://github.com/dorahacksglobal/quantum-randomness-generator
+project_url: https://github.com/dorahacksglobal/qc-classifier
 metaDescription: Is it possible to distinguish the given random numbers are produced from a specific quantum computer? More generally, this problem is related to the topic of cross-platform comparison of quantum circuits.
 date: 2024-04-16
 summary: Is it possible to distinguish the given random numbers are produced from a specific quantum computer? More generally, this problem is related to the topic of cross-platform comparison of quantum circuits.
