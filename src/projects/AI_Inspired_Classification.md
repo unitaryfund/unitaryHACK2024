@@ -9,6 +9,13 @@ tags:
   - DI-QRNG
   - Classification
   - Cloud QC
+bounties:
+  - issue_num: 1
+    value: 150
+  - issue_num: 3
+    value: 150
+  - issue_num: 2
+    value: 200
 ---
 
 Quantum computers promise diverse applications with fault-tolerant architectures. Near-term quantum computers are comprised of different physical entities, such as superconducting qubits, propagating photons, trapped ions and tweezer-based neutral atoms.
