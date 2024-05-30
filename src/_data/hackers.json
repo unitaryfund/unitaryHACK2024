@@ -37,5 +37,31 @@
     ],
     "num_projects": 1,
     "total_value": 100
+  },
+  {
+    "username": "golanor",
+    "bounties": [
+      {
+        "url": "https://github.com/goodchemistryco/Tangelo/issues/387",
+        "title": "Support for multi-controlled rotation (RX, RY, RZ) gates for qiskit backend",
+        "project": "tangelo",
+        "value": 50
+      }
+    ],
+    "num_projects": 1,
+    "total_value": 50
+  },
+  {
+    "username": "anushkrishnav",
+    "bounties": [
+      {
+        "url": "https://github.com/goodchemistryco/Tangelo/issues/388",
+        "title": "[BUG] `Circuit.draw()` returns an error when gate parameter is a string",
+        "project": "tangelo",
+        "value": 50
+      }
+    ],
+    "num_projects": 1,
+    "total_value": 50
   }
 ]

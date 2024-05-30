@@ -1132,8 +1132,8 @@
     "bounties": [
       {
         "assignees": [
-          "dhanaabhirajk",
-          "anomius"
+          "anomius",
+          "dhanaabhirajk"
         ],
         "state": "open",
         "title": "Convert OpenQASM 3 program to specified basis gate set",
@@ -1226,21 +1226,29 @@
     "amount_available": 500,
     "bounties": [
       {
-        "assignees": [],
+        "assignees": [
+          "schance995"
+        ],
         "state": "open",
         "title": "QRNG Classifier Preprocessing Functions Improvements",
         "url": "https://github.com/dorahacksglobal/qc-classifier/issues/1",
         "value": 150
       },
       {
-        "assignees": [],
+        "assignees": [
+          "schance995"
+        ],
         "state": "open",
         "title": "QNRG Classifier ML Model Improvements",
         "url": "https://github.com/dorahacksglobal/qc-classifier/issues/3",
         "value": 150
       },
       {
-        "assignees": [],
+        "assignees": [
+          "AbdullahKazi500",
+          "schance995",
+          "0mWh"
+        ],
         "state": "open",
         "title": "Classification Model for General Quantum Circuits",
         "url": "https://github.com/dorahacksglobal/qc-classifier/issues/2",
@@ -1859,7 +1867,7 @@
     "url": "https://github.com/scqubits/scqubits"
   },
   "tangelo": {
-    "amount_available": 500,
+    "amount_available": 400,
     "bounties": [
       {
         "assignees": [
@@ -1893,6 +1901,7 @@
       },
       {
         "assignees": [
+          "cburdine",
           "ValentinS4t1qbit"
         ],
         "state": "open",
@@ -1902,19 +1911,18 @@
       },
       {
         "assignees": [
-          "ValentinS4t1qbit"
+          "golanor"
         ],
-        "state": "open",
+        "state": "closed",
         "title": "Support for multi-controlled rotation (RX, RY, RZ) gates for qiskit backend",
         "url": "https://github.com/goodchemistryco/Tangelo/issues/387",
         "value": 50
       },
       {
         "assignees": [
-          "ValentinS4t1qbit",
           "anushkrishnav"
         ],
-        "state": "open",
+        "state": "closed",
         "title": "[BUG] `Circuit.draw()` returns an error when gate parameter is a string",
         "url": "https://github.com/goodchemistryco/Tangelo/issues/388",
         "value": 50
@@ -1923,7 +1931,7 @@
     "emoji": "\ud83c\udf4a",
     "name": "Tangelo",
     "num_bounties": 6,
-    "num_open_bounties": 6,
+    "num_open_bounties": 4,
     "total_amount": 500,
     "url": "https://github.com/goodchemistryco/Tangelo"
   },
