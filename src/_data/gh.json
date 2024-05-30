@@ -1314,9 +1314,9 @@
     "bounties": [
       {
         "assignees": [
-          "rum1887",
+          "ruijterj",
           "s-aldaihan",
-          "ruijterj"
+          "rum1887"
         ],
         "state": "open",
         "title": "Support noise models",
