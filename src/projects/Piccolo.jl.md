@@ -2,7 +2,7 @@
 title: Piccolo.jl
 emoji:
 project_url: https://github.com/aarontrowbridge/Piccolo.jl
-metaDescription: An interactive tool for the ZX calculus.
+metaDescription: quantum optimal control with direct collocation
 date: 2024-03-28
 summary: quantum optimal control with direct collocation
 tags:
