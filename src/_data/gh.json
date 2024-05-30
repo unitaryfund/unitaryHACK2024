@@ -1132,8 +1132,8 @@
     "bounties": [
       {
         "assignees": [
-          "anomius",
-          "dhanaabhirajk"
+          "dhanaabhirajk",
+          "anomius"
         ],
         "state": "open",
         "title": "Convert OpenQASM 3 program to specified basis gate set",
@@ -1911,8 +1911,8 @@
       },
       {
         "assignees": [
-          "anushkrishnav",
-          "ValentinS4t1qbit"
+          "ValentinS4t1qbit",
+          "anushkrishnav"
         ],
         "state": "open",
         "title": "[BUG] `Circuit.draw()` returns an error when gate parameter is a string",
