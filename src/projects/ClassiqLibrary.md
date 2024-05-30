@@ -1,5 +1,6 @@
 ---
 title: Classiq Library
+id: classiq-library
 emoji: 📚👩🏻‍💻
 project_url: https://github.com/Classiq/classiq-library
 metaDescription: Quantum Applications, Algorithms, Tutorials and Functions, built with the Classiq Platform
@@ -28,7 +29,7 @@ bounties:
 
 Your entry-point for creating & running quantum programs.
 
-The [Classiq Library](https://github.com/Classiq/classiq-library)holds a wide collection of quantum functions, algorithms, applications and tutorials built with Classiq. In this project we welcome you to expand the library with your own algorithms and applications.
+The [Classiq Library](https://github.com/Classiq/classiq-library) holds a wide collection of quantum functions, algorithms, applications and tutorials built with Classiq. In this project we welcome you to expand the library with your own algorithms and applications.
 
 <hr> <br>
 <p align="center">
