@@ -1,5 +1,18 @@
 [
   {
+    "username": "LorenzoFioroni",
+    "bounties": [
+      {
+        "url": "https://github.com/qutip/QuantumToolbox.jl/issues/81",
+        "title": "Add a the iterative solvers and eigensolver for `steadystate`",
+        "project": "quantumtoolbox.jl",
+        "value": 125
+      }
+    ],
+    "num_projects": 1,
+    "total_value": 125
+  },
+  {
     "username": "king-p3nguin",
     "bounties": [
       {

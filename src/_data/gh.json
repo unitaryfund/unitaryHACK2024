@@ -1313,8 +1313,8 @@
       {
         "assignees": [
           "ruijterj",
-          "s-aldaihan",
-          "rum1887"
+          "rum1887",
+          "s-aldaihan"
         ],
         "state": "open",
         "title": "Support noise models",
@@ -1625,11 +1625,13 @@
     "url": "https://github.com/Quantum-Universal-Education/Quantum-Universal-Education.github.io"
   },
   "quantumtoolbox.jl": {
-    "amount_available": 500,
+    "amount_available": 375,
     "bounties": [
       {
-        "assignees": [],
-        "state": "open",
+        "assignees": [
+          "LorenzoFioroni"
+        ],
+        "state": "closed",
         "title": "Add a the iterative solvers and eigensolver for `steadystate`",
         "url": "https://github.com/qutip/QuantumToolbox.jl/issues/81",
         "value": 125
@@ -1659,7 +1661,7 @@
     "emoji": null,
     "name": "QuantumToolbox.jl",
     "num_bounties": 4,
-    "num_open_bounties": 4,
+    "num_open_bounties": 3,
     "total_amount": 500,
     "url": "https://github.com/qutip/QuantumToolbox.jl"
   },
