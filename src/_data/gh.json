@@ -1247,9 +1247,9 @@
       },
       {
         "assignees": [
-          "AbdullahKazi500",
           "0mWh",
-          "schance995"
+          "schance995",
+          "AbdullahKazi500"
         ],
         "state": "open",
         "title": "Classification Model for General Quantum Circuits",
@@ -1399,9 +1399,7 @@
         "value": 100
       },
       {
-        "assignees": [
-          "Youngcius"
-        ],
+        "assignees": [],
         "state": "open",
         "title": "Pow operator",
         "url": "https://github.com/dakk/qlasskit/issues/23",
@@ -1903,8 +1901,8 @@
       },
       {
         "assignees": [
-          "cburdine",
-          "ValentinS4t1qbit"
+          "ValentinS4t1qbit",
+          "cburdine"
         ],
         "state": "open",
         "title": "Augment the Rotosolve optimizer to support Rotoselect",
