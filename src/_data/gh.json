@@ -642,7 +642,7 @@
     "url": "https://github.com/ionq-samples/Ion-Q-Thruster"
   },
   "kqcircuits": {
-    "amount_available": 500,
+    "amount_available": 450,
     "bounties": [
       {
         "assignees": [],
@@ -680,8 +680,10 @@
         "value": 75
       },
       {
-        "assignees": [],
-        "state": "open",
+        "assignees": [
+          "f-martini"
+        ],
+        "state": "closed",
         "title": "Broken `Edit on Github` link for API pages of KQC documentation",
         "url": "https://github.com/iqm-finland/KQCircuits/issues/92",
         "value": 50
@@ -690,7 +692,7 @@
     "emoji": "\ud83e\udd91",
     "name": "KQCircuits",
     "num_bounties": 6,
-    "num_open_bounties": 6,
+    "num_open_bounties": 5,
     "total_amount": 500,
     "url": "https://github.com/iqm-finland/KQCircuits"
   },
@@ -1132,8 +1134,8 @@
     "bounties": [
       {
         "assignees": [
-          "anomius",
-          "dhanaabhirajk"
+          "dhanaabhirajk",
+          "anomius"
         ],
         "state": "open",
         "title": "Convert OpenQASM 3 program to specified basis gate set",
@@ -1247,9 +1249,9 @@
       },
       {
         "assignees": [
-          "0mWh",
+          "AbdullahKazi500",
           "schance995",
-          "AbdullahKazi500"
+          "0mWh"
         ],
         "state": "open",
         "title": "Classification Model for General Quantum Circuits",
@@ -2053,7 +2055,9 @@
         "value": 100
       },
       {
-        "assignees": [],
+        "assignees": [
+          "king-p3nguin"
+        ],
         "state": "open",
         "title": "Make TQ Compatible with Qiskit \u22651.0.0",
         "url": "https://github.com/mit-han-lab/torchquantum/issues/262",

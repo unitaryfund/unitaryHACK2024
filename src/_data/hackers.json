@@ -75,5 +75,18 @@
     ],
     "num_projects": 1,
     "total_value": 50
+  },
+  {
+    "username": "f-martini",
+    "bounties": [
+      {
+        "url": "https://github.com/iqm-finland/KQCircuits/issues/92",
+        "title": "Broken `Edit on Github` link for API pages of KQC documentation",
+        "project": "kqcircuits",
+        "value": 50
+      }
+    ],
+    "num_projects": 1,
+    "total_value": 50
   }
 ]
