@@ -3,9 +3,7 @@
     "amount_available": 240,
     "bounties": [
       {
-        "assignees": [
-          "AbdullahKazi500"
-        ],
+        "assignees": [],
         "state": "open",
         "title": "Support non-contiguous qubit indices",
         "url": "https://github.com/amazon-braket/amazon-braket-default-simulator-python/issues/252",
@@ -394,7 +392,9 @@
         "value": 100
       },
       {
-        "assignees": [],
+        "assignees": [
+          "MZuhairKhan"
+        ],
         "state": "open",
         "title": "Add confusion maps support to PauliMeasurementGate",
         "url": "https://github.com/quantumlib/Cirq/issues/5571",
@@ -1138,8 +1138,8 @@
     "bounties": [
       {
         "assignees": [
-          "anomius",
-          "dhanaabhirajk"
+          "dhanaabhirajk",
+          "anomius"
         ],
         "state": "open",
         "title": "Convert OpenQASM 3 program to specified basis gate set",
@@ -1253,9 +1253,9 @@
       },
       {
         "assignees": [
-          "schance995",
+          "0mWh",
           "AbdullahKazi500",
-          "0mWh"
+          "schance995"
         ],
         "state": "open",
         "title": "Classification Model for General Quantum Circuits",
@@ -1779,9 +1779,7 @@
     "amount_available": 450,
     "bounties": [
       {
-        "assignees": [
-          "maxwell04-wq"
-        ],
+        "assignees": [],
         "state": "open",
         "title": "`mpl_draw()` does not work for multigraphs",
         "url": "https://github.com/Qiskit/rustworkx/issues/774",
@@ -1877,8 +1875,8 @@
     "bounties": [
       {
         "assignees": [
-          "ValentinS4t1qbit",
-          "alexfleury-sb"
+          "alexfleury-sb",
+          "ValentinS4t1qbit"
         ],
         "state": "open",
         "title": "Incompatibility with PySCF >= 2.5.0",
@@ -1887,8 +1885,8 @@
       },
       {
         "assignees": [
-          "ValentinS4t1qbit",
-          "alexfleury-sb"
+          "alexfleury-sb",
+          "ValentinS4t1qbit"
         ],
         "state": "open",
         "title": "Circuit as reference state in the ansatz definition",
@@ -1897,8 +1895,8 @@
       },
       {
         "assignees": [
-          "ValentinS4t1qbit",
-          "alexfleury-sb"
+          "alexfleury-sb",
+          "ValentinS4t1qbit"
         ],
         "state": "open",
         "title": "Automatic documentation deployment",
@@ -1907,8 +1905,8 @@
       },
       {
         "assignees": [
-          "ValentinS4t1qbit",
-          "cburdine"
+          "cburdine",
+          "ValentinS4t1qbit"
         ],
         "state": "open",
         "title": "Augment the Rotosolve optimizer to support Rotoselect",
