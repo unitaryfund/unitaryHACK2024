@@ -880,12 +880,10 @@
     "url": "https://github.com/entropicalabs/openqaoa"
   },
   "openqasm3_parser": {
-    "amount_available": 300,
+    "amount_available": 200,
     "bounties": [
       {
-        "assignees": [
-          "abhamra"
-        ],
+        "assignees": [],
         "state": "open",
         "title": "Refactor lowering list of qubits (gate operands) in syntax_to_semantics.rs",
         "url": "https://github.com/Qiskit/openqasm3_parser/issues/163",
@@ -902,7 +900,7 @@
       },
       {
         "assignees": [],
-        "state": "open",
+        "state": "closed",
         "title": "Reduce prefix expression with unary minus wrapping literal, to literal with negative value",
         "url": "https://github.com/Qiskit/openqasm3_parser/issues/195",
         "value": 100
@@ -911,7 +909,7 @@
     "emoji": "\ud83c\udf10\ud83e\udd80",
     "name": "OpenQASM 3 Parser",
     "num_bounties": 3,
-    "num_open_bounties": 3,
+    "num_open_bounties": 2,
     "total_amount": 300,
     "url": "https://github.com/Qiskit/openqasm3_parser/"
   },
@@ -997,14 +995,18 @@
     "amount_available": 500,
     "bounties": [
       {
-        "assignees": [],
+        "assignees": [
+          "Fe-r-oz"
+        ],
         "state": "open",
         "title": "[Feature]: quantum utils docstrings and tests",
         "url": "https://github.com/aarontrowbridge/QuantumCollocation.jl/issues/102",
         "value": 50
       },
       {
-        "assignees": [],
+        "assignees": [
+          "maxwell04-wq"
+        ],
         "state": "open",
         "title": "[Feature]: interface with QuantumOptics.jl",
         "url": "https://github.com/aarontrowbridge/QuantumCollocation.jl/issues/85",
@@ -1018,7 +1020,9 @@
         "value": 150
       },
       {
-        "assignees": [],
+        "assignees": [
+          "victor-onofre"
+        ],
         "state": "open",
         "title": "[Feature]: rydberg gate problem templates ",
         "url": "https://github.com/aarontrowbridge/QuantumCollocation.jl/issues/88",
@@ -1244,7 +1248,8 @@
       },
       {
         "assignees": [
-          "schance995"
+          "schance995",
+          "neogyk"
         ],
         "state": "open",
         "title": "QNRG Classifier ML Model Improvements",
@@ -1254,8 +1259,8 @@
       {
         "assignees": [
           "0mWh",
-          "AbdullahKazi500",
-          "schance995"
+          "schance995",
+          "AbdullahKazi500"
         ],
         "state": "open",
         "title": "Classification Model for General Quantum Circuits",
@@ -1875,8 +1880,8 @@
     "bounties": [
       {
         "assignees": [
-          "alexfleury-sb",
-          "ValentinS4t1qbit"
+          "ValentinS4t1qbit",
+          "alexfleury-sb"
         ],
         "state": "open",
         "title": "Incompatibility with PySCF >= 2.5.0",
@@ -1885,8 +1890,8 @@
       },
       {
         "assignees": [
-          "alexfleury-sb",
-          "ValentinS4t1qbit"
+          "ValentinS4t1qbit",
+          "alexfleury-sb"
         ],
         "state": "open",
         "title": "Circuit as reference state in the ansatz definition",
@@ -1895,8 +1900,8 @@
       },
       {
         "assignees": [
-          "alexfleury-sb",
-          "ValentinS4t1qbit"
+          "ValentinS4t1qbit",
+          "alexfleury-sb"
         ],
         "state": "open",
         "title": "Automatic documentation deployment",
@@ -1905,8 +1910,8 @@
       },
       {
         "assignees": [
-          "cburdine",
-          "ValentinS4t1qbit"
+          "ValentinS4t1qbit",
+          "cburdine"
         ],
         "state": "open",
         "title": "Augment the Rotosolve optimizer to support Rotoselect",
