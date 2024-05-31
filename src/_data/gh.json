@@ -1116,7 +1116,7 @@
       },
       {
         "assignees": [
-          "dominikandreasseitz"
+          "ducthanh1991"
         ],
         "state": "open",
         "title": "[Performance] Expand PyQComposedBlock to 2 qubit gates",
@@ -1905,8 +1905,8 @@
       },
       {
         "assignees": [
-          "ValentinS4t1qbit",
-          "cburdine"
+          "cburdine",
+          "ValentinS4t1qbit"
         ],
         "state": "open",
         "title": "Augment the Rotosolve optimizer to support Rotoselect",
@@ -1983,7 +1983,7 @@
     "url": "https://github.com/tencent-quantum-lab/tensorcircuit"
   },
   "toqito": {
-    "amount_available": 420,
+    "amount_available": 340,
     "bounties": [
       {
         "assignees": [],
@@ -2023,8 +2023,10 @@
         "value": 80
       },
       {
-        "assignees": [],
-        "state": "open",
+        "assignees": [
+          "Roshan-Thomas"
+        ],
+        "state": "closed",
         "title": "References in tutorials",
         "url": "https://github.com/vprusso/toqito/issues/401",
         "value": 80
@@ -2033,7 +2035,7 @@
     "emoji": null,
     "name": "toqito",
     "num_bounties": 6,
-    "num_open_bounties": 5,
+    "num_open_bounties": 4,
     "total_amount": 500,
     "url": "https://github.com/vprusso/toqito"
   },

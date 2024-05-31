@@ -19,6 +19,19 @@
     "total_value": 130
   },
   {
+    "username": "Roshan-Thomas",
+    "bounties": [
+      {
+        "url": "https://github.com/vprusso/toqito/issues/401",
+        "title": "References in tutorials",
+        "project": "toqito",
+        "value": 80
+      }
+    ],
+    "num_projects": 1,
+    "total_value": 80
+  },
+  {
     "username": "LorenzoFioroni",
     "bounties": [
       {
