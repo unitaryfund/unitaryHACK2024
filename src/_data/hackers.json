@@ -1,5 +1,24 @@
 [
   {
+    "username": "golanor",
+    "bounties": [
+      {
+        "url": "https://github.com/vprusso/toqito/issues/431",
+        "title": "Ensure PSD operators are being optimized over proper space",
+        "project": "toqito",
+        "value": 80
+      },
+      {
+        "url": "https://github.com/goodchemistryco/Tangelo/issues/387",
+        "title": "Support for multi-controlled rotation (RX, RY, RZ) gates for qiskit backend",
+        "project": "tangelo",
+        "value": 50
+      }
+    ],
+    "num_projects": 2,
+    "total_value": 130
+  },
+  {
     "username": "LorenzoFioroni",
     "bounties": [
       {
@@ -20,10 +39,16 @@
         "title": "Backend agnostic implementation of quantum Hamiltonian generation",
         "project": "tensorcircuit",
         "value": 150
+      },
+      {
+        "url": "https://github.com/qBraid/qBraid/issues/618",
+        "title": "NetworkX Out, Rustworkx In: Unleash the Speed",
+        "project": "qbraid",
+        "value": 75
       }
     ],
-    "num_projects": 1,
-    "total_value": 150
+    "num_projects": 2,
+    "total_value": 225
   },
   {
     "username": "Gopal-Dahale",
@@ -37,19 +62,6 @@
     ],
     "num_projects": 1,
     "total_value": 100
-  },
-  {
-    "username": "golanor",
-    "bounties": [
-      {
-        "url": "https://github.com/goodchemistryco/Tangelo/issues/387",
-        "title": "Support for multi-controlled rotation (RX, RY, RZ) gates for qiskit backend",
-        "project": "tangelo",
-        "value": 50
-      }
-    ],
-    "num_projects": 1,
-    "total_value": 50
   },
   {
     "username": "anushkrishnav",

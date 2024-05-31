@@ -1128,7 +1128,7 @@
     "url": "https://github.com/pasqal-io/qadence"
   },
   "qbraid": {
-    "amount_available": 500,
+    "amount_available": 425,
     "bounties": [
       {
         "assignees": [
@@ -1144,7 +1144,7 @@
         "assignees": [
           "king-p3nguin"
         ],
-        "state": "open",
+        "state": "closed",
         "title": "NetworkX Out, Rustworkx In: Unleash the Speed",
         "url": "https://github.com/qBraid/qBraid/issues/618",
         "value": 75
@@ -1174,7 +1174,7 @@
     "emoji": "\ud83c\udfc3\u200d\u2642\ufe0f\u23f1\ufe0f",
     "name": "qBraid-SDK",
     "num_bounties": 5,
-    "num_open_bounties": 5,
+    "num_open_bounties": 4,
     "total_amount": 500,
     "url": "https://github.com/qBraid/qBraid"
   },
@@ -1247,9 +1247,9 @@
       },
       {
         "assignees": [
+          "schance995",
           "0mWh",
-          "AbdullahKazi500",
-          "schance995"
+          "AbdullahKazi500"
         ],
         "state": "open",
         "title": "Classification Model for General Quantum Circuits",
@@ -1981,7 +1981,7 @@
     "url": "https://github.com/tencent-quantum-lab/tensorcircuit"
   },
   "toqito": {
-    "amount_available": 500,
+    "amount_available": 420,
     "bounties": [
       {
         "assignees": [],
@@ -2015,7 +2015,7 @@
         "assignees": [
           "golanor"
         ],
-        "state": "open",
+        "state": "closed",
         "title": "Ensure PSD operators are being optimized over proper space",
         "url": "https://github.com/vprusso/toqito/issues/431",
         "value": 80
@@ -2031,7 +2031,7 @@
     "emoji": null,
     "name": "toqito",
     "num_bounties": 6,
-    "num_open_bounties": 6,
+    "num_open_bounties": 5,
     "total_amount": 500,
     "url": "https://github.com/vprusso/toqito"
   },
