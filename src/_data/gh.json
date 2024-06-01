@@ -880,11 +880,11 @@
     "url": "https://github.com/entropicalabs/openqaoa"
   },
   "openqasm3_parser": {
-    "amount_available": 200,
+    "amount_available": 100,
     "bounties": [
       {
         "assignees": [],
-        "state": "open",
+        "state": "closed",
         "title": "Refactor lowering list of qubits (gate operands) in syntax_to_semantics.rs",
         "url": "https://github.com/Qiskit/openqasm3_parser/issues/163",
         "value": 100
@@ -909,7 +909,7 @@
     "emoji": "\ud83c\udf10\ud83e\udd80",
     "name": "OpenQASM 3 Parser",
     "num_bounties": 3,
-    "num_open_bounties": 2,
+    "num_open_bounties": 1,
     "total_amount": 300,
     "url": "https://github.com/Qiskit/openqasm3_parser/"
   },
@@ -1248,8 +1248,8 @@
       },
       {
         "assignees": [
-          "schance995",
-          "neogyk"
+          "neogyk",
+          "schance995"
         ],
         "state": "open",
         "title": "QNRG Classifier ML Model Improvements",
@@ -1258,8 +1258,8 @@
       },
       {
         "assignees": [
-          "0mWh",
           "schance995",
+          "0mWh",
           "AbdullahKazi500"
         ],
         "state": "open",
@@ -1880,8 +1880,8 @@
     "bounties": [
       {
         "assignees": [
-          "ValentinS4t1qbit",
-          "alexfleury-sb"
+          "alexfleury-sb",
+          "ValentinS4t1qbit"
         ],
         "state": "open",
         "title": "Incompatibility with PySCF >= 2.5.0",
@@ -1890,8 +1890,8 @@
       },
       {
         "assignees": [
-          "ValentinS4t1qbit",
-          "alexfleury-sb"
+          "alexfleury-sb",
+          "ValentinS4t1qbit"
         ],
         "state": "open",
         "title": "Circuit as reference state in the ansatz definition",
@@ -1900,8 +1900,8 @@
       },
       {
         "assignees": [
-          "ValentinS4t1qbit",
-          "alexfleury-sb"
+          "alexfleury-sb",
+          "ValentinS4t1qbit"
         ],
         "state": "open",
         "title": "Automatic documentation deployment",
