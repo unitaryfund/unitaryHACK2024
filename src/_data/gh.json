@@ -1169,7 +1169,9 @@
         "value": 125
       },
       {
-        "assignees": [],
+        "assignees": [
+          "king-p3nguin"
+        ],
         "state": "open",
         "title": "Implement tests for IonQ runtime provider",
         "url": "https://github.com/qBraid/qBraid/issues/624",
@@ -1250,8 +1252,8 @@
       },
       {
         "assignees": [
-          "schance995",
-          "neogyk"
+          "neogyk",
+          "schance995"
         ],
         "state": "open",
         "title": "QNRG Classifier ML Model Improvements",
@@ -1260,9 +1262,9 @@
       },
       {
         "assignees": [
-          "0mWh",
+          "AbdullahKazi500",
           "schance995",
-          "AbdullahKazi500"
+          "0mWh"
         ],
         "state": "open",
         "title": "Classification Model for General Quantum Circuits",
