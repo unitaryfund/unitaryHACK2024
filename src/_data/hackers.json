@@ -101,5 +101,24 @@
     ],
     "num_projects": 1,
     "total_value": 50
+  },
+  {
+    "username": "atomgardner",
+    "bounties": [
+      {
+        "url": "https://github.com/Qiskit/openqasm3_parser/issues/163",
+        "title": "Refactor lowering list of qubits (gate operands) in syntax_to_semantics.rs",
+        "project": "openqasm3_parser",
+        "value": 100
+      },
+      {
+        "url": "https://github.com/Qiskit/openqasm3_parser/issues/195",
+        "title": "Reduce prefix expression with unary minus wrapping literal, to literal with negative value",
+        "project": "openqasm3_parser",
+        "value": 100
+      }
+    ],
+    "num_projects": 1,
+    "total_value": 200
   }
 ]
