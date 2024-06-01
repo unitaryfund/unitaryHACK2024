@@ -515,7 +515,7 @@
     "url": "https://github.com/NVIDIA/cuda-quantum"
   },
   "fusion-blossom": {
-    "amount_available": 500,
+    "amount_available": 450,
     "bounties": [
       {
         "assignees": [],
@@ -547,7 +547,7 @@
       },
       {
         "assignees": [],
-        "state": "open",
+        "state": "closed",
         "title": "Rust programming: fix build error in latest rust compiler",
         "url": "https://github.com/yuewuo/fusion-blossom/issues/36",
         "value": 50
@@ -556,7 +556,7 @@
     "emoji": "\ud83e\udd80\ud83d\udc0d",
     "name": "Fusion Blossom",
     "num_bounties": 5,
-    "num_open_bounties": 5,
+    "num_open_bounties": 4,
     "total_amount": 500,
     "url": "https://github.com/yuewuo/fusion-blossom"
   },
@@ -1013,7 +1013,9 @@
         "value": 50
       },
       {
-        "assignees": [],
+        "assignees": [
+          "Fe-r-oz"
+        ],
         "state": "open",
         "title": "[Feature]: Sample-based robust control",
         "url": "https://github.com/aarontrowbridge/QuantumCollocation.jl/issues/89",
@@ -1142,8 +1144,8 @@
     "bounties": [
       {
         "assignees": [
-          "anomius",
-          "dhanaabhirajk"
+          "dhanaabhirajk",
+          "anomius"
         ],
         "state": "open",
         "title": "Convert OpenQASM 3 program to specified basis gate set",
@@ -1263,8 +1265,8 @@
       {
         "assignees": [
           "AbdullahKazi500",
-          "schance995",
-          "0mWh"
+          "0mWh",
+          "schance995"
         ],
         "state": "open",
         "title": "Classification Model for General Quantum Circuits",
@@ -1914,8 +1916,8 @@
       },
       {
         "assignees": [
-          "ValentinS4t1qbit",
-          "cburdine"
+          "cburdine",
+          "ValentinS4t1qbit"
         ],
         "state": "open",
         "title": "Augment the Rotosolve optimizer to support Rotoselect",
