@@ -198,18 +198,14 @@
     "amount_available": 500,
     "bounties": [
       {
-        "assignees": [
-          "AbdullahKazi500"
-        ],
+        "assignees": [],
         "state": "open",
         "title": "Radix Broadcasting",
         "url": "https://github.com/bqskit/bqskit/issues/223",
         "value": 100
       },
       {
-        "assignees": [
-          "Youngcius"
-        ],
+        "assignees": [],
         "state": "open",
         "title": "Add missing `get_inverse` definitions",
         "url": "https://github.com/bqskit/bqskit/issues/227",
@@ -1146,8 +1142,8 @@
     "bounties": [
       {
         "assignees": [
-          "dhanaabhirajk",
-          "anomius"
+          "anomius",
+          "dhanaabhirajk"
         ],
         "state": "open",
         "title": "Convert OpenQASM 3 program to specified basis gate set",
@@ -1264,9 +1260,9 @@
       },
       {
         "assignees": [
-          "0mWh",
           "schance995",
-          "AbdullahKazi500"
+          "AbdullahKazi500",
+          "0mWh"
         ],
         "state": "open",
         "title": "Classification Model for General Quantum Circuits",
@@ -1886,8 +1882,8 @@
     "bounties": [
       {
         "assignees": [
-          "alexfleury-sb",
-          "ValentinS4t1qbit"
+          "ValentinS4t1qbit",
+          "alexfleury-sb"
         ],
         "state": "open",
         "title": "Incompatibility with PySCF >= 2.5.0",
@@ -1896,8 +1892,8 @@
       },
       {
         "assignees": [
-          "alexfleury-sb",
-          "ValentinS4t1qbit"
+          "ValentinS4t1qbit",
+          "alexfleury-sb"
         ],
         "state": "open",
         "title": "Circuit as reference state in the ansatz definition",
@@ -1906,8 +1902,8 @@
       },
       {
         "assignees": [
-          "alexfleury-sb",
-          "ValentinS4t1qbit"
+          "ValentinS4t1qbit",
+          "alexfleury-sb"
         ],
         "state": "open",
         "title": "Automatic documentation deployment",
@@ -1916,8 +1912,8 @@
       },
       {
         "assignees": [
-          "cburdine",
-          "ValentinS4t1qbit"
+          "ValentinS4t1qbit",
+          "cburdine"
         ],
         "state": "open",
         "title": "Augment the Rotosolve optimizer to support Rotoselect",
