@@ -58,10 +58,22 @@
         "title": "NetworkX Out, Rustworkx In: Unleash the Speed",
         "project": "qbraid",
         "value": 75
+      },
+      {
+        "url": "https://github.com/qBraid/qBraid/issues/624",
+        "title": "Implement tests for IonQ runtime provider",
+        "project": "qbraid",
+        "value": 75
+      },
+      {
+        "url": "https://github.com/qBraid/qBraid/issues/625",
+        "title": "Expand IonQ provider runtime to supported gates",
+        "project": "qbraid",
+        "value": 75
       }
     ],
     "num_projects": 2,
-    "total_value": 225
+    "total_value": 375
   },
   {
     "username": "Gopal-Dahale",

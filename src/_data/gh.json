@@ -1142,12 +1142,12 @@
     "url": "https://github.com/pasqal-io/qadence"
   },
   "qbraid": {
-    "amount_available": 425,
+    "amount_available": 275,
     "bounties": [
       {
         "assignees": [
-          "dhanaabhirajk",
-          "anomius"
+          "anomius",
+          "dhanaabhirajk"
         ],
         "state": "open",
         "title": "Convert OpenQASM 3 program to specified basis gate set",
@@ -1176,7 +1176,7 @@
         "assignees": [
           "king-p3nguin"
         ],
-        "state": "open",
+        "state": "closed",
         "title": "Implement tests for IonQ runtime provider",
         "url": "https://github.com/qBraid/qBraid/issues/624",
         "value": 75
@@ -1185,7 +1185,7 @@
         "assignees": [
           "king-p3nguin"
         ],
-        "state": "open",
+        "state": "closed",
         "title": "Expand IonQ provider runtime to supported gates",
         "url": "https://github.com/qBraid/qBraid/issues/625",
         "value": 75
@@ -1194,7 +1194,7 @@
     "emoji": "\ud83c\udfc3\u200d\u2642\ufe0f\u23f1\ufe0f",
     "name": "qBraid-SDK",
     "num_bounties": 5,
-    "num_open_bounties": 4,
+    "num_open_bounties": 2,
     "total_amount": 500,
     "url": "https://github.com/qBraid/qBraid"
   },
@@ -1268,9 +1268,9 @@
       },
       {
         "assignees": [
+          "0mWh",
           "schance995",
-          "AbdullahKazi500",
-          "0mWh"
+          "AbdullahKazi500"
         ],
         "state": "open",
         "title": "Classification Model for General Quantum Circuits",
@@ -1890,8 +1890,8 @@
     "bounties": [
       {
         "assignees": [
-          "alexfleury-sb",
-          "ValentinS4t1qbit"
+          "ValentinS4t1qbit",
+          "alexfleury-sb"
         ],
         "state": "open",
         "title": "Incompatibility with PySCF >= 2.5.0",
@@ -1900,8 +1900,8 @@
       },
       {
         "assignees": [
-          "alexfleury-sb",
-          "ValentinS4t1qbit"
+          "ValentinS4t1qbit",
+          "alexfleury-sb"
         ],
         "state": "open",
         "title": "Circuit as reference state in the ansatz definition",
@@ -1910,8 +1910,8 @@
       },
       {
         "assignees": [
-          "alexfleury-sb",
-          "ValentinS4t1qbit"
+          "ValentinS4t1qbit",
+          "alexfleury-sb"
         ],
         "state": "open",
         "title": "Automatic documentation deployment",
