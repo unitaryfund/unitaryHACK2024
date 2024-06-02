@@ -1182,7 +1182,9 @@
         "value": 75
       },
       {
-        "assignees": [],
+        "assignees": [
+          "king-p3nguin"
+        ],
         "state": "open",
         "title": "Expand IonQ provider runtime to supported gates",
         "url": "https://github.com/qBraid/qBraid/issues/625",
@@ -1256,8 +1258,8 @@
       },
       {
         "assignees": [
-          "neogyk",
-          "schance995"
+          "schance995",
+          "neogyk"
         ],
         "state": "open",
         "title": "QNRG Classifier ML Model Improvements",
@@ -1266,9 +1268,9 @@
       },
       {
         "assignees": [
-          "0mWh",
+          "schance995",
           "AbdullahKazi500",
-          "schance995"
+          "0mWh"
         ],
         "state": "open",
         "title": "Classification Model for General Quantum Circuits",
