@@ -1258,8 +1258,8 @@
       },
       {
         "assignees": [
-          "neogyk",
-          "schance995"
+          "schance995",
+          "neogyk"
         ],
         "state": "open",
         "title": "QNRG Classifier ML Model Improvements",
@@ -1268,8 +1268,8 @@
       },
       {
         "assignees": [
-          "AbdullahKazi500",
           "schance995",
+          "AbdullahKazi500",
           "0mWh"
         ],
         "state": "open",
@@ -1920,8 +1920,8 @@
       },
       {
         "assignees": [
-          "cburdine",
-          "ValentinS4t1qbit"
+          "ValentinS4t1qbit",
+          "cburdine"
         ],
         "state": "open",
         "title": "Augment the Rotosolve optimizer to support Rotoselect",
