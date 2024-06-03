@@ -45,8 +45,27 @@
     "total_value": 125
   },
   {
+    "username": "samu-sys",
+    "bounties": [
+      {
+        "url": "https://github.com/qutip/QuantumToolbox.jl/issues/82",
+        "title": "Improve the Floquet solver, with the possibility to get also the time-dependent components",
+        "project": "quantumtoolbox.jl",
+        "value": 125
+      }
+    ],
+    "num_projects": 1,
+    "total_value": 125
+  },
+  {
     "username": "king-p3nguin",
     "bounties": [
+      {
+        "url": "https://github.com/tencent-quantum-lab/tensorcircuit/issues/212",
+        "title": "Add examples benchmarking different contractor settings provided by cotengra",
+        "project": "tensorcircuit",
+        "value": 100
+      },
       {
         "url": "https://github.com/tencent-quantum-lab/tensorcircuit/issues/161",
         "title": "Backend agnostic implementation of quantum Hamiltonian generation",
@@ -73,7 +92,7 @@
       }
     ],
     "num_projects": 2,
-    "total_value": 375
+    "total_value": 475
   },
   {
     "username": "Gopal-Dahale",
