@@ -117,7 +117,7 @@
     "url": "https://github.com/amazon-braket/amazon-braket-sdk-python"
   },
   "autoqasm": {
-    "amount_available": 250,
+    "amount_available": 210,
     "bounties": [
       {
         "assignees": [],
@@ -149,7 +149,7 @@
       },
       {
         "assignees": [],
-        "state": "open",
+        "state": "closed",
         "title": "Automatically determine dimensions for `aq.ArrayVar` declaration",
         "url": "https://github.com/amazon-braket/autoqasm/issues/13",
         "value": 40
@@ -158,7 +158,7 @@
     "emoji": "\u269b\ufe0f\ud83d\udc0d",
     "name": "AutoQASM",
     "num_bounties": 5,
-    "num_open_bounties": 5,
+    "num_open_bounties": 4,
     "total_amount": 250,
     "url": "https://github.com/amazon-braket/autoqasm"
   },
@@ -965,7 +965,9 @@
     "amount_available": 500,
     "bounties": [
       {
-        "assignees": [],
+        "assignees": [
+          "burlemarxiste"
+        ],
         "state": "open",
         "title": "QASM to linear optics circuit converter",
         "url": "https://github.com/Quandela/Perceval/issues/399",
@@ -1926,8 +1928,8 @@
       },
       {
         "assignees": [
-          "ValentinS4t1qbit",
-          "cburdine"
+          "cburdine",
+          "ValentinS4t1qbit"
         ],
         "state": "open",
         "title": "Augment the Rotosolve optimizer to support Rotoselect",
@@ -2009,7 +2011,9 @@
     "amount_available": 340,
     "bounties": [
       {
-        "assignees": [],
+        "assignees": [
+          "tnemoz"
+        ],
         "state": "open",
         "title": "Add unambiguous discrimination strategy to state distinguishability and state exclusion",
         "url": "https://github.com/vprusso/toqito/issues/519",
@@ -2030,7 +2034,9 @@
         "value": 80
       },
       {
-        "assignees": [],
+        "assignees": [
+          "anushkrishnav"
+        ],
         "state": "open",
         "title": "Refactor: Permute systems index offset",
         "url": "https://github.com/vprusso/toqito/issues/168",
