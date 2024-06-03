@@ -58,6 +58,19 @@
     "total_value": 125
   },
   {
+    "username": "tomv42",
+    "bounties": [
+      {
+        "url": "https://github.com/dakk/qlasskit/issues/23",
+        "title": "Pow operator",
+        "project": "qlasskit",
+        "value": 50
+      }
+    ],
+    "num_projects": 1,
+    "total_value": 50
+  },
+  {
     "username": "king-p3nguin",
     "bounties": [
       {

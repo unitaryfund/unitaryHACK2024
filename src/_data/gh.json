@@ -1260,8 +1260,8 @@
       },
       {
         "assignees": [
-          "neogyk",
-          "schance995"
+          "schance995",
+          "neogyk"
         ],
         "state": "open",
         "title": "QNRG Classifier ML Model Improvements",
@@ -1270,9 +1270,9 @@
       },
       {
         "assignees": [
+          "schance995",
           "AbdullahKazi500",
-          "0mWh",
-          "schance995"
+          "0mWh"
         ],
         "state": "open",
         "title": "Classification Model for General Quantum Circuits",
@@ -1405,7 +1405,7 @@
     "url": "https://github.com/qiskit-community/qiskit-braket-provider"
   },
   "qlasskit": {
-    "amount_available": 425,
+    "amount_available": 375,
     "bounties": [
       {
         "assignees": [],
@@ -1422,8 +1422,10 @@
         "value": 100
       },
       {
-        "assignees": [],
-        "state": "open",
+        "assignees": [
+          "tomv42"
+        ],
+        "state": "closed",
         "title": "Pow operator",
         "url": "https://github.com/dakk/qlasskit/issues/23",
         "value": 50
@@ -1446,7 +1448,7 @@
     "emoji": "\u2699\ufe0f",
     "name": "qlasskit",
     "num_bounties": 5,
-    "num_open_bounties": 5,
+    "num_open_bounties": 4,
     "total_amount": 425,
     "url": "https://github.com/dakk/qlasskit"
   },
@@ -1924,8 +1926,8 @@
       },
       {
         "assignees": [
-          "ValentinS4t1qbit",
-          "cburdine"
+          "cburdine",
+          "ValentinS4t1qbit"
         ],
         "state": "open",
         "title": "Augment the Rotosolve optimizer to support Rotoselect",
