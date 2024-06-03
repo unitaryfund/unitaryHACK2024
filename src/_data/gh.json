@@ -998,7 +998,7 @@
     "url": "https://github.com/Quandela/Perceval"
   },
   "piccolo.jl": {
-    "amount_available": 500,
+    "amount_available": 450,
     "bounties": [
       {
         "assignees": [
@@ -1045,7 +1045,7 @@
       },
       {
         "assignees": [],
-        "state": "open",
+        "state": "closed",
         "title": "[Feature]: docstrings for NamedTrajectory struct and consttructors",
         "url": "https://github.com/aarontrowbridge/NamedTrajectories.jl/issues/39",
         "value": 50
@@ -1054,7 +1054,7 @@
     "emoji": null,
     "name": "Piccolo.jl",
     "num_bounties": 6,
-    "num_open_bounties": 6,
+    "num_open_bounties": 5,
     "total_amount": 500,
     "url": "https://github.com/aarontrowbridge/Piccolo.jl"
   },
@@ -1264,9 +1264,9 @@
       },
       {
         "assignees": [
-          "schance995",
           "neogyk",
-          "idriss-hamadi"
+          "idriss-hamadi",
+          "schance995"
         ],
         "state": "open",
         "title": "QNRG Classifier ML Model Improvements",
@@ -1276,8 +1276,8 @@
       {
         "assignees": [
           "schance995",
-          "0mWh",
-          "AbdullahKazi500"
+          "AbdullahKazi500",
+          "0mWh"
         ],
         "state": "open",
         "title": "Classification Model for General Quantum Circuits",
@@ -1874,7 +1874,7 @@
       },
       {
         "assignees": [
-          "jkochNU"
+          "saipavanc"
         ],
         "state": "open",
         "title": "Additional functionality for plotting a section of a wavefunction",
@@ -1933,8 +1933,8 @@
       },
       {
         "assignees": [
-          "cburdine",
-          "ValentinS4t1qbit"
+          "ValentinS4t1qbit",
+          "cburdine"
         ],
         "state": "open",
         "title": "Augment the Rotosolve optimizer to support Rotoselect",
@@ -2013,7 +2013,7 @@
     "url": "https://github.com/tencent-quantum-lab/tensorcircuit"
   },
   "toqito": {
-    "amount_available": 340,
+    "amount_available": 260,
     "bounties": [
       {
         "assignees": [
@@ -2042,7 +2042,7 @@
         "assignees": [
           "anushkrishnav"
         ],
-        "state": "open",
+        "state": "closed",
         "title": "Refactor: Permute systems index offset",
         "url": "https://github.com/vprusso/toqito/issues/168",
         "value": 80
@@ -2069,7 +2069,7 @@
     "emoji": null,
     "name": "toqito",
     "num_bounties": 6,
-    "num_open_bounties": 4,
+    "num_open_bounties": 3,
     "total_amount": 500,
     "url": "https://github.com/vprusso/toqito"
   },

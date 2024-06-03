@@ -1,5 +1,24 @@
 [
   {
+    "username": "anushkrishnav",
+    "bounties": [
+      {
+        "url": "https://github.com/vprusso/toqito/issues/168",
+        "title": "Refactor: Permute systems index offset",
+        "project": "toqito",
+        "value": 80
+      },
+      {
+        "url": "https://github.com/goodchemistryco/Tangelo/issues/388",
+        "title": "[BUG] `Circuit.draw()` returns an error when gate parameter is a string",
+        "project": "tangelo",
+        "value": 50
+      }
+    ],
+    "num_projects": 2,
+    "total_value": 130
+  },
+  {
     "username": "golanor",
     "bounties": [
       {
@@ -132,19 +151,6 @@
     ],
     "num_projects": 1,
     "total_value": 40
-  },
-  {
-    "username": "anushkrishnav",
-    "bounties": [
-      {
-        "url": "https://github.com/goodchemistryco/Tangelo/issues/388",
-        "title": "[BUG] `Circuit.draw()` returns an error when gate parameter is a string",
-        "project": "tangelo",
-        "value": 50
-      }
-    ],
-    "num_projects": 1,
-    "total_value": 50
   },
   {
     "username": "atomgardner",
