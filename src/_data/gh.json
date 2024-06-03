@@ -1148,8 +1148,8 @@
     "bounties": [
       {
         "assignees": [
-          "anomius",
-          "dhanaabhirajk"
+          "dhanaabhirajk",
+          "anomius"
         ],
         "state": "open",
         "title": "Convert OpenQASM 3 program to specified basis gate set",
@@ -1270,8 +1270,8 @@
       },
       {
         "assignees": [
-          "schance995",
           "AbdullahKazi500",
+          "schance995",
           "0mWh"
         ],
         "state": "open",
