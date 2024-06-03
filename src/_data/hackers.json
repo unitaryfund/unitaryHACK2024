@@ -121,6 +121,19 @@
     "total_value": 100
   },
   {
+    "username": "Yash-10",
+    "bounties": [
+      {
+        "url": "https://github.com/amazon-braket/autoqasm/issues/13",
+        "title": "Automatically determine dimensions for `aq.ArrayVar` declaration",
+        "project": "autoqasm",
+        "value": 40
+      }
+    ],
+    "num_projects": 1,
+    "total_value": 40
+  },
+  {
     "username": "anushkrishnav",
     "bounties": [
       {

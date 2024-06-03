@@ -148,7 +148,9 @@
         "value": 60
       },
       {
-        "assignees": [],
+        "assignees": [
+          "Yash-10"
+        ],
         "state": "closed",
         "title": "Automatically determine dimensions for `aq.ArrayVar` declaration",
         "url": "https://github.com/amazon-braket/autoqasm/issues/13",
@@ -1150,8 +1152,8 @@
     "bounties": [
       {
         "assignees": [
-          "anomius",
-          "dhanaabhirajk"
+          "dhanaabhirajk",
+          "anomius"
         ],
         "state": "open",
         "title": "Convert OpenQASM 3 program to specified basis gate set",
@@ -1262,8 +1264,8 @@
       },
       {
         "assignees": [
-          "schance995",
-          "neogyk"
+          "neogyk",
+          "schance995"
         ],
         "state": "open",
         "title": "QNRG Classifier ML Model Improvements",
@@ -1272,9 +1274,9 @@
       },
       {
         "assignees": [
+          "AbdullahKazi500",
           "0mWh",
-          "schance995",
-          "AbdullahKazi500"
+          "schance995"
         ],
         "state": "open",
         "title": "Classification Model for General Quantum Circuits",
@@ -1550,7 +1552,9 @@
         "value": 60
       },
       {
-        "assignees": [],
+        "assignees": [
+          "Manvi-Agrawal"
+        ],
         "state": "open",
         "title": "Add three qubit `AND` operation to public API",
         "url": "https://github.com/microsoft/qsharp/issues/1212",
@@ -1898,8 +1902,8 @@
     "bounties": [
       {
         "assignees": [
-          "ValentinS4t1qbit",
-          "alexfleury-sb"
+          "alexfleury-sb",
+          "ValentinS4t1qbit"
         ],
         "state": "open",
         "title": "Incompatibility with PySCF >= 2.5.0",
@@ -1908,8 +1912,8 @@
       },
       {
         "assignees": [
-          "ValentinS4t1qbit",
-          "alexfleury-sb"
+          "alexfleury-sb",
+          "ValentinS4t1qbit"
         ],
         "state": "open",
         "title": "Circuit as reference state in the ansatz definition",
@@ -1918,8 +1922,8 @@
       },
       {
         "assignees": [
-          "ValentinS4t1qbit",
-          "alexfleury-sb"
+          "alexfleury-sb",
+          "ValentinS4t1qbit"
         ],
         "state": "open",
         "title": "Automatic documentation deployment",
