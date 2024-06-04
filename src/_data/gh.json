@@ -1266,8 +1266,8 @@
       },
       {
         "assignees": [
-          "neogyk",
           "schance995",
+          "neogyk",
           "idriss-hamadi"
         ],
         "state": "open",
@@ -1277,9 +1277,9 @@
       },
       {
         "assignees": [
+          "schance995",
           "0mWh",
-          "AbdullahKazi500",
-          "schance995"
+          "AbdullahKazi500"
         ],
         "state": "open",
         "title": "Classification Model for General Quantum Circuits",
@@ -1916,6 +1916,7 @@
       {
         "assignees": [
           "ValentinS4t1qbit",
+          "cburdine",
           "alexfleury-sb"
         ],
         "state": "open",
