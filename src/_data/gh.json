@@ -738,7 +738,7 @@
     "url": "https://github.com/CQCL/lambeq"
   },
   "metriq-app": {
-    "amount_available": 500,
+    "amount_available": 400,
     "bounties": [
       {
         "assignees": [],
@@ -765,7 +765,7 @@
         "assignees": [
           "AVDiv"
         ],
-        "state": "open",
+        "state": "closed",
         "title": "Update to pyproject.toml",
         "url": "https://github.com/unitaryfund/metriq-client/issues/119",
         "value": 100
@@ -783,7 +783,7 @@
     "emoji": "\ud83d\udcca",
     "name": "Metriq",
     "num_bounties": 5,
-    "num_open_bounties": 5,
+    "num_open_bounties": 4,
     "total_amount": 500,
     "url": "https://github.com/unitaryfund/metriq-app"
   },
@@ -1158,8 +1158,8 @@
     "bounties": [
       {
         "assignees": [
-          "anomius",
-          "dhanaabhirajk"
+          "dhanaabhirajk",
+          "anomius"
         ],
         "state": "open",
         "title": "Convert OpenQASM 3 program to specified basis gate set",
@@ -1911,8 +1911,8 @@
     "bounties": [
       {
         "assignees": [
-          "alexfleury-sb",
-          "ValentinS4t1qbit"
+          "ValentinS4t1qbit",
+          "alexfleury-sb"
         ],
         "state": "open",
         "title": "Incompatibility with PySCF >= 2.5.0",
@@ -1921,9 +1921,9 @@
       },
       {
         "assignees": [
+          "ValentinS4t1qbit",
           "alexfleury-sb",
-          "cburdine",
-          "ValentinS4t1qbit"
+          "cburdine"
         ],
         "state": "open",
         "title": "Circuit as reference state in the ansatz definition",
@@ -1932,8 +1932,8 @@
       },
       {
         "assignees": [
-          "alexfleury-sb",
-          "ValentinS4t1qbit"
+          "ValentinS4t1qbit",
+          "alexfleury-sb"
         ],
         "state": "open",
         "title": "Automatic documentation deployment",
@@ -1942,8 +1942,8 @@
       },
       {
         "assignees": [
-          "cburdine",
-          "ValentinS4t1qbit"
+          "ValentinS4t1qbit",
+          "cburdine"
         ],
         "state": "open",
         "title": "Augment the Rotosolve optimizer to support Rotoselect",
