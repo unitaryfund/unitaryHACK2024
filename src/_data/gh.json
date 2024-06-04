@@ -360,7 +360,7 @@
     "url": "https://github.com/amazon-braket/BraketSimulator.jl"
   },
   "cirq": {
-    "amount_available": 500,
+    "amount_available": 400,
     "bounties": [
       {
         "assignees": [
@@ -384,7 +384,7 @@
         "assignees": [
           "rodolfocarobene"
         ],
-        "state": "open",
+        "state": "closed",
         "title": "`Xa*Zb*Zb*Zb` works but `Xa*Zb**3` raises error ",
         "url": "https://github.com/quantumlib/Cirq/issues/5715",
         "value": 100
@@ -411,7 +411,7 @@
     "emoji": null,
     "name": "Cirq",
     "num_bounties": 5,
-    "num_open_bounties": 5,
+    "num_open_bounties": 4,
     "total_amount": 500,
     "url": "https://github.com/quantumlib/Cirq"
   },
@@ -764,7 +764,9 @@
         "value": 150
       },
       {
-        "assignees": [],
+        "assignees": [
+          "AVDiv"
+        ],
         "state": "open",
         "title": "Update to pyproject.toml",
         "url": "https://github.com/unitaryfund/metriq-client/issues/119",
@@ -1152,8 +1154,8 @@
     "bounties": [
       {
         "assignees": [
-          "dhanaabhirajk",
-          "anomius"
+          "anomius",
+          "dhanaabhirajk"
         ],
         "state": "open",
         "title": "Convert OpenQASM 3 program to specified basis gate set",
@@ -1265,8 +1267,8 @@
       {
         "assignees": [
           "neogyk",
-          "idriss-hamadi",
-          "schance995"
+          "schance995",
+          "idriss-hamadi"
         ],
         "state": "open",
         "title": "QNRG Classifier ML Model Improvements",
@@ -1275,9 +1277,9 @@
       },
       {
         "assignees": [
-          "schance995",
+          "0mWh",
           "AbdullahKazi500",
-          "0mWh"
+          "schance995"
         ],
         "state": "open",
         "title": "Classification Model for General Quantum Circuits",
