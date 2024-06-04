@@ -433,9 +433,7 @@
         "value": 120
       },
       {
-        "assignees": [
-          "scssandanayake"
-        ],
+        "assignees": [],
         "state": "open",
         "title": "Add initial conditions to the arithmetic example in the arithmetic_expressions notebook",
         "url": "https://github.com/Classiq/classiq-library/issues/36",
@@ -1103,7 +1101,9 @@
     "amount_available": 500,
     "bounties": [
       {
-        "assignees": [],
+        "assignees": [
+          "SaashaJoshi"
+        ],
         "state": "open",
         "title": "[Enhance] Add 'backend' argument to product_state",
         "url": "https://github.com/pasqal-io/qadence/issues/370",
@@ -1266,9 +1266,9 @@
       },
       {
         "assignees": [
-          "neogyk",
           "schance995",
-          "idriss-hamadi"
+          "idriss-hamadi",
+          "neogyk"
         ],
         "state": "open",
         "title": "QNRG Classifier ML Model Improvements",
@@ -1277,9 +1277,9 @@
       },
       {
         "assignees": [
-          "AbdullahKazi500",
+          "schance995",
           "0mWh",
-          "schance995"
+          "AbdullahKazi500"
         ],
         "state": "open",
         "title": "Classification Model for General Quantum Circuits",
@@ -1905,8 +1905,8 @@
     "bounties": [
       {
         "assignees": [
-          "ValentinS4t1qbit",
-          "alexfleury-sb"
+          "alexfleury-sb",
+          "ValentinS4t1qbit"
         ],
         "state": "open",
         "title": "Incompatibility with PySCF >= 2.5.0",
@@ -1915,9 +1915,9 @@
       },
       {
         "assignees": [
-          "ValentinS4t1qbit",
+          "cburdine",
           "alexfleury-sb",
-          "cburdine"
+          "ValentinS4t1qbit"
         ],
         "state": "open",
         "title": "Circuit as reference state in the ansatz definition",
@@ -1926,8 +1926,8 @@
       },
       {
         "assignees": [
-          "ValentinS4t1qbit",
-          "alexfleury-sb"
+          "alexfleury-sb",
+          "ValentinS4t1qbit"
         ],
         "state": "open",
         "title": "Automatic documentation deployment",
@@ -1936,8 +1936,8 @@
       },
       {
         "assignees": [
-          "ValentinS4t1qbit",
-          "cburdine"
+          "cburdine",
+          "ValentinS4t1qbit"
         ],
         "state": "open",
         "title": "Augment the Rotosolve optimizer to support Rotoselect",
