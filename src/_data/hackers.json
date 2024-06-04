@@ -166,6 +166,19 @@
     "total_value": 100
   },
   {
+    "username": "atharva-satpute",
+    "bounties": [
+      {
+        "url": "https://github.com/amazon-braket/autoqasm/issues/11",
+        "title": "kwargs are not supported when calling an AutoQASM subroutine",
+        "project": "autoqasm",
+        "value": 50
+      }
+    ],
+    "num_projects": 1,
+    "total_value": 50
+  },
+  {
     "username": "Yash-10",
     "bounties": [
       {

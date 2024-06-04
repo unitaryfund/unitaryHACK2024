@@ -117,7 +117,7 @@
     "url": "https://github.com/amazon-braket/amazon-braket-sdk-python"
   },
   "autoqasm": {
-    "amount_available": 210,
+    "amount_available": 160,
     "bounties": [
       {
         "assignees": [],
@@ -134,8 +134,10 @@
         "value": 50
       },
       {
-        "assignees": [],
-        "state": "open",
+        "assignees": [
+          "atharva-satpute"
+        ],
+        "state": "closed",
         "title": "kwargs are not supported when calling an AutoQASM subroutine",
         "url": "https://github.com/amazon-braket/autoqasm/issues/11",
         "value": 50
@@ -160,7 +162,7 @@
     "emoji": "\u269b\ufe0f\ud83d\udc0d",
     "name": "AutoQASM",
     "num_bounties": 5,
-    "num_open_bounties": 4,
+    "num_open_bounties": 3,
     "total_amount": 250,
     "url": "https://github.com/amazon-braket/autoqasm"
   },
@@ -363,9 +365,7 @@
     "amount_available": 400,
     "bounties": [
       {
-        "assignees": [
-          "burlemarxiste"
-        ],
+        "assignees": [],
         "state": "open",
         "title": "Create a gate to represent a PauliRotation",
         "url": "https://github.com/quantumlib/Cirq/issues/6598",
@@ -1270,8 +1270,8 @@
       },
       {
         "assignees": [
-          "schance995",
           "neogyk",
+          "schance995",
           "idriss-hamadi"
         ],
         "state": "open",
@@ -1281,9 +1281,9 @@
       },
       {
         "assignees": [
-          "schance995",
           "0mWh",
-          "AbdullahKazi500"
+          "AbdullahKazi500",
+          "schance995"
         ],
         "state": "open",
         "title": "Classification Model for General Quantum Circuits",
@@ -1911,8 +1911,8 @@
     "bounties": [
       {
         "assignees": [
-          "alexfleury-sb",
-          "ValentinS4t1qbit"
+          "ValentinS4t1qbit",
+          "alexfleury-sb"
         ],
         "state": "open",
         "title": "Incompatibility with PySCF >= 2.5.0",
@@ -1921,9 +1921,9 @@
       },
       {
         "assignees": [
-          "alexfleury-sb",
+          "ValentinS4t1qbit",
           "cburdine",
-          "ValentinS4t1qbit"
+          "alexfleury-sb"
         ],
         "state": "open",
         "title": "Circuit as reference state in the ansatz definition",
@@ -1932,8 +1932,8 @@
       },
       {
         "assignees": [
-          "alexfleury-sb",
-          "ValentinS4t1qbit"
+          "ValentinS4t1qbit",
+          "alexfleury-sb"
         ],
         "state": "open",
         "title": "Automatic documentation deployment",
@@ -1942,8 +1942,8 @@
       },
       {
         "assignees": [
-          "cburdine",
-          "ValentinS4t1qbit"
+          "ValentinS4t1qbit",
+          "cburdine"
         ],
         "state": "open",
         "title": "Augment the Rotosolve optimizer to support Rotoselect",
