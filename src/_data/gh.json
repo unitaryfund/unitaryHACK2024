@@ -1154,8 +1154,8 @@
     "bounties": [
       {
         "assignees": [
-          "anomius",
-          "dhanaabhirajk"
+          "dhanaabhirajk",
+          "anomius"
         ],
         "state": "open",
         "title": "Convert OpenQASM 3 program to specified basis gate set",
@@ -1266,9 +1266,9 @@
       },
       {
         "assignees": [
-          "schance995",
+          "idriss-hamadi",
           "neogyk",
-          "idriss-hamadi"
+          "schance995"
         ],
         "state": "open",
         "title": "QNRG Classifier ML Model Improvements",
@@ -1277,8 +1277,8 @@
       },
       {
         "assignees": [
-          "schance995",
           "0mWh",
+          "schance995",
           "AbdullahKazi500"
         ],
         "state": "open",
@@ -1905,8 +1905,8 @@
     "bounties": [
       {
         "assignees": [
-          "ValentinS4t1qbit",
-          "alexfleury-sb"
+          "alexfleury-sb",
+          "ValentinS4t1qbit"
         ],
         "state": "open",
         "title": "Incompatibility with PySCF >= 2.5.0",
@@ -1915,9 +1915,9 @@
       },
       {
         "assignees": [
+          "alexfleury-sb",
           "ValentinS4t1qbit",
-          "cburdine",
-          "alexfleury-sb"
+          "cburdine"
         ],
         "state": "open",
         "title": "Circuit as reference state in the ansatz definition",
@@ -1926,8 +1926,8 @@
       },
       {
         "assignees": [
-          "ValentinS4t1qbit",
-          "alexfleury-sb"
+          "alexfleury-sb",
+          "ValentinS4t1qbit"
         ],
         "state": "open",
         "title": "Automatic documentation deployment",
