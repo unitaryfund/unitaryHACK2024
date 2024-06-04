@@ -390,9 +390,7 @@
         "value": 100
       },
       {
-        "assignees": [
-          "MZuhairKhan"
-        ],
+        "assignees": [],
         "state": "open",
         "title": "Add confusion maps support to PauliMeasurementGate",
         "url": "https://github.com/quantumlib/Cirq/issues/5571",
@@ -1283,9 +1281,9 @@
       },
       {
         "assignees": [
+          "schance995",
           "0mWh",
-          "AbdullahKazi500",
-          "schance995"
+          "AbdullahKazi500"
         ],
         "state": "open",
         "title": "Classification Model for General Quantum Circuits",
@@ -1924,8 +1922,8 @@
       {
         "assignees": [
           "alexfleury-sb",
-          "ValentinS4t1qbit",
-          "cburdine"
+          "cburdine",
+          "ValentinS4t1qbit"
         ],
         "state": "open",
         "title": "Circuit as reference state in the ansatz definition",
@@ -1944,8 +1942,8 @@
       },
       {
         "assignees": [
-          "ValentinS4t1qbit",
-          "cburdine"
+          "cburdine",
+          "ValentinS4t1qbit"
         ],
         "state": "open",
         "title": "Augment the Rotosolve optimizer to support Rotoselect",
