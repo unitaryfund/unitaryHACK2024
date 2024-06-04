@@ -140,6 +140,13 @@ img[alt=DOI]:hover {
   }
 }
 
+.tag.bounty-open {
+  &:hover {
+    color: #0C4CE7;
+    border-bottom: 2px solid;
+  }
+}
+
 .tag.bounty-closed {
   color: #b3b3b3;
 
