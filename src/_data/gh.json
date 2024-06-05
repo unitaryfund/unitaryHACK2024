@@ -1272,9 +1272,9 @@
       },
       {
         "assignees": [
-          "idriss-hamadi",
           "neogyk",
-          "schance995"
+          "schance995",
+          "idriss-hamadi"
         ],
         "state": "open",
         "title": "QNRG Classifier ML Model Improvements",
@@ -1284,8 +1284,8 @@
       {
         "assignees": [
           "AbdullahKazi500",
-          "0mWh",
-          "schance995"
+          "schance995",
+          "0mWh"
         ],
         "state": "open",
         "title": "Classification Model for General Quantum Circuits",
@@ -1923,8 +1923,8 @@
       },
       {
         "assignees": [
-          "alexfleury-sb",
           "ValentinS4t1qbit",
+          "alexfleury-sb",
           "cburdine"
         ],
         "state": "open",
