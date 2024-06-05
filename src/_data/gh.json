@@ -1631,7 +1631,7 @@
     "url": "https://github.com/microsoft/qsharp"
   },
   "qua-qsim": {
-    "amount_available": 500,
+    "amount_available": 400,
     "bounties": [
       {
         "assignees": [],
@@ -1656,7 +1656,7 @@
       },
       {
         "assignees": [],
-        "state": "open",
+        "state": "closed",
         "title": "Create frontend interface",
         "url": "https://github.com/qua-platform/qua-qsim/issues/4",
         "value": 100
@@ -1679,7 +1679,7 @@
     "emoji": "\u269b\ufe0f\ud83d\udc0d",
     "name": "Quantum Machines QUA-to-Qiskit compiler & simulator",
     "num_bounties": 6,
-    "num_open_bounties": 6,
+    "num_open_bounties": 5,
     "total_amount": 500,
     "url": "https://github.com/qua-platform/qua-qsim"
   },
@@ -1940,8 +1940,8 @@
     "bounties": [
       {
         "assignees": [
-          "alexfleury-sb",
-          "ValentinS4t1qbit"
+          "ValentinS4t1qbit",
+          "alexfleury-sb"
         ],
         "state": "open",
         "title": "Incompatibility with PySCF >= 2.5.0",
@@ -1961,8 +1961,8 @@
       },
       {
         "assignees": [
-          "alexfleury-sb",
-          "ValentinS4t1qbit"
+          "ValentinS4t1qbit",
+          "alexfleury-sb"
         ],
         "state": "open",
         "title": "Automatic documentation deployment",
