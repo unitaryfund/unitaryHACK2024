@@ -90,6 +90,19 @@
     "total_value": 125
   },
   {
+    "username": "ilkclord",
+    "bounties": [
+      {
+        "url": "https://github.com/qutip/QuantumToolbox.jl/issues/84",
+        "title": "ODE-based `steadystate` solving method",
+        "project": "quantumtoolbox.jl",
+        "value": 125
+      }
+    ],
+    "num_projects": 1,
+    "total_value": 125
+  },
+  {
     "username": "tomv42",
     "bounties": [
       {
