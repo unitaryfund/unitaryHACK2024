@@ -10,6 +10,13 @@ tags:
   - Qiskit
   - Native Gates
   - Optimization
+bounties:
+  - issue_num: 1
+    value: 100
+  - issue_num: 3
+    value: 100
+  - issue_num: 4
+    value: 300
 ---
 
 **Description:**
