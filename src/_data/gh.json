@@ -1158,8 +1158,8 @@
     "bounties": [
       {
         "assignees": [
-          "anomius",
-          "dhanaabhirajk"
+          "dhanaabhirajk",
+          "anomius"
         ],
         "state": "open",
         "title": "Convert OpenQASM 3 program to specified basis gate set",
@@ -1272,9 +1272,9 @@
       },
       {
         "assignees": [
-          "idriss-hamadi",
+          "schance995",
           "neogyk",
-          "schance995"
+          "idriss-hamadi"
         ],
         "state": "open",
         "title": "QNRG Classifier ML Model Improvements",
@@ -1283,9 +1283,9 @@
       },
       {
         "assignees": [
-          "AbdullahKazi500",
           "schance995",
-          "0mWh"
+          "0mWh",
+          "AbdullahKazi500"
         ],
         "state": "open",
         "title": "Classification Model for General Quantum Circuits",
@@ -1923,9 +1923,9 @@
       },
       {
         "assignees": [
+          "alexfleury-sb",
           "cburdine",
-          "ValentinS4t1qbit",
-          "alexfleury-sb"
+          "ValentinS4t1qbit"
         ],
         "state": "open",
         "title": "Circuit as reference state in the ansatz definition",
