@@ -1,5 +1,6 @@
 ---
 title: Ion(Q) Thruster
+id: ion-q-thruster
 emoji: 🚀
 project_url: https://github.com/ionq-samples/Ion-Q-Thruster
 metaDescription: Optimizer/transpiler for IonQ Native Gates
