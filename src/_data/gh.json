@@ -417,7 +417,10 @@
     "amount_available": 500,
     "bounties": [
       {
-        "assignees": [],
+        "assignees": [
+          "jyotiraj-code",
+          "amir-naveh"
+        ],
         "state": "open",
         "title": "Classiq Basics: Quantum Entanglement",
         "url": "https://github.com/Classiq/classiq-library/issues/28",
@@ -634,13 +637,35 @@
     "url": "https://github.com/matt-lourens/hierarqcal"
   },
   "ion-q-thruster": {
-    "amount_available": 0,
-    "bounties": [],
+    "amount_available": 500,
+    "bounties": [
+      {
+        "assignees": [],
+        "state": "open",
+        "title": "Issue 1: Create Custom Optimizer for Qiskit-IonQ",
+        "url": "https://github.com/ionq-samples/Ion-Q-Thruster/issues/1",
+        "value": 100
+      },
+      {
+        "assignees": [],
+        "state": "open",
+        "title": "Issue 2: Add Trapped-Ion-Specific Optimizations to Custom Optimizer",
+        "url": "https://github.com/ionq-samples/Ion-Q-Thruster/issues/3",
+        "value": 100
+      },
+      {
+        "assignees": [],
+        "state": "open",
+        "title": "Issue 3: Demonstrate Outperformance Against the Default Optimizer",
+        "url": "https://github.com/ionq-samples/Ion-Q-Thruster/issues/4",
+        "value": 300
+      }
+    ],
     "emoji": "\ud83d\ude80",
     "name": "Ion(Q) Thruster",
-    "num_bounties": 0,
-    "num_open_bounties": 0,
-    "total_amount": 0,
+    "num_bounties": 3,
+    "num_open_bounties": 3,
+    "total_amount": 500,
     "url": "https://github.com/ionq-samples/Ion-Q-Thruster"
   },
   "kqcircuits": {
@@ -1158,8 +1183,8 @@
     "bounties": [
       {
         "assignees": [
-          "dhanaabhirajk",
-          "anomius"
+          "anomius",
+          "dhanaabhirajk"
         ],
         "state": "open",
         "title": "Convert OpenQASM 3 program to specified basis gate set",
@@ -1273,8 +1298,8 @@
       {
         "assignees": [
           "neogyk",
-          "schance995",
-          "idriss-hamadi"
+          "idriss-hamadi",
+          "schance995"
         ],
         "state": "open",
         "title": "QNRG Classifier ML Model Improvements",
@@ -1284,8 +1309,8 @@
       {
         "assignees": [
           "0mWh",
-          "schance995",
-          "AbdullahKazi500"
+          "AbdullahKazi500",
+          "schance995"
         ],
         "state": "open",
         "title": "Classification Model for General Quantum Circuits",
