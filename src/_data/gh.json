@@ -1272,8 +1272,8 @@
       },
       {
         "assignees": [
-          "neogyk",
           "idriss-hamadi",
+          "neogyk",
           "schance995"
         ],
         "state": "open",
@@ -1283,8 +1283,8 @@
       },
       {
         "assignees": [
-          "0mWh",
           "AbdullahKazi500",
+          "0mWh",
           "schance995"
         ],
         "state": "open",
@@ -1924,8 +1924,8 @@
       {
         "assignees": [
           "alexfleury-sb",
-          "cburdine",
-          "ValentinS4t1qbit"
+          "ValentinS4t1qbit",
+          "cburdine"
         ],
         "state": "open",
         "title": "Circuit as reference state in the ansatz definition",
@@ -1944,8 +1944,8 @@
       },
       {
         "assignees": [
-          "cburdine",
-          "ValentinS4t1qbit"
+          "ValentinS4t1qbit",
+          "cburdine"
         ],
         "state": "open",
         "title": "Augment the Rotosolve optimizer to support Rotoselect",
