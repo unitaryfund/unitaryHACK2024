@@ -418,8 +418,8 @@
     "bounties": [
       {
         "assignees": [
-          "jyotiraj-code",
-          "amir-naveh"
+          "amir-naveh",
+          "jyotiraj-code"
         ],
         "state": "open",
         "title": "Classiq Basics: Quantum Entanglement",
@@ -1183,8 +1183,8 @@
     "bounties": [
       {
         "assignees": [
-          "anomius",
-          "dhanaabhirajk"
+          "dhanaabhirajk",
+          "anomius"
         ],
         "state": "open",
         "title": "Convert OpenQASM 3 program to specified basis gate set",
@@ -1297,8 +1297,8 @@
       },
       {
         "assignees": [
-          "neogyk",
           "idriss-hamadi",
+          "neogyk",
           "schance995"
         ],
         "state": "open",
@@ -1308,9 +1308,9 @@
       },
       {
         "assignees": [
-          "0mWh",
           "AbdullahKazi500",
-          "schance995"
+          "schance995",
+          "0mWh"
         ],
         "state": "open",
         "title": "Classification Model for General Quantum Circuits",
@@ -1951,8 +1951,8 @@
       {
         "assignees": [
           "alexfleury-sb",
-          "cburdine",
-          "ValentinS4t1qbit"
+          "ValentinS4t1qbit",
+          "cburdine"
         ],
         "state": "open",
         "title": "Circuit as reference state in the ansatz definition",
@@ -1971,8 +1971,8 @@
       },
       {
         "assignees": [
-          "cburdine",
-          "ValentinS4t1qbit"
+          "ValentinS4t1qbit",
+          "cburdine"
         ],
         "state": "open",
         "title": "Augment the Rotosolve optimizer to support Rotoselect",
