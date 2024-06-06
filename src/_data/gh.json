@@ -1029,7 +1029,7 @@
     "url": "https://github.com/Quandela/Perceval"
   },
   "piccolo.jl": {
-    "amount_available": 450,
+    "amount_available": 350,
     "bounties": [
       {
         "assignees": [
@@ -1068,8 +1068,10 @@
         "value": 100
       },
       {
-        "assignees": [],
-        "state": "open",
+        "assignees": [
+          "ErikQQY"
+        ],
+        "state": "closed",
         "title": "[Feature]: Global Trajectory Parameters",
         "url": "https://github.com/aarontrowbridge/NamedTrajectories.jl/issues/37",
         "value": 100
@@ -1085,7 +1087,7 @@
     "emoji": null,
     "name": "Piccolo.jl",
     "num_bounties": 6,
-    "num_open_bounties": 5,
+    "num_open_bounties": 4,
     "total_amount": 500,
     "url": "https://github.com/aarontrowbridge/Piccolo.jl"
   },
@@ -1189,8 +1191,8 @@
     "bounties": [
       {
         "assignees": [
-          "dhanaabhirajk",
-          "anomius"
+          "anomius",
+          "dhanaabhirajk"
         ],
         "state": "open",
         "title": "Convert OpenQASM 3 program to specified basis gate set",
@@ -1304,8 +1306,8 @@
       {
         "assignees": [
           "idriss-hamadi",
-          "neogyk",
-          "schance995"
+          "schance995",
+          "neogyk"
         ],
         "state": "open",
         "title": "QNRG Classifier ML Model Improvements",
@@ -1314,9 +1316,9 @@
       },
       {
         "assignees": [
-          "0mWh",
+          "schance995",
           "AbdullahKazi500",
-          "schance995"
+          "0mWh"
         ],
         "state": "open",
         "title": "Classification Model for General Quantum Circuits",
@@ -1417,7 +1419,7 @@
     "url": "https://github.com/Qiskit/qiskit-aer"
   },
   "qiskit-braket-provider": {
-    "amount_available": 500,
+    "amount_available": 300,
     "bounties": [
       {
         "assignees": [],
@@ -1427,8 +1429,10 @@
         "value": 160
       },
       {
-        "assignees": [],
-        "state": "open",
+        "assignees": [
+          "WingCode"
+        ],
+        "state": "closed",
         "title": "Improve unit test coverage to 100%",
         "url": "https://github.com/qiskit-community/qiskit-braket-provider/issues/177",
         "value": 200
@@ -1444,7 +1448,7 @@
     "emoji": "\u269b\ufe0f\ud83c\udf10",
     "name": "Qiskit Provider for Amazon Braket",
     "num_bounties": 3,
-    "num_open_bounties": 3,
+    "num_open_bounties": 2,
     "total_amount": 500,
     "url": "https://github.com/qiskit-community/qiskit-braket-provider"
   },
@@ -1947,8 +1951,8 @@
     "bounties": [
       {
         "assignees": [
-          "alexfleury-sb",
-          "ValentinS4t1qbit"
+          "ValentinS4t1qbit",
+          "alexfleury-sb"
         ],
         "state": "open",
         "title": "Incompatibility with PySCF >= 2.5.0",
@@ -1957,9 +1961,9 @@
       },
       {
         "assignees": [
-          "alexfleury-sb",
           "cburdine",
-          "ValentinS4t1qbit"
+          "ValentinS4t1qbit",
+          "alexfleury-sb"
         ],
         "state": "open",
         "title": "Circuit as reference state in the ansatz definition",
@@ -1968,8 +1972,8 @@
       },
       {
         "assignees": [
-          "alexfleury-sb",
-          "ValentinS4t1qbit"
+          "ValentinS4t1qbit",
+          "alexfleury-sb"
         ],
         "state": "open",
         "title": "Automatic documentation deployment",
@@ -2148,7 +2152,8 @@
       },
       {
         "assignees": [
-          "Youngcius"
+          "Youngcius",
+          "king-p3nguin"
         ],
         "state": "open",
         "title": "Supporting Additional Features for tq2qiskit and qiskit2tq",

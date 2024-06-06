@@ -63,6 +63,19 @@
     "total_value": 235
   },
   {
+    "username": "ErikQQY",
+    "bounties": [
+      {
+        "url": "https://github.com/aarontrowbridge/NamedTrajectories.jl/issues/37",
+        "title": "[Feature]: Global Trajectory Parameters",
+        "project": "piccolo.jl",
+        "value": 100
+      }
+    ],
+    "num_projects": 1,
+    "total_value": 100
+  },
+  {
     "username": "rodolfocarobene",
     "bounties": [
       {
@@ -215,6 +228,19 @@
     ],
     "num_projects": 1,
     "total_value": 40
+  },
+  {
+    "username": "WingCode",
+    "bounties": [
+      {
+        "url": "https://github.com/qiskit-community/qiskit-braket-provider/issues/177",
+        "title": "Improve unit test coverage to 100%",
+        "project": "qiskit-braket-provider",
+        "value": 200
+      }
+    ],
+    "num_projects": 1,
+    "total_value": 200
   },
   {
     "username": "atomgardner",
