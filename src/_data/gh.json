@@ -418,8 +418,8 @@
     "bounties": [
       {
         "assignees": [
-          "amir-naveh",
-          "jyotiraj-code"
+          "jyotiraj-code",
+          "amir-naveh"
         ],
         "state": "open",
         "title": "Classiq Basics: Quantum Entanglement",
@@ -1185,8 +1185,8 @@
     "bounties": [
       {
         "assignees": [
-          "dhanaabhirajk",
-          "anomius"
+          "anomius",
+          "dhanaabhirajk"
         ],
         "state": "open",
         "title": "Convert OpenQASM 3 program to specified basis gate set",
@@ -1299,8 +1299,8 @@
       },
       {
         "assignees": [
-          "schance995",
           "neogyk",
+          "schance995",
           "idriss-hamadi"
         ],
         "state": "open",
@@ -1310,8 +1310,8 @@
       },
       {
         "assignees": [
-          "schance995",
           "AbdullahKazi500",
+          "schance995",
           "0mWh"
         ],
         "state": "open",
@@ -1943,8 +1943,8 @@
     "bounties": [
       {
         "assignees": [
-          "alexfleury-sb",
-          "ValentinS4t1qbit"
+          "ValentinS4t1qbit",
+          "alexfleury-sb"
         ],
         "state": "open",
         "title": "Incompatibility with PySCF >= 2.5.0",
@@ -1953,8 +1953,8 @@
       },
       {
         "assignees": [
-          "cburdine",
           "ValentinS4t1qbit",
+          "cburdine",
           "alexfleury-sb"
         ],
         "state": "open",
@@ -1964,8 +1964,8 @@
       },
       {
         "assignees": [
-          "alexfleury-sb",
-          "ValentinS4t1qbit"
+          "ValentinS4t1qbit",
+          "alexfleury-sb"
         ],
         "state": "open",
         "title": "Automatic documentation deployment",
@@ -1974,8 +1974,8 @@
       },
       {
         "assignees": [
-          "cburdine",
-          "ValentinS4t1qbit"
+          "ValentinS4t1qbit",
+          "cburdine"
         ],
         "state": "open",
         "title": "Augment the Rotosolve optimizer to support Rotoselect",
