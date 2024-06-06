@@ -414,7 +414,7 @@
     "url": "https://github.com/quantumlib/Cirq"
   },
   "classiq-library": {
-    "amount_available": 500,
+    "amount_available": 420,
     "bounties": [
       {
         "assignees": [
@@ -436,8 +436,10 @@
         "value": 120
       },
       {
-        "assignees": [],
-        "state": "open",
+        "assignees": [
+          "jyotiraj-code"
+        ],
+        "state": "closed",
         "title": "Add initial conditions to the arithmetic example in the arithmetic_expressions notebook",
         "url": "https://github.com/Classiq/classiq-library/issues/36",
         "value": 80
@@ -460,7 +462,7 @@
     "emoji": "\ud83d\udcda\ud83d\udc69\ud83c\udffb\u200d\ud83d\udcbb",
     "name": "Classiq Library",
     "num_bounties": 5,
-    "num_open_bounties": 5,
+    "num_open_bounties": 4,
     "total_amount": 500,
     "url": "https://github.com/Classiq/classiq-library"
   },
@@ -1299,8 +1301,8 @@
       },
       {
         "assignees": [
-          "neogyk",
           "schance995",
+          "neogyk",
           "idriss-hamadi"
         ],
         "state": "open",
@@ -1310,8 +1312,8 @@
       },
       {
         "assignees": [
-          "AbdullahKazi500",
           "schance995",
+          "AbdullahKazi500",
           "0mWh"
         ],
         "state": "open",
@@ -1922,8 +1924,8 @@
       },
       {
         "assignees": [
-          "Roshan-Thomas",
-          "ahkatlio"
+          "ahkatlio",
+          "Roshan-Thomas"
         ],
         "state": "closed",
         "title": "Adding code documentation",
@@ -1954,8 +1956,8 @@
       {
         "assignees": [
           "ValentinS4t1qbit",
-          "cburdine",
-          "alexfleury-sb"
+          "alexfleury-sb",
+          "cburdine"
         ],
         "state": "open",
         "title": "Circuit as reference state in the ansatz definition",

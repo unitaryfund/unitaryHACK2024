@@ -245,14 +245,20 @@
     "username": "jyotiraj-code",
     "bounties": [
       {
+        "url": "https://github.com/Classiq/classiq-library/issues/36",
+        "title": "Add initial conditions to the arithmetic example in the arithmetic_expressions notebook",
+        "project": "classiq-library",
+        "value": 80
+      },
+      {
         "url": "https://github.com/scqubits/scqubits/issues/218",
         "title": "Short tutorial video on using scqubits",
         "project": "scqubits",
         "value": 150
       }
     ],
-    "num_projects": 1,
-    "total_value": 150
+    "num_projects": 2,
+    "total_value": 230
   },
   {
     "username": "ahkatlio",
