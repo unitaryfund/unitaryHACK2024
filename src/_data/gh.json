@@ -414,12 +414,12 @@
     "url": "https://github.com/quantumlib/Cirq"
   },
   "classiq-library": {
-    "amount_available": 300,
+    "amount_available": 150,
     "bounties": [
       {
         "assignees": [
-          "amir-naveh",
-          "jyotiraj-code"
+          "jyotiraj-code",
+          "amir-naveh"
         ],
         "state": "open",
         "title": "Classiq Basics: Quantum Entanglement",
@@ -455,7 +455,7 @@
       },
       {
         "assignees": [],
-        "state": "open",
+        "state": "closed",
         "title": "Add examples and insights that demonstrates Classiq's HW-aware synthesis capability ",
         "url": "https://github.com/Classiq/classiq-library/issues/41",
         "value": 150
@@ -464,7 +464,7 @@
     "emoji": "\ud83d\udcda\ud83d\udc69\ud83c\udffb\u200d\ud83d\udcbb",
     "name": "Classiq Library",
     "num_bounties": 5,
-    "num_open_bounties": 3,
+    "num_open_bounties": 2,
     "total_amount": 500,
     "url": "https://github.com/Classiq/classiq-library"
   },
@@ -1303,9 +1303,9 @@
       },
       {
         "assignees": [
+          "neogyk",
           "schance995",
-          "idriss-hamadi",
-          "neogyk"
+          "idriss-hamadi"
         ],
         "state": "open",
         "title": "QNRG Classifier ML Model Improvements",
@@ -1314,9 +1314,9 @@
       },
       {
         "assignees": [
+          "schance995",
           "AbdullahKazi500",
-          "0mWh",
-          "schance995"
+          "0mWh"
         ],
         "state": "open",
         "title": "Classification Model for General Quantum Circuits",
