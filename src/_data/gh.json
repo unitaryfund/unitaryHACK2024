@@ -566,7 +566,7 @@
     "url": "https://github.com/yuewuo/fusion-blossom"
   },
   "graphix": {
-    "amount_available": 500,
+    "amount_available": 370,
     "bounties": [
       {
         "assignees": [],
@@ -576,8 +576,10 @@
         "value": 110
       },
       {
-        "assignees": [],
-        "state": "open",
+        "assignees": [
+          "Roshan-Thomas"
+        ],
+        "state": "closed",
         "title": "Tutorial and documentation style upgrade",
         "url": "https://github.com/TeamGraphix/graphix/issues/137",
         "value": 130
@@ -600,7 +602,7 @@
     "emoji": "\ud83d\udd78\ufe0f",
     "name": "graphix",
     "num_bounties": 4,
-    "num_open_bounties": 4,
+    "num_open_bounties": 3,
     "total_amount": 500,
     "url": "https://github.com/TeamGraphix/graphix"
   },
@@ -1183,8 +1185,8 @@
     "bounties": [
       {
         "assignees": [
-          "dhanaabhirajk",
-          "anomius"
+          "anomius",
+          "dhanaabhirajk"
         ],
         "state": "open",
         "title": "Convert OpenQASM 3 program to specified basis gate set",
@@ -1297,9 +1299,9 @@
       },
       {
         "assignees": [
-          "neogyk",
+          "idriss-hamadi",
           "schance995",
-          "idriss-hamadi"
+          "neogyk"
         ],
         "state": "open",
         "title": "QNRG Classifier ML Model Improvements",
@@ -1920,7 +1922,7 @@
       },
       {
         "assignees": [
-          "petergthatsme"
+          "Roshan-Thomas"
         ],
         "state": "open",
         "title": "Adding code documentation",
@@ -1950,9 +1952,9 @@
       },
       {
         "assignees": [
+          "cburdine",
           "ValentinS4t1qbit",
-          "alexfleury-sb",
-          "cburdine"
+          "alexfleury-sb"
         ],
         "state": "open",
         "title": "Circuit as reference state in the ansatz definition",
@@ -1971,8 +1973,8 @@
       },
       {
         "assignees": [
-          "ValentinS4t1qbit",
-          "cburdine"
+          "cburdine",
+          "ValentinS4t1qbit"
         ],
         "state": "open",
         "title": "Augment the Rotosolve optimizer to support Rotoselect",

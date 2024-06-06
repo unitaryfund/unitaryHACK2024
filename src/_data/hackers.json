@@ -45,10 +45,16 @@
         "title": "References in tutorials",
         "project": "toqito",
         "value": 80
+      },
+      {
+        "url": "https://github.com/TeamGraphix/graphix/issues/137",
+        "title": "Tutorial and documentation style upgrade",
+        "project": "graphix",
+        "value": 130
       }
     ],
-    "num_projects": 1,
-    "total_value": 80
+    "num_projects": 2,
+    "total_value": 210
   },
   {
     "username": "rodolfocarobene",
