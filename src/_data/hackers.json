@@ -51,10 +51,16 @@
         "title": "Tutorial and documentation style upgrade",
         "project": "graphix",
         "value": 130
+      },
+      {
+        "url": "https://github.com/scqubits/scqubits/issues/222",
+        "title": "Adding code documentation",
+        "project": "scqubits",
+        "value": 25
       }
     ],
-    "num_projects": 2,
-    "total_value": 210
+    "num_projects": 3,
+    "total_value": 235
   },
   {
     "username": "rodolfocarobene",
@@ -234,6 +240,32 @@
     ],
     "num_projects": 2,
     "total_value": 250
+  },
+  {
+    "username": "jyotiraj-code",
+    "bounties": [
+      {
+        "url": "https://github.com/scqubits/scqubits/issues/218",
+        "title": "Short tutorial video on using scqubits",
+        "project": "scqubits",
+        "value": 150
+      }
+    ],
+    "num_projects": 1,
+    "total_value": 150
+  },
+  {
+    "username": "ahkatlio",
+    "bounties": [
+      {
+        "url": "https://github.com/scqubits/scqubits/issues/222",
+        "title": "Adding code documentation",
+        "project": "scqubits",
+        "value": 25
+      }
+    ],
+    "num_projects": 1,
+    "total_value": 25
   },
   {
     "username": "f-martini",

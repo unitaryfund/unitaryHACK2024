@@ -1185,8 +1185,8 @@
     "bounties": [
       {
         "assignees": [
-          "anomius",
-          "dhanaabhirajk"
+          "dhanaabhirajk",
+          "anomius"
         ],
         "state": "open",
         "title": "Convert OpenQASM 3 program to specified basis gate set",
@@ -1299,9 +1299,9 @@
       },
       {
         "assignees": [
-          "idriss-hamadi",
           "schance995",
-          "neogyk"
+          "neogyk",
+          "idriss-hamadi"
         ],
         "state": "open",
         "title": "QNRG Classifier ML Model Improvements",
@@ -1310,8 +1310,8 @@
       },
       {
         "assignees": [
-          "AbdullahKazi500",
           "schance995",
+          "AbdullahKazi500",
           "0mWh"
         ],
         "state": "open",
@@ -1882,13 +1882,13 @@
     "url": "https://github.com/Qiskit/rustworkx"
   },
   "scqubits": {
-    "amount_available": 500,
+    "amount_available": 300,
     "bounties": [
       {
         "assignees": [
-          "petergthatsme"
+          "jyotiraj-code"
         ],
-        "state": "open",
+        "state": "closed",
         "title": "Short tutorial video on using scqubits",
         "url": "https://github.com/scqubits/scqubits/issues/218",
         "value": 150
@@ -1922,9 +1922,10 @@
       },
       {
         "assignees": [
-          "Roshan-Thomas"
+          "Roshan-Thomas",
+          "ahkatlio"
         ],
-        "state": "open",
+        "state": "closed",
         "title": "Adding code documentation",
         "url": "https://github.com/scqubits/scqubits/issues/222",
         "value": 50
@@ -1933,7 +1934,7 @@
     "emoji": "\ud83d\udce1",
     "name": "scqubits",
     "num_bounties": 5,
-    "num_open_bounties": 5,
+    "num_open_bounties": 3,
     "total_amount": 500,
     "url": "https://github.com/scqubits/scqubits"
   },
@@ -1942,8 +1943,8 @@
     "bounties": [
       {
         "assignees": [
-          "ValentinS4t1qbit",
-          "alexfleury-sb"
+          "alexfleury-sb",
+          "ValentinS4t1qbit"
         ],
         "state": "open",
         "title": "Incompatibility with PySCF >= 2.5.0",
@@ -1963,8 +1964,8 @@
       },
       {
         "assignees": [
-          "ValentinS4t1qbit",
-          "alexfleury-sb"
+          "alexfleury-sb",
+          "ValentinS4t1qbit"
         ],
         "state": "open",
         "title": "Automatic documentation deployment",
