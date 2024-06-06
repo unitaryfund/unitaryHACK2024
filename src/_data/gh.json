@@ -64,7 +64,7 @@
     "url": "https://github.com/amazon-braket/amazon-braket-pennylane-plugin-python"
   },
   "amazon-braket-sdk-python": {
-    "amount_available": 490,
+    "amount_available": 430,
     "bounties": [
       {
         "assignees": [],
@@ -102,8 +102,10 @@
         "value": 60
       },
       {
-        "assignees": [],
-        "state": "open",
+        "assignees": [
+          "king-p3nguin"
+        ],
+        "state": "closed",
         "title": "from_ir method for AnalogHamiltonianSimulation",
         "url": "https://github.com/amazon-braket/amazon-braket-sdk-python/issues/971",
         "value": 60
@@ -112,7 +114,7 @@
     "emoji": "\u269b\ufe0f\ud83d\udcbb",
     "name": "Amazon Braket SDK",
     "num_bounties": 6,
-    "num_open_bounties": 6,
+    "num_open_bounties": 5,
     "total_amount": 490,
     "url": "https://github.com/amazon-braket/amazon-braket-sdk-python"
   },
@@ -1316,9 +1318,9 @@
       },
       {
         "assignees": [
-          "schance995",
+          "0mWh",
           "AbdullahKazi500",
-          "0mWh"
+          "schance995"
         ],
         "state": "open",
         "title": "Classification Model for General Quantum Circuits",
@@ -1726,7 +1728,7 @@
     "url": "https://github.com/Quantum-Universal-Education/Quantum-Universal-Education.github.io"
   },
   "quantumtoolbox.jl": {
-    "amount_available": 125,
+    "amount_available": 0,
     "bounties": [
       {
         "assignees": [
@@ -1756,8 +1758,10 @@
         "value": 125
       },
       {
-        "assignees": [],
-        "state": "open",
+        "assignees": [
+          "aarontrowbridge"
+        ],
+        "state": "closed",
         "title": "Support `permute` to re-order the tensor (Kronecker) product",
         "url": "https://github.com/qutip/QuantumToolbox.jl/issues/95",
         "value": 125
@@ -1766,7 +1770,7 @@
     "emoji": null,
     "name": "QuantumToolbox.jl",
     "num_bounties": 4,
-    "num_open_bounties": 1,
+    "num_open_bounties": 0,
     "total_amount": 500,
     "url": "https://github.com/qutip/QuantumToolbox.jl"
   },
@@ -1951,8 +1955,8 @@
     "bounties": [
       {
         "assignees": [
-          "ValentinS4t1qbit",
-          "alexfleury-sb"
+          "alexfleury-sb",
+          "ValentinS4t1qbit"
         ],
         "state": "open",
         "title": "Incompatibility with PySCF >= 2.5.0",
@@ -1961,9 +1965,9 @@
       },
       {
         "assignees": [
-          "cburdine",
+          "alexfleury-sb",
           "ValentinS4t1qbit",
-          "alexfleury-sb"
+          "cburdine"
         ],
         "state": "open",
         "title": "Circuit as reference state in the ansatz definition",
@@ -1972,8 +1976,8 @@
       },
       {
         "assignees": [
-          "ValentinS4t1qbit",
-          "alexfleury-sb"
+          "alexfleury-sb",
+          "ValentinS4t1qbit"
         ],
         "state": "open",
         "title": "Automatic documentation deployment",
@@ -1982,8 +1986,8 @@
       },
       {
         "assignees": [
-          "cburdine",
-          "ValentinS4t1qbit"
+          "ValentinS4t1qbit",
+          "cburdine"
         ],
         "state": "open",
         "title": "Augment the Rotosolve optimizer to support Rotoselect",

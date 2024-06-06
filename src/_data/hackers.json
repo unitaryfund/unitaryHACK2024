@@ -76,6 +76,49 @@
     "total_value": 100
   },
   {
+    "username": "king-p3nguin",
+    "bounties": [
+      {
+        "url": "https://github.com/amazon-braket/amazon-braket-sdk-python/issues/971",
+        "title": "from_ir method for AnalogHamiltonianSimulation",
+        "project": "amazon-braket-sdk-python",
+        "value": 60
+      },
+      {
+        "url": "https://github.com/tencent-quantum-lab/tensorcircuit/issues/212",
+        "title": "Add examples benchmarking different contractor settings provided by cotengra",
+        "project": "tensorcircuit",
+        "value": 100
+      },
+      {
+        "url": "https://github.com/tencent-quantum-lab/tensorcircuit/issues/161",
+        "title": "Backend agnostic implementation of quantum Hamiltonian generation",
+        "project": "tensorcircuit",
+        "value": 150
+      },
+      {
+        "url": "https://github.com/qBraid/qBraid/issues/618",
+        "title": "NetworkX Out, Rustworkx In: Unleash the Speed",
+        "project": "qbraid",
+        "value": 75
+      },
+      {
+        "url": "https://github.com/qBraid/qBraid/issues/624",
+        "title": "Implement tests for IonQ runtime provider",
+        "project": "qbraid",
+        "value": 75
+      },
+      {
+        "url": "https://github.com/qBraid/qBraid/issues/625",
+        "title": "Expand IonQ provider runtime to supported gates",
+        "project": "qbraid",
+        "value": 75
+      }
+    ],
+    "num_projects": 3,
+    "total_value": 535
+  },
+  {
     "username": "rodolfocarobene",
     "bounties": [
       {
@@ -128,6 +171,19 @@
     "total_value": 125
   },
   {
+    "username": "aarontrowbridge",
+    "bounties": [
+      {
+        "url": "https://github.com/qutip/QuantumToolbox.jl/issues/95",
+        "title": "Support `permute` to re-order the tensor (Kronecker) product",
+        "project": "quantumtoolbox.jl",
+        "value": 125
+      }
+    ],
+    "num_projects": 1,
+    "total_value": 125
+  },
+  {
     "username": "tomv42",
     "bounties": [
       {
@@ -139,43 +195,6 @@
     ],
     "num_projects": 1,
     "total_value": 50
-  },
-  {
-    "username": "king-p3nguin",
-    "bounties": [
-      {
-        "url": "https://github.com/tencent-quantum-lab/tensorcircuit/issues/212",
-        "title": "Add examples benchmarking different contractor settings provided by cotengra",
-        "project": "tensorcircuit",
-        "value": 100
-      },
-      {
-        "url": "https://github.com/tencent-quantum-lab/tensorcircuit/issues/161",
-        "title": "Backend agnostic implementation of quantum Hamiltonian generation",
-        "project": "tensorcircuit",
-        "value": 150
-      },
-      {
-        "url": "https://github.com/qBraid/qBraid/issues/618",
-        "title": "NetworkX Out, Rustworkx In: Unleash the Speed",
-        "project": "qbraid",
-        "value": 75
-      },
-      {
-        "url": "https://github.com/qBraid/qBraid/issues/624",
-        "title": "Implement tests for IonQ runtime provider",
-        "project": "qbraid",
-        "value": 75
-      },
-      {
-        "url": "https://github.com/qBraid/qBraid/issues/625",
-        "title": "Expand IonQ provider runtime to supported gates",
-        "project": "qbraid",
-        "value": 75
-      }
-    ],
-    "num_projects": 2,
-    "total_value": 475
   },
   {
     "username": "Gopal-Dahale",
