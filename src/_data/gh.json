@@ -414,12 +414,12 @@
     "url": "https://github.com/quantumlib/Cirq"
   },
   "classiq-library": {
-    "amount_available": 420,
+    "amount_available": 300,
     "bounties": [
       {
         "assignees": [
-          "jyotiraj-code",
-          "amir-naveh"
+          "amir-naveh",
+          "jyotiraj-code"
         ],
         "state": "open",
         "title": "Classiq Basics: Quantum Entanglement",
@@ -430,7 +430,7 @@
         "assignees": [
           "jyotiraj-code"
         ],
-        "state": "open",
+        "state": "closed",
         "title": "Create a basic tutorial for running a VQE primitive with Classiq",
         "url": "https://github.com/Classiq/classiq-library/issues/34",
         "value": 120
@@ -445,7 +445,9 @@
         "value": 80
       },
       {
-        "assignees": [],
+        "assignees": [
+          "Qubit1718"
+        ],
         "state": "open",
         "title": "Refactor the Option Pricing notebook to use classiq constructs",
         "url": "https://github.com/Classiq/classiq-library/issues/37",
@@ -462,7 +464,7 @@
     "emoji": "\ud83d\udcda\ud83d\udc69\ud83c\udffb\u200d\ud83d\udcbb",
     "name": "Classiq Library",
     "num_bounties": 5,
-    "num_open_bounties": 4,
+    "num_open_bounties": 3,
     "total_amount": 500,
     "url": "https://github.com/Classiq/classiq-library"
   },
@@ -1127,13 +1129,13 @@
     "url": "https://github.com/hongyehu/PyClifford"
   },
   "qadence": {
-    "amount_available": 500,
+    "amount_available": 400,
     "bounties": [
       {
         "assignees": [
           "SaashaJoshi"
         ],
-        "state": "open",
+        "state": "closed",
         "title": "[Enhance] Add 'backend' argument to product_state",
         "url": "https://github.com/pasqal-io/qadence/issues/370",
         "value": 100
@@ -1178,7 +1180,7 @@
     "emoji": null,
     "name": "Qadence",
     "num_bounties": 5,
-    "num_open_bounties": 5,
+    "num_open_bounties": 4,
     "total_amount": 500,
     "url": "https://github.com/pasqal-io/qadence"
   },
@@ -1187,8 +1189,8 @@
     "bounties": [
       {
         "assignees": [
-          "anomius",
-          "dhanaabhirajk"
+          "dhanaabhirajk",
+          "anomius"
         ],
         "state": "open",
         "title": "Convert OpenQASM 3 program to specified basis gate set",
@@ -1302,8 +1304,8 @@
       {
         "assignees": [
           "schance995",
-          "neogyk",
-          "idriss-hamadi"
+          "idriss-hamadi",
+          "neogyk"
         ],
         "state": "open",
         "title": "QNRG Classifier ML Model Improvements",
@@ -1312,9 +1314,9 @@
       },
       {
         "assignees": [
-          "schance995",
           "AbdullahKazi500",
-          "0mWh"
+          "0mWh",
+          "schance995"
         ],
         "state": "open",
         "title": "Classification Model for General Quantum Circuits",
@@ -1924,8 +1926,8 @@
       },
       {
         "assignees": [
-          "ahkatlio",
-          "Roshan-Thomas"
+          "Roshan-Thomas",
+          "ahkatlio"
         ],
         "state": "closed",
         "title": "Adding code documentation",

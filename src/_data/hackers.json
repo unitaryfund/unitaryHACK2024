@@ -245,6 +245,12 @@
     "username": "jyotiraj-code",
     "bounties": [
       {
+        "url": "https://github.com/Classiq/classiq-library/issues/34",
+        "title": "Create a basic tutorial for running a VQE primitive with Classiq",
+        "project": "classiq-library",
+        "value": 120
+      },
+      {
         "url": "https://github.com/Classiq/classiq-library/issues/36",
         "title": "Add initial conditions to the arithmetic example in the arithmetic_expressions notebook",
         "project": "classiq-library",
@@ -258,7 +264,7 @@
       }
     ],
     "num_projects": 2,
-    "total_value": 230
+    "total_value": 350
   },
   {
     "username": "ahkatlio",
@@ -285,5 +291,18 @@
     ],
     "num_projects": 1,
     "total_value": 50
+  },
+  {
+    "username": "SaashaJoshi",
+    "bounties": [
+      {
+        "url": "https://github.com/pasqal-io/qadence/issues/370",
+        "title": "[Enhance] Add 'backend' argument to product_state",
+        "project": "qadence",
+        "value": 100
+      }
+    ],
+    "num_projects": 1,
+    "total_value": 100
   }
 ]
