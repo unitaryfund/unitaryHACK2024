@@ -1309,8 +1309,8 @@
       {
         "assignees": [
           "schance995",
-          "neogyk",
-          "idriss-hamadi"
+          "idriss-hamadi",
+          "neogyk"
         ],
         "state": "open",
         "title": "QNRG Classifier ML Model Improvements",
@@ -1320,8 +1320,8 @@
       {
         "assignees": [
           "0mWh",
-          "schance995",
-          "AbdullahKazi500"
+          "AbdullahKazi500",
+          "schance995"
         ],
         "state": "open",
         "title": "Classification Model for General Quantum Circuits",
@@ -1937,8 +1937,8 @@
       },
       {
         "assignees": [
-          "ahkatlio",
-          "Roshan-Thomas"
+          "Roshan-Thomas",
+          "ahkatlio"
         ],
         "state": "closed",
         "title": "Adding code documentation",
@@ -1958,8 +1958,8 @@
     "bounties": [
       {
         "assignees": [
-          "ValentinS4t1qbit",
-          "alexfleury-sb"
+          "alexfleury-sb",
+          "ValentinS4t1qbit"
         ],
         "state": "open",
         "title": "Incompatibility with PySCF >= 2.5.0",
@@ -1968,8 +1968,8 @@
       },
       {
         "assignees": [
-          "ValentinS4t1qbit",
           "alexfleury-sb",
+          "ValentinS4t1qbit",
           "cburdine"
         ],
         "state": "open",
@@ -1979,8 +1979,8 @@
       },
       {
         "assignees": [
-          "ValentinS4t1qbit",
-          "alexfleury-sb"
+          "alexfleury-sb",
+          "ValentinS4t1qbit"
         ],
         "state": "open",
         "title": "Automatic documentation deployment",
