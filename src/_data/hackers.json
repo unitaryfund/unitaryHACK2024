@@ -97,6 +97,12 @@
         "value": 150
       },
       {
+        "url": "https://github.com/unitaryfund/mitiq/issues/2161",
+        "title": "Test circuit conversion time for large non-cirq circuits",
+        "project": "mitiq",
+        "value": 70
+      },
+      {
         "url": "https://github.com/qBraid/qBraid/issues/618",
         "title": "NetworkX Out, Rustworkx In: Unleash the Speed",
         "project": "qbraid",
@@ -115,8 +121,8 @@
         "value": 75
       }
     ],
-    "num_projects": 3,
-    "total_value": 535
+    "num_projects": 4,
+    "total_value": 605
   },
   {
     "username": "rodolfocarobene",

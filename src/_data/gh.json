@@ -420,8 +420,8 @@
     "bounties": [
       {
         "assignees": [
-          "amir-naveh",
-          "jyotiraj-code"
+          "jyotiraj-code",
+          "amir-naveh"
         ],
         "state": "open",
         "title": "Classiq Basics: Quantum Entanglement",
@@ -823,7 +823,7 @@
     "url": "https://github.com/unitaryfund/metriq-app"
   },
   "mitiq": {
-    "amount_available": 500,
+    "amount_available": 430,
     "bounties": [
       {
         "assignees": [],
@@ -840,8 +840,10 @@
         "value": 80
       },
       {
-        "assignees": [],
-        "state": "open",
+        "assignees": [
+          "king-p3nguin"
+        ],
+        "state": "closed",
         "title": "Test circuit conversion time for large non-cirq circuits",
         "url": "https://github.com/unitaryfund/mitiq/issues/2161",
         "value": 70
@@ -864,7 +866,7 @@
     "emoji": "\ud83c\udf34",
     "name": "Mitiq",
     "num_bounties": 5,
-    "num_open_bounties": 5,
+    "num_open_bounties": 4,
     "total_amount": 500,
     "url": "https://github.com/unitaryfund/mitiq"
   },
@@ -1003,8 +1005,8 @@
     "bounties": [
       {
         "assignees": [
-          "burlemarxiste",
-          "maxwell04-wq"
+          "maxwell04-wq",
+          "burlemarxiste"
         ],
         "state": "open",
         "title": "QASM to linear optics circuit converter",
@@ -1196,8 +1198,8 @@
     "bounties": [
       {
         "assignees": [
-          "anomius",
-          "dhanaabhirajk"
+          "dhanaabhirajk",
+          "anomius"
         ],
         "state": "open",
         "title": "Convert OpenQASM 3 program to specified basis gate set",
@@ -1310,9 +1312,9 @@
       },
       {
         "assignees": [
+          "schance995",
           "neogyk",
-          "idriss-hamadi",
-          "schance995"
+          "idriss-hamadi"
         ],
         "state": "open",
         "title": "QNRG Classifier ML Model Improvements",
@@ -1321,9 +1323,9 @@
       },
       {
         "assignees": [
-          "0mWh",
           "schance995",
-          "AbdullahKazi500"
+          "AbdullahKazi500",
+          "0mWh"
         ],
         "state": "open",
         "title": "Classification Model for General Quantum Circuits",
@@ -1941,8 +1943,8 @@
       },
       {
         "assignees": [
-          "Roshan-Thomas",
-          "ahkatlio"
+          "ahkatlio",
+          "Roshan-Thomas"
         ],
         "state": "closed",
         "title": "Adding code documentation",
@@ -1962,8 +1964,8 @@
     "bounties": [
       {
         "assignees": [
-          "ValentinS4t1qbit",
-          "alexfleury-sb"
+          "alexfleury-sb",
+          "ValentinS4t1qbit"
         ],
         "state": "open",
         "title": "Incompatibility with PySCF >= 2.5.0",
@@ -1972,8 +1974,8 @@
       },
       {
         "assignees": [
-          "ValentinS4t1qbit",
           "alexfleury-sb",
+          "ValentinS4t1qbit",
           "cburdine"
         ],
         "state": "open",
@@ -1983,8 +1985,8 @@
       },
       {
         "assignees": [
-          "ValentinS4t1qbit",
-          "alexfleury-sb"
+          "alexfleury-sb",
+          "ValentinS4t1qbit"
         ],
         "state": "open",
         "title": "Automatic documentation deployment",
@@ -2162,8 +2164,8 @@
       },
       {
         "assignees": [
-          "Youngcius",
-          "king-p3nguin"
+          "king-p3nguin",
+          "Youngcius"
         ],
         "state": "open",
         "title": "Supporting Additional Features for tq2qiskit and qiskit2tq",
