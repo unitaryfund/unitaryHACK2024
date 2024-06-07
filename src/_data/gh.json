@@ -1196,8 +1196,8 @@
     "bounties": [
       {
         "assignees": [
-          "dhanaabhirajk",
-          "anomius"
+          "anomius",
+          "dhanaabhirajk"
         ],
         "state": "open",
         "title": "Convert OpenQASM 3 program to specified basis gate set",
@@ -1311,8 +1311,8 @@
       {
         "assignees": [
           "neogyk",
-          "schance995",
-          "idriss-hamadi"
+          "idriss-hamadi",
+          "schance995"
         ],
         "state": "open",
         "title": "QNRG Classifier ML Model Improvements",
@@ -1321,8 +1321,8 @@
       },
       {
         "assignees": [
-          "schance995",
           "0mWh",
+          "schance995",
           "AbdullahKazi500"
         ],
         "state": "open",
@@ -1962,8 +1962,8 @@
     "bounties": [
       {
         "assignees": [
-          "alexfleury-sb",
-          "ValentinS4t1qbit"
+          "ValentinS4t1qbit",
+          "alexfleury-sb"
         ],
         "state": "open",
         "title": "Incompatibility with PySCF >= 2.5.0",
@@ -1972,8 +1972,8 @@
       },
       {
         "assignees": [
-          "alexfleury-sb",
           "ValentinS4t1qbit",
+          "alexfleury-sb",
           "cburdine"
         ],
         "state": "open",
@@ -1983,8 +1983,8 @@
       },
       {
         "assignees": [
-          "alexfleury-sb",
-          "ValentinS4t1qbit"
+          "ValentinS4t1qbit",
+          "alexfleury-sb"
         ],
         "state": "open",
         "title": "Automatic documentation deployment",
