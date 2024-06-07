@@ -1001,6 +1001,7 @@
     "bounties": [
       {
         "assignees": [
+          "maxwell04-wq",
           "burlemarxiste"
         ],
         "state": "open",
@@ -1193,8 +1194,8 @@
     "bounties": [
       {
         "assignees": [
-          "anomius",
-          "dhanaabhirajk"
+          "dhanaabhirajk",
+          "anomius"
         ],
         "state": "open",
         "title": "Convert OpenQASM 3 program to specified basis gate set",
@@ -1307,9 +1308,9 @@
       },
       {
         "assignees": [
-          "schance995",
           "idriss-hamadi",
-          "neogyk"
+          "neogyk",
+          "schance995"
         ],
         "state": "open",
         "title": "QNRG Classifier ML Model Improvements",
@@ -1318,9 +1319,9 @@
       },
       {
         "assignees": [
+          "AbdullahKazi500",
           "0mWh",
-          "schance995",
-          "AbdullahKazi500"
+          "schance995"
         ],
         "state": "open",
         "title": "Classification Model for General Quantum Circuits",
@@ -1339,7 +1340,9 @@
     "amount_available": 350,
     "bounties": [
       {
-        "assignees": [],
+        "assignees": [
+          "ljcamargo"
+        ],
         "state": "open",
         "title": "Spellcheck API docs (Unity Fund Hackathon) ",
         "url": "https://github.com/Qiskit/qiskit/issues/12067",
@@ -1934,8 +1937,8 @@
       },
       {
         "assignees": [
-          "Roshan-Thomas",
-          "ahkatlio"
+          "ahkatlio",
+          "Roshan-Thomas"
         ],
         "state": "closed",
         "title": "Adding code documentation",
@@ -1955,8 +1958,8 @@
     "bounties": [
       {
         "assignees": [
-          "ValentinS4t1qbit",
-          "alexfleury-sb"
+          "alexfleury-sb",
+          "ValentinS4t1qbit"
         ],
         "state": "open",
         "title": "Incompatibility with PySCF >= 2.5.0",
@@ -1965,9 +1968,9 @@
       },
       {
         "assignees": [
-          "ValentinS4t1qbit",
           "alexfleury-sb",
-          "cburdine"
+          "cburdine",
+          "ValentinS4t1qbit"
         ],
         "state": "open",
         "title": "Circuit as reference state in the ansatz definition",
@@ -1976,8 +1979,8 @@
       },
       {
         "assignees": [
-          "ValentinS4t1qbit",
-          "alexfleury-sb"
+          "alexfleury-sb",
+          "ValentinS4t1qbit"
         ],
         "state": "open",
         "title": "Automatic documentation deployment",
@@ -1986,8 +1989,8 @@
       },
       {
         "assignees": [
-          "ValentinS4t1qbit",
-          "cburdine"
+          "cburdine",
+          "ValentinS4t1qbit"
         ],
         "state": "open",
         "title": "Augment the Rotosolve optimizer to support Rotoselect",
@@ -2156,8 +2159,8 @@
       },
       {
         "assignees": [
-          "king-p3nguin",
-          "Youngcius"
+          "Youngcius",
+          "king-p3nguin"
         ],
         "state": "open",
         "title": "Supporting Additional Features for tq2qiskit and qiskit2tq",
