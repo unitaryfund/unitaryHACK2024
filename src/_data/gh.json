@@ -1307,9 +1307,9 @@
       },
       {
         "assignees": [
-          "schance995",
+          "neogyk",
           "idriss-hamadi",
-          "neogyk"
+          "schance995"
         ],
         "state": "open",
         "title": "QNRG Classifier ML Model Improvements",
@@ -1318,9 +1318,9 @@
       },
       {
         "assignees": [
-          "schance995",
           "0mWh",
-          "AbdullahKazi500"
+          "AbdullahKazi500",
+          "schance995"
         ],
         "state": "open",
         "title": "Classification Model for General Quantum Circuits",
@@ -1934,8 +1934,8 @@
       },
       {
         "assignees": [
-          "Roshan-Thomas",
-          "ahkatlio"
+          "ahkatlio",
+          "Roshan-Thomas"
         ],
         "state": "closed",
         "title": "Adding code documentation",
@@ -1965,8 +1965,8 @@
       },
       {
         "assignees": [
-          "alexfleury-sb",
           "cburdine",
+          "alexfleury-sb",
           "ValentinS4t1qbit"
         ],
         "state": "open",
@@ -2156,8 +2156,8 @@
       },
       {
         "assignees": [
-          "king-p3nguin",
-          "Youngcius"
+          "Youngcius",
+          "king-p3nguin"
         ],
         "state": "open",
         "title": "Supporting Additional Features for tq2qiskit and qiskit2tq",
