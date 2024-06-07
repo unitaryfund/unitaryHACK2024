@@ -420,8 +420,8 @@
     "bounties": [
       {
         "assignees": [
-          "amir-naveh",
-          "jyotiraj-code"
+          "jyotiraj-code",
+          "amir-naveh"
         ],
         "state": "open",
         "title": "Classiq Basics: Quantum Entanglement",
@@ -788,7 +788,9 @@
         "value": 50
       },
       {
-        "assignees": [],
+        "assignees": [
+          "WingCode"
+        ],
         "state": "open",
         "title": "Metriq freezes from mobile browser",
         "url": "https://github.com/unitaryfund/metriq-app/issues/851",
@@ -1001,8 +1003,8 @@
     "bounties": [
       {
         "assignees": [
-          "burlemarxiste",
-          "maxwell04-wq"
+          "maxwell04-wq",
+          "burlemarxiste"
         ],
         "state": "open",
         "title": "QASM to linear optics circuit converter",
@@ -1194,8 +1196,8 @@
     "bounties": [
       {
         "assignees": [
-          "anomius",
-          "dhanaabhirajk"
+          "dhanaabhirajk",
+          "anomius"
         ],
         "state": "open",
         "title": "Convert OpenQASM 3 program to specified basis gate set",
@@ -1308,8 +1310,8 @@
       },
       {
         "assignees": [
-          "schance995",
           "idriss-hamadi",
+          "schance995",
           "neogyk"
         ],
         "state": "open",
@@ -1337,7 +1339,7 @@
     "url": "https://github.com/dorahacksglobal/qc-classifier"
   },
   "qiskit": {
-    "amount_available": 350,
+    "amount_available": 300,
     "bounties": [
       {
         "assignees": [
@@ -1357,7 +1359,7 @@
       },
       {
         "assignees": [],
-        "state": "open",
+        "state": "closed",
         "title": "Controlling the Insertion of Multi-Qubit Gates in the Generation of Random Circuits",
         "url": "https://github.com/Qiskit/qiskit/issues/12059",
         "value": 50
@@ -1373,7 +1375,7 @@
     "emoji": "\ud83c\udf10",
     "name": "Qiskit",
     "num_bounties": 4,
-    "num_open_bounties": 4,
+    "num_open_bounties": 3,
     "total_amount": 350,
     "url": "https://github.com/Qiskit/qiskit/"
   },
