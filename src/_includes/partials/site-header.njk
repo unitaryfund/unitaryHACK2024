@@ -22,6 +22,7 @@
       {% set navPages = collections.all | eleventyNavigation %}
       <ul class="site-header__items">
         {%- for entry in navPages %}
+          {% if entry.title != "Register" %} 
           <li class="site-header__item">
             <a
               class="site-header__link"
@@ -31,6 +32,7 @@
               {{ entry.title }}
             </a>
           </li>
+          {% endif %}
         {%- endfor %}
 
         {# {% if global.enable_theme_switch %}
