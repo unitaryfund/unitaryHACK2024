@@ -771,7 +771,7 @@
     "url": "https://github.com/CQCL/lambeq"
   },
   "metriq-app": {
-    "amount_available": 400,
+    "amount_available": 250,
     "bounties": [
       {
         "assignees": [],
@@ -791,7 +791,7 @@
         "assignees": [
           "WingCode"
         ],
-        "state": "open",
+        "state": "closed",
         "title": "Metriq freezes from mobile browser",
         "url": "https://github.com/unitaryfund/metriq-app/issues/851",
         "value": 150
@@ -818,7 +818,7 @@
     "emoji": "\ud83d\udcca",
     "name": "Metriq",
     "num_bounties": 5,
-    "num_open_bounties": 4,
+    "num_open_bounties": 3,
     "total_amount": 500,
     "url": "https://github.com/unitaryfund/metriq-app"
   },
@@ -1003,8 +1003,8 @@
     "bounties": [
       {
         "assignees": [
-          "maxwell04-wq",
-          "burlemarxiste"
+          "burlemarxiste",
+          "maxwell04-wq"
         ],
         "state": "open",
         "title": "QASM to linear optics circuit converter",
@@ -1196,8 +1196,8 @@
     "bounties": [
       {
         "assignees": [
-          "dhanaabhirajk",
-          "anomius"
+          "anomius",
+          "dhanaabhirajk"
         ],
         "state": "open",
         "title": "Convert OpenQASM 3 program to specified basis gate set",
@@ -1310,9 +1310,9 @@
       },
       {
         "assignees": [
+          "neogyk",
           "idriss-hamadi",
-          "schance995",
-          "neogyk"
+          "schance995"
         ],
         "state": "open",
         "title": "QNRG Classifier ML Model Improvements",
@@ -1321,8 +1321,8 @@
       },
       {
         "assignees": [
-          "0mWh",
           "AbdullahKazi500",
+          "0mWh",
           "schance995"
         ],
         "state": "open",
@@ -1358,7 +1358,9 @@
         "value": 100
       },
       {
-        "assignees": [],
+        "assignees": [
+          "shravanpatel30"
+        ],
         "state": "closed",
         "title": "Controlling the Insertion of Multi-Qubit Gates in the Generation of Random Circuits",
         "url": "https://github.com/Qiskit/qiskit/issues/12059",
@@ -1939,8 +1941,8 @@
       },
       {
         "assignees": [
-          "Roshan-Thomas",
-          "ahkatlio"
+          "ahkatlio",
+          "Roshan-Thomas"
         ],
         "state": "closed",
         "title": "Adding code documentation",
@@ -1970,9 +1972,9 @@
       },
       {
         "assignees": [
+          "cburdine",
           "alexfleury-sb",
-          "ValentinS4t1qbit",
-          "cburdine"
+          "ValentinS4t1qbit"
         ],
         "state": "open",
         "title": "Circuit as reference state in the ansatz definition",
@@ -1991,8 +1993,8 @@
       },
       {
         "assignees": [
-          "ValentinS4t1qbit",
-          "cburdine"
+          "cburdine",
+          "ValentinS4t1qbit"
         ],
         "state": "open",
         "title": "Augment the Rotosolve optimizer to support Rotoselect",
@@ -2161,8 +2163,8 @@
       },
       {
         "assignees": [
-          "Youngcius",
-          "king-p3nguin"
+          "king-p3nguin",
+          "Youngcius"
         ],
         "state": "open",
         "title": "Supporting Additional Features for tq2qiskit and qiskit2tq",

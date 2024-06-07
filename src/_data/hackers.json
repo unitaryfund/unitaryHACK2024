@@ -210,6 +210,25 @@
     "total_value": 100
   },
   {
+    "username": "WingCode",
+    "bounties": [
+      {
+        "url": "https://github.com/unitaryfund/metriq-app/issues/851",
+        "title": "Metriq freezes from mobile browser",
+        "project": "metriq-app",
+        "value": 150
+      },
+      {
+        "url": "https://github.com/qiskit-community/qiskit-braket-provider/issues/177",
+        "title": "Improve unit test coverage to 100%",
+        "project": "qiskit-braket-provider",
+        "value": 200
+      }
+    ],
+    "num_projects": 2,
+    "total_value": 350
+  },
+  {
     "username": "AVDiv",
     "bounties": [
       {
@@ -247,19 +266,6 @@
     ],
     "num_projects": 1,
     "total_value": 40
-  },
-  {
-    "username": "WingCode",
-    "bounties": [
-      {
-        "url": "https://github.com/qiskit-community/qiskit-braket-provider/issues/177",
-        "title": "Improve unit test coverage to 100%",
-        "project": "qiskit-braket-provider",
-        "value": 200
-      }
-    ],
-    "num_projects": 1,
-    "total_value": 200
   },
   {
     "username": "atomgardner",
@@ -310,6 +316,19 @@
     ],
     "num_projects": 2,
     "total_value": 350
+  },
+  {
+    "username": "shravanpatel30",
+    "bounties": [
+      {
+        "url": "https://github.com/Qiskit/qiskit/issues/12059",
+        "title": "Controlling the Insertion of Multi-Qubit Gates in the Generation of Random Circuits",
+        "project": "qiskit",
+        "value": 50
+      }
+    ],
+    "num_projects": 1,
+    "total_value": 50
   },
   {
     "username": "ahkatlio",
