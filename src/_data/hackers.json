@@ -132,6 +132,19 @@
     "total_value": 100
   },
   {
+    "username": "Manvi-Agrawal",
+    "bounties": [
+      {
+        "url": "https://github.com/microsoft/qsharp/issues/1212",
+        "title": "Add three qubit `AND` operation to public API",
+        "project": "qsharp",
+        "value": 70
+      }
+    ],
+    "num_projects": 1,
+    "total_value": 70
+  },
+  {
     "username": "LorenzoFioroni",
     "bounties": [
       {
@@ -266,6 +279,19 @@
     ],
     "num_projects": 1,
     "total_value": 40
+  },
+  {
+    "username": "cburdine",
+    "bounties": [
+      {
+        "url": "https://github.com/goodchemistryco/Tangelo/issues/386",
+        "title": "Augment the Rotosolve optimizer to support Rotoselect",
+        "project": "tangelo",
+        "value": 100
+      }
+    ],
+    "num_projects": 1,
+    "total_value": 100
   },
   {
     "username": "atomgardner",
