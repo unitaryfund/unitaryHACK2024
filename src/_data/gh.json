@@ -420,8 +420,8 @@
     "bounties": [
       {
         "assignees": [
-          "amir-naveh",
-          "jyotiraj-code"
+          "jyotiraj-code",
+          "amir-naveh"
         ],
         "state": "open",
         "title": "Classiq Basics: Quantum Entanglement",
@@ -1307,9 +1307,9 @@
       },
       {
         "assignees": [
+          "schance995",
           "idriss-hamadi",
-          "neogyk",
-          "schance995"
+          "neogyk"
         ],
         "state": "open",
         "title": "QNRG Classifier ML Model Improvements",
@@ -1318,9 +1318,9 @@
       },
       {
         "assignees": [
-          "AbdullahKazi500",
+          "0mWh",
           "schance995",
-          "0mWh"
+          "AbdullahKazi500"
         ],
         "state": "open",
         "title": "Classification Model for General Quantum Circuits",
@@ -1955,8 +1955,8 @@
     "bounties": [
       {
         "assignees": [
-          "alexfleury-sb",
-          "ValentinS4t1qbit"
+          "ValentinS4t1qbit",
+          "alexfleury-sb"
         ],
         "state": "open",
         "title": "Incompatibility with PySCF >= 2.5.0",
@@ -1965,8 +1965,8 @@
       },
       {
         "assignees": [
-          "alexfleury-sb",
           "ValentinS4t1qbit",
+          "alexfleury-sb",
           "cburdine"
         ],
         "state": "open",
@@ -1976,8 +1976,8 @@
       },
       {
         "assignees": [
-          "alexfleury-sb",
-          "ValentinS4t1qbit"
+          "ValentinS4t1qbit",
+          "alexfleury-sb"
         ],
         "state": "open",
         "title": "Automatic documentation deployment",
