@@ -9,14 +9,20 @@
         "value": 80
       },
       {
+        "url": "https://github.com/qutip/qutip/issues/2400",
+        "title": "Bug in the rendering of the process matrix",
+        "project": "qutip-tutorials",
+        "value": 100
+      },
+      {
         "url": "https://github.com/goodchemistryco/Tangelo/issues/388",
         "title": "[BUG] `Circuit.draw()` returns an error when gate parameter is a string",
         "project": "tangelo",
         "value": 50
       }
     ],
-    "num_projects": 2,
-    "total_value": 130
+    "num_projects": 3,
+    "total_value": 230
   },
   {
     "username": "golanor",

@@ -420,8 +420,8 @@
     "bounties": [
       {
         "assignees": [
-          "jyotiraj-code",
-          "amir-naveh"
+          "amir-naveh",
+          "jyotiraj-code"
         ],
         "state": "open",
         "title": "Classiq Basics: Quantum Entanglement",
@@ -1816,7 +1816,7 @@
     "url": "https://github.com/mvwf/qublitz"
   },
   "qutip-tutorials": {
-    "amount_available": 500,
+    "amount_available": 400,
     "bounties": [
       {
         "assignees": [],
@@ -1843,7 +1843,7 @@
         "assignees": [
           "anushkrishnav"
         ],
-        "state": "open",
+        "state": "closed",
         "title": "Bug in the rendering of the process matrix",
         "url": "https://github.com/qutip/qutip/issues/2400",
         "value": 100
@@ -1859,7 +1859,7 @@
     "emoji": null,
     "name": "QuTiP Tutorials",
     "num_bounties": 5,
-    "num_open_bounties": 5,
+    "num_open_bounties": 4,
     "total_amount": 500,
     "url": "https://github.com/qutip/qutip-tutorials/"
   },
@@ -1943,8 +1943,8 @@
       },
       {
         "assignees": [
-          "ahkatlio",
-          "Roshan-Thomas"
+          "Roshan-Thomas",
+          "ahkatlio"
         ],
         "state": "closed",
         "title": "Adding code documentation",
@@ -1974,9 +1974,9 @@
       },
       {
         "assignees": [
-          "ValentinS4t1qbit",
           "cburdine",
-          "alexfleury-sb"
+          "alexfleury-sb",
+          "ValentinS4t1qbit"
         ],
         "state": "open",
         "title": "Circuit as reference state in the ansatz definition",
