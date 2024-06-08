@@ -420,8 +420,8 @@
     "bounties": [
       {
         "assignees": [
-          "amir-naveh",
-          "jyotiraj-code"
+          "jyotiraj-code",
+          "amir-naveh"
         ],
         "state": "open",
         "title": "Classiq Basics: Quantum Entanglement",
@@ -1198,8 +1198,8 @@
     "bounties": [
       {
         "assignees": [
-          "anomius",
-          "dhanaabhirajk"
+          "dhanaabhirajk",
+          "anomius"
         ],
         "state": "open",
         "title": "Convert OpenQASM 3 program to specified basis gate set",
@@ -1312,9 +1312,9 @@
       },
       {
         "assignees": [
-          "schance995",
+          "idriss-hamadi",
           "neogyk",
-          "idriss-hamadi"
+          "schance995"
         ],
         "state": "open",
         "title": "QNRG Classifier ML Model Improvements",
@@ -1323,9 +1323,9 @@
       },
       {
         "assignees": [
+          "AbdullahKazi500",
           "0mWh",
-          "schance995",
-          "AbdullahKazi500"
+          "schance995"
         ],
         "state": "open",
         "title": "Classification Model for General Quantum Circuits",
@@ -1943,8 +1943,8 @@
       },
       {
         "assignees": [
-          "Roshan-Thomas",
-          "ahkatlio"
+          "ahkatlio",
+          "Roshan-Thomas"
         ],
         "state": "closed",
         "title": "Adding code documentation",
@@ -1975,8 +1975,8 @@
       {
         "assignees": [
           "alexfleury-sb",
-          "ValentinS4t1qbit",
-          "cburdine"
+          "cburdine",
+          "ValentinS4t1qbit"
         ],
         "state": "open",
         "title": "Circuit as reference state in the ansatz definition",
@@ -2164,8 +2164,8 @@
       },
       {
         "assignees": [
-          "Youngcius",
-          "king-p3nguin"
+          "king-p3nguin",
+          "Youngcius"
         ],
         "state": "open",
         "title": "Supporting Additional Features for tq2qiskit and qiskit2tq",
