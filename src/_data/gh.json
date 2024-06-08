@@ -420,8 +420,8 @@
     "bounties": [
       {
         "assignees": [
-          "jyotiraj-code",
-          "amir-naveh"
+          "amir-naveh",
+          "jyotiraj-code"
         ],
         "state": "open",
         "title": "Classiq Basics: Quantum Entanglement",
@@ -1021,7 +1021,9 @@
         "value": 200
       },
       {
-        "assignees": [],
+        "assignees": [
+          "burlemarxiste"
+        ],
         "state": "open",
         "title": "Heralds out of their box",
         "url": "https://github.com/Quandela/Perceval/issues/207",
@@ -1084,7 +1086,9 @@
         "value": 100
       },
       {
-        "assignees": [],
+        "assignees": [
+          "ErikQQY"
+        ],
         "state": "closed",
         "title": "[Feature]: docstrings for NamedTrajectory struct and consttructors",
         "url": "https://github.com/aarontrowbridge/NamedTrajectories.jl/issues/39",
@@ -1198,8 +1202,8 @@
     "bounties": [
       {
         "assignees": [
-          "dhanaabhirajk",
-          "anomius"
+          "anomius",
+          "dhanaabhirajk"
         ],
         "state": "open",
         "title": "Convert OpenQASM 3 program to specified basis gate set",
@@ -1312,8 +1316,8 @@
       },
       {
         "assignees": [
-          "idriss-hamadi",
           "neogyk",
+          "idriss-hamadi",
           "schance995"
         ],
         "state": "open",
@@ -1323,8 +1327,8 @@
       },
       {
         "assignees": [
-          "AbdullahKazi500",
           "0mWh",
+          "AbdullahKazi500",
           "schance995"
         ],
         "state": "open",
@@ -1630,7 +1634,9 @@
         "value": 90
       },
       {
-        "assignees": [],
+        "assignees": [
+          "Manvi-Agrawal"
+        ],
         "state": "open",
         "title": "Lint rule: `operation`s that don't manipulate quantum state can be `function`s instead",
         "url": "https://github.com/microsoft/qsharp/issues/1471",
@@ -1943,8 +1949,8 @@
       },
       {
         "assignees": [
-          "ahkatlio",
-          "Roshan-Thomas"
+          "Roshan-Thomas",
+          "ahkatlio"
         ],
         "state": "closed",
         "title": "Adding code documentation",
@@ -1975,8 +1981,8 @@
       {
         "assignees": [
           "alexfleury-sb",
-          "cburdine",
-          "ValentinS4t1qbit"
+          "ValentinS4t1qbit",
+          "cburdine"
         ],
         "state": "open",
         "title": "Circuit as reference state in the ansatz definition",

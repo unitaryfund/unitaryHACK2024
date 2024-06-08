@@ -76,10 +76,16 @@
         "title": "[Feature]: Global Trajectory Parameters",
         "project": "piccolo.jl",
         "value": 100
+      },
+      {
+        "url": "https://github.com/aarontrowbridge/NamedTrajectories.jl/issues/39",
+        "title": "[Feature]: docstrings for NamedTrajectory struct and consttructors",
+        "project": "piccolo.jl",
+        "value": 50
       }
     ],
     "num_projects": 1,
-    "total_value": 100
+    "total_value": 150
   },
   {
     "username": "king-p3nguin",
