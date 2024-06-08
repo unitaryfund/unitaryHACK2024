@@ -420,8 +420,8 @@
     "bounties": [
       {
         "assignees": [
-          "amir-naveh",
-          "jyotiraj-code"
+          "jyotiraj-code",
+          "amir-naveh"
         ],
         "state": "open",
         "title": "Classiq Basics: Quantum Entanglement",
@@ -1312,8 +1312,8 @@
       },
       {
         "assignees": [
-          "neogyk",
           "idriss-hamadi",
+          "neogyk",
           "schance995"
         ],
         "state": "open",
@@ -1323,9 +1323,9 @@
       },
       {
         "assignees": [
-          "schance995",
           "AbdullahKazi500",
-          "0mWh"
+          "0mWh",
+          "schance995"
         ],
         "state": "open",
         "title": "Classification Model for General Quantum Circuits",
@@ -1943,8 +1943,8 @@
       },
       {
         "assignees": [
-          "ahkatlio",
-          "Roshan-Thomas"
+          "Roshan-Thomas",
+          "ahkatlio"
         ],
         "state": "closed",
         "title": "Adding code documentation",
@@ -1964,8 +1964,8 @@
     "bounties": [
       {
         "assignees": [
-          "alexfleury-sb",
-          "ValentinS4t1qbit"
+          "ValentinS4t1qbit",
+          "alexfleury-sb"
         ],
         "state": "open",
         "title": "Incompatibility with PySCF >= 2.5.0",
@@ -1974,9 +1974,9 @@
       },
       {
         "assignees": [
+          "ValentinS4t1qbit",
           "alexfleury-sb",
-          "cburdine",
-          "ValentinS4t1qbit"
+          "cburdine"
         ],
         "state": "open",
         "title": "Circuit as reference state in the ansatz definition",
@@ -1985,8 +1985,8 @@
       },
       {
         "assignees": [
-          "alexfleury-sb",
-          "ValentinS4t1qbit"
+          "ValentinS4t1qbit",
+          "alexfleury-sb"
         ],
         "state": "open",
         "title": "Automatic documentation deployment",
@@ -2164,8 +2164,8 @@
       },
       {
         "assignees": [
-          "king-p3nguin",
-          "Youngcius"
+          "Youngcius",
+          "king-p3nguin"
         ],
         "state": "open",
         "title": "Supporting Additional Features for tq2qiskit and qiskit2tq",
