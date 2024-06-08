@@ -1038,13 +1038,13 @@
     "url": "https://github.com/Quandela/Perceval"
   },
   "piccolo.jl": {
-    "amount_available": 350,
+    "amount_available": 300,
     "bounties": [
       {
         "assignees": [
           "Fe-r-oz"
         ],
-        "state": "open",
+        "state": "closed",
         "title": "[Feature]: quantum utils docstrings and tests",
         "url": "https://github.com/aarontrowbridge/QuantumCollocation.jl/issues/102",
         "value": 50
@@ -1098,7 +1098,7 @@
     "emoji": null,
     "name": "Piccolo.jl",
     "num_bounties": 6,
-    "num_open_bounties": 4,
+    "num_open_bounties": 3,
     "total_amount": 500,
     "url": "https://github.com/aarontrowbridge/Piccolo.jl"
   },
@@ -1316,9 +1316,9 @@
       },
       {
         "assignees": [
+          "schance995",
           "neogyk",
-          "idriss-hamadi",
-          "schance995"
+          "idriss-hamadi"
         ],
         "state": "open",
         "title": "QNRG Classifier ML Model Improvements",
@@ -1327,9 +1327,9 @@
       },
       {
         "assignees": [
+          "schance995",
           "0mWh",
-          "AbdullahKazi500",
-          "schance995"
+          "AbdullahKazi500"
         ],
         "state": "open",
         "title": "Classification Model for General Quantum Circuits",
@@ -1981,8 +1981,8 @@
       {
         "assignees": [
           "alexfleury-sb",
-          "ValentinS4t1qbit",
-          "cburdine"
+          "cburdine",
+          "ValentinS4t1qbit"
         ],
         "state": "open",
         "title": "Circuit as reference state in the ansatz definition",

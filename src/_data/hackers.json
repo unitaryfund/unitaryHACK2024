@@ -69,6 +69,19 @@
     "total_value": 235
   },
   {
+    "username": "Fe-r-oz",
+    "bounties": [
+      {
+        "url": "https://github.com/aarontrowbridge/QuantumCollocation.jl/issues/102",
+        "title": "[Feature]: quantum utils docstrings and tests",
+        "project": "piccolo.jl",
+        "value": 50
+      }
+    ],
+    "num_projects": 1,
+    "total_value": 50
+  },
+  {
     "username": "ErikQQY",
     "bounties": [
       {
