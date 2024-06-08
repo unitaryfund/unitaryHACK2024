@@ -420,8 +420,8 @@
     "bounties": [
       {
         "assignees": [
-          "jyotiraj-code",
-          "amir-naveh"
+          "amir-naveh",
+          "jyotiraj-code"
         ],
         "state": "open",
         "title": "Classiq Basics: Quantum Entanglement",
@@ -1061,7 +1061,7 @@
           "Fe-r-oz"
         ],
         "state": "open",
-        "title": "[Feature]: Sample-based robust control",
+        "title": "[Feature]: Sampling-based robust control",
         "url": "https://github.com/aarontrowbridge/QuantumCollocation.jl/issues/89",
         "value": 150
       },
@@ -1198,8 +1198,8 @@
     "bounties": [
       {
         "assignees": [
-          "dhanaabhirajk",
-          "anomius"
+          "anomius",
+          "dhanaabhirajk"
         ],
         "state": "open",
         "title": "Convert OpenQASM 3 program to specified basis gate set",
@@ -1312,9 +1312,9 @@
       },
       {
         "assignees": [
-          "schance995",
           "neogyk",
-          "idriss-hamadi"
+          "idriss-hamadi",
+          "schance995"
         ],
         "state": "open",
         "title": "QNRG Classifier ML Model Improvements",
@@ -1975,8 +1975,8 @@
       {
         "assignees": [
           "alexfleury-sb",
-          "ValentinS4t1qbit",
-          "cburdine"
+          "cburdine",
+          "ValentinS4t1qbit"
         ],
         "state": "open",
         "title": "Circuit as reference state in the ansatz definition",
