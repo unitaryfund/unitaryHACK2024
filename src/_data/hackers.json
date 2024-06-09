@@ -353,6 +353,12 @@
     "username": "jyotiraj-code",
     "bounties": [
       {
+        "url": "https://github.com/Classiq/classiq-library/issues/28",
+        "title": "Classiq Basics: Quantum Entanglement",
+        "project": "classiq-library",
+        "value": 50
+      },
+      {
         "url": "https://github.com/Classiq/classiq-library/issues/34",
         "title": "Create a basic tutorial for running a VQE primitive with Classiq",
         "project": "classiq-library",
@@ -372,7 +378,7 @@
       }
     ],
     "num_projects": 2,
-    "total_value": 350
+    "total_value": 400
   },
   {
     "username": "shravanpatel30",

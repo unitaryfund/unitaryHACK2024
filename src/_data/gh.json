@@ -416,14 +416,13 @@
     "url": "https://github.com/quantumlib/Cirq"
   },
   "classiq-library": {
-    "amount_available": 150,
+    "amount_available": 100,
     "bounties": [
       {
         "assignees": [
-          "jyotiraj-code",
-          "amir-naveh"
+          "jyotiraj-code"
         ],
-        "state": "open",
+        "state": "closed",
         "title": "Classiq Basics: Quantum Entanglement",
         "url": "https://github.com/Classiq/classiq-library/issues/28",
         "value": 50
@@ -466,7 +465,7 @@
     "emoji": "\ud83d\udcda\ud83d\udc69\ud83c\udffb\u200d\ud83d\udcbb",
     "name": "Classiq Library",
     "num_bounties": 5,
-    "num_open_bounties": 2,
+    "num_open_bounties": 1,
     "total_amount": 500,
     "url": "https://github.com/Classiq/classiq-library"
   },
@@ -616,7 +615,9 @@
     "amount_available": 500,
     "bounties": [
       {
-        "assignees": [],
+        "assignees": [
+          "Gopal-Dahale"
+        ],
         "state": "open",
         "title": "UnitaryHack Bounty - Quantum Machine Learning Tutorial: Music Genre Classification using HierarQcal",
         "url": "https://github.com/matt-lourens/hierarqcal/issues/48",
@@ -1204,8 +1205,8 @@
     "bounties": [
       {
         "assignees": [
-          "anomius",
-          "dhanaabhirajk"
+          "dhanaabhirajk",
+          "anomius"
         ],
         "state": "open",
         "title": "Convert OpenQASM 3 program to specified basis gate set",
@@ -1318,9 +1319,9 @@
       },
       {
         "assignees": [
-          "neogyk",
+          "schance995",
           "idriss-hamadi",
-          "schance995"
+          "neogyk"
         ],
         "state": "open",
         "title": "QNRG Classifier ML Model Improvements",
@@ -1329,8 +1330,8 @@
       },
       {
         "assignees": [
-          "AbdullahKazi500",
           "schance995",
+          "AbdullahKazi500",
           "0mWh"
         ],
         "state": "open",
@@ -1951,8 +1952,8 @@
       },
       {
         "assignees": [
-          "ahkatlio",
-          "Roshan-Thomas"
+          "Roshan-Thomas",
+          "ahkatlio"
         ],
         "state": "closed",
         "title": "Adding code documentation",
@@ -1972,8 +1973,8 @@
     "bounties": [
       {
         "assignees": [
-          "alexfleury-sb",
-          "ValentinS4t1qbit"
+          "ValentinS4t1qbit",
+          "alexfleury-sb"
         ],
         "state": "open",
         "title": "Incompatibility with PySCF >= 2.5.0",
@@ -1993,8 +1994,8 @@
       },
       {
         "assignees": [
-          "alexfleury-sb",
-          "ValentinS4t1qbit"
+          "ValentinS4t1qbit",
+          "alexfleury-sb"
         ],
         "state": "open",
         "title": "Automatic documentation deployment",
@@ -2172,8 +2173,8 @@
       },
       {
         "assignees": [
-          "Youngcius",
-          "king-p3nguin"
+          "king-p3nguin",
+          "Youngcius"
         ],
         "state": "open",
         "title": "Supporting Additional Features for tq2qiskit and qiskit2tq",
