@@ -1010,8 +1010,8 @@
     "bounties": [
       {
         "assignees": [
-          "burlemarxiste",
-          "maxwell04-wq"
+          "maxwell04-wq",
+          "burlemarxiste"
         ],
         "state": "open",
         "title": "QASM to linear optics circuit converter",
@@ -1321,9 +1321,9 @@
       },
       {
         "assignees": [
-          "schance995",
+          "idriss-hamadi",
           "neogyk",
-          "idriss-hamadi"
+          "schance995"
         ],
         "state": "open",
         "title": "QNRG Classifier ML Model Improvements",
@@ -1332,9 +1332,9 @@
       },
       {
         "assignees": [
-          "schance995",
+          "AbdullahKazi500",
           "0mWh",
-          "AbdullahKazi500"
+          "schance995"
         ],
         "state": "open",
         "title": "Classification Model for General Quantum Circuits",
@@ -1954,8 +1954,8 @@
       },
       {
         "assignees": [
-          "ahkatlio",
-          "Roshan-Thomas"
+          "Roshan-Thomas",
+          "ahkatlio"
         ],
         "state": "closed",
         "title": "Adding code documentation",
@@ -1975,8 +1975,8 @@
     "bounties": [
       {
         "assignees": [
-          "alexfleury-sb",
-          "ValentinS4t1qbit"
+          "ValentinS4t1qbit",
+          "alexfleury-sb"
         ],
         "state": "open",
         "title": "Incompatibility with PySCF >= 2.5.0",
@@ -1985,9 +1985,9 @@
       },
       {
         "assignees": [
-          "alexfleury-sb",
           "ValentinS4t1qbit",
-          "cburdine"
+          "cburdine",
+          "alexfleury-sb"
         ],
         "state": "open",
         "title": "Circuit as reference state in the ansatz definition",
@@ -1996,8 +1996,8 @@
       },
       {
         "assignees": [
-          "alexfleury-sb",
-          "ValentinS4t1qbit"
+          "ValentinS4t1qbit",
+          "alexfleury-sb"
         ],
         "state": "open",
         "title": "Automatic documentation deployment",
@@ -2175,8 +2175,8 @@
       },
       {
         "assignees": [
-          "king-p3nguin",
-          "Youngcius"
+          "Youngcius",
+          "king-p3nguin"
         ],
         "state": "open",
         "title": "Supporting Additional Features for tq2qiskit and qiskit2tq",
