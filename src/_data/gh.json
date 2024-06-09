@@ -420,8 +420,8 @@
     "bounties": [
       {
         "assignees": [
-          "amir-naveh",
-          "jyotiraj-code"
+          "jyotiraj-code",
+          "amir-naveh"
         ],
         "state": "open",
         "title": "Classiq Basics: Quantum Entanglement",
@@ -1318,9 +1318,9 @@
       },
       {
         "assignees": [
-          "neogyk",
           "schance995",
-          "idriss-hamadi"
+          "idriss-hamadi",
+          "neogyk"
         ],
         "state": "open",
         "title": "QNRG Classifier ML Model Improvements",
@@ -1951,8 +1951,8 @@
       },
       {
         "assignees": [
-          "Roshan-Thomas",
-          "ahkatlio"
+          "ahkatlio",
+          "Roshan-Thomas"
         ],
         "state": "closed",
         "title": "Adding code documentation",
@@ -1972,8 +1972,8 @@
     "bounties": [
       {
         "assignees": [
-          "ValentinS4t1qbit",
-          "alexfleury-sb"
+          "alexfleury-sb",
+          "ValentinS4t1qbit"
         ],
         "state": "open",
         "title": "Incompatibility with PySCF >= 2.5.0",
@@ -1982,9 +1982,9 @@
       },
       {
         "assignees": [
-          "ValentinS4t1qbit",
+          "alexfleury-sb",
           "cburdine",
-          "alexfleury-sb"
+          "ValentinS4t1qbit"
         ],
         "state": "open",
         "title": "Circuit as reference state in the ansatz definition",
@@ -1993,8 +1993,8 @@
       },
       {
         "assignees": [
-          "ValentinS4t1qbit",
-          "alexfleury-sb"
+          "alexfleury-sb",
+          "ValentinS4t1qbit"
         ],
         "state": "open",
         "title": "Automatic documentation deployment",
@@ -2172,8 +2172,8 @@
       },
       {
         "assignees": [
-          "Youngcius",
-          "king-p3nguin"
+          "king-p3nguin",
+          "Youngcius"
         ],
         "state": "open",
         "title": "Supporting Additional Features for tq2qiskit and qiskit2tq",
