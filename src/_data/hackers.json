@@ -1,5 +1,18 @@
 [
   {
+    "username": "tnemoz",
+    "bounties": [
+      {
+        "url": "https://github.com/vprusso/toqito/issues/519",
+        "title": "Add unambiguous discrimination strategy to state distinguishability and state exclusion",
+        "project": "toqito",
+        "value": 80
+      }
+    ],
+    "num_projects": 1,
+    "total_value": 80
+  },
+  {
     "username": "anushkrishnav",
     "bounties": [
       {

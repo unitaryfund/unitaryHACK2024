@@ -877,7 +877,9 @@
     "amount_available": 500,
     "bounties": [
       {
-        "assignees": [],
+        "assignees": [
+          "rodolfocarobene"
+        ],
         "state": "open",
         "title": "Update the package to support `python >=3.11`",
         "url": "https://github.com/entropicalabs/openqaoa/issues/307",
@@ -1205,8 +1207,8 @@
     "bounties": [
       {
         "assignees": [
-          "dhanaabhirajk",
-          "anomius"
+          "anomius",
+          "dhanaabhirajk"
         ],
         "state": "open",
         "title": "Convert OpenQASM 3 program to specified basis gate set",
@@ -1319,8 +1321,8 @@
       },
       {
         "assignees": [
-          "schance995",
           "idriss-hamadi",
+          "schance995",
           "neogyk"
         ],
         "state": "open",
@@ -1330,9 +1332,9 @@
       },
       {
         "assignees": [
-          "schance995",
           "AbdullahKazi500",
-          "0mWh"
+          "0mWh",
+          "schance995"
         ],
         "state": "open",
         "title": "Classification Model for General Quantum Circuits",
@@ -1973,8 +1975,8 @@
     "bounties": [
       {
         "assignees": [
-          "ValentinS4t1qbit",
-          "alexfleury-sb"
+          "alexfleury-sb",
+          "ValentinS4t1qbit"
         ],
         "state": "open",
         "title": "Incompatibility with PySCF >= 2.5.0",
@@ -1984,8 +1986,8 @@
       {
         "assignees": [
           "cburdine",
-          "ValentinS4t1qbit",
-          "alexfleury-sb"
+          "alexfleury-sb",
+          "ValentinS4t1qbit"
         ],
         "state": "open",
         "title": "Circuit as reference state in the ansatz definition",
@@ -1994,8 +1996,8 @@
       },
       {
         "assignees": [
-          "ValentinS4t1qbit",
-          "alexfleury-sb"
+          "alexfleury-sb",
+          "ValentinS4t1qbit"
         ],
         "state": "open",
         "title": "Automatic documentation deployment",
@@ -2083,13 +2085,13 @@
     "url": "https://github.com/tencent-quantum-lab/tensorcircuit"
   },
   "toqito": {
-    "amount_available": 260,
+    "amount_available": 180,
     "bounties": [
       {
         "assignees": [
           "tnemoz"
         ],
-        "state": "open",
+        "state": "closed",
         "title": "Add unambiguous discrimination strategy to state distinguishability and state exclusion",
         "url": "https://github.com/vprusso/toqito/issues/519",
         "value": 80
@@ -2139,7 +2141,7 @@
     "emoji": null,
     "name": "toqito",
     "num_bounties": 6,
-    "num_open_bounties": 3,
+    "num_open_bounties": 2,
     "total_amount": 500,
     "url": "https://github.com/vprusso/toqito"
   },
@@ -2173,8 +2175,8 @@
       },
       {
         "assignees": [
-          "king-p3nguin",
-          "Youngcius"
+          "Youngcius",
+          "king-p3nguin"
         ],
         "state": "open",
         "title": "Supporting Additional Features for tq2qiskit and qiskit2tq",
