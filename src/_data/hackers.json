@@ -13,6 +13,25 @@
     "total_value": 80
   },
   {
+    "username": "Yash-10",
+    "bounties": [
+      {
+        "url": "https://github.com/vprusso/toqito/issues/518",
+        "title": "Checks for `is_separable` are not complete",
+        "project": "toqito",
+        "value": 80
+      },
+      {
+        "url": "https://github.com/amazon-braket/autoqasm/issues/13",
+        "title": "Automatically determine dimensions for `aq.ArrayVar` declaration",
+        "project": "autoqasm",
+        "value": 40
+      }
+    ],
+    "num_projects": 2,
+    "total_value": 120
+  },
+  {
     "username": "anushkrishnav",
     "bounties": [
       {
@@ -355,19 +374,6 @@
     ],
     "num_projects": 1,
     "total_value": 50
-  },
-  {
-    "username": "Yash-10",
-    "bounties": [
-      {
-        "url": "https://github.com/amazon-braket/autoqasm/issues/13",
-        "title": "Automatically determine dimensions for `aq.ArrayVar` declaration",
-        "project": "autoqasm",
-        "value": 40
-      }
-    ],
-    "num_projects": 1,
-    "total_value": 40
   },
   {
     "username": "cburdine",
