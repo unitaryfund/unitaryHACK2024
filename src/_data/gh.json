@@ -575,8 +575,8 @@
     "bounties": [
       {
         "assignees": [
-          "AbdullahKazi500",
-          "Barnald"
+          "Barnald",
+          "AbdullahKazi500"
         ],
         "state": "closed",
         "title": "Application of tensor-network MBQC simulation",
@@ -1337,9 +1337,9 @@
       },
       {
         "assignees": [
-          "AbdullahKazi500",
+          "schance995",
           "0mWh",
-          "schance995"
+          "AbdullahKazi500"
         ],
         "state": "open",
         "title": "Classification Model for General Quantum Circuits",
@@ -1961,8 +1961,8 @@
       },
       {
         "assignees": [
-          "ahkatlio",
-          "Roshan-Thomas"
+          "Roshan-Thomas",
+          "ahkatlio"
         ],
         "state": "closed",
         "title": "Adding code documentation",
@@ -1992,8 +1992,8 @@
       },
       {
         "assignees": [
-          "alexfleury-sb",
           "cburdine",
+          "alexfleury-sb",
           "ValentinS4t1qbit"
         ],
         "state": "open",
@@ -2182,8 +2182,8 @@
       },
       {
         "assignees": [
-          "king-p3nguin",
-          "Youngcius"
+          "Youngcius",
+          "king-p3nguin"
         ],
         "state": "open",
         "title": "Supporting Additional Features for tq2qiskit and qiskit2tq",
