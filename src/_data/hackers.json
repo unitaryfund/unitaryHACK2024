@@ -163,6 +163,19 @@
     "total_value": 605
   },
   {
+    "username": "maxwell04-wq",
+    "bounties": [
+      {
+        "url": "https://github.com/Qiskit/rustworkx/issues/774",
+        "title": "`mpl_draw()` does not work for multigraphs",
+        "project": "rustworkx",
+        "value": 75
+      }
+    ],
+    "num_projects": 1,
+    "total_value": 75
+  },
+  {
     "username": "rodolfocarobene",
     "bounties": [
       {

@@ -1015,8 +1015,8 @@
     "bounties": [
       {
         "assignees": [
-          "burlemarxiste",
-          "maxwell04-wq"
+          "maxwell04-wq",
+          "burlemarxiste"
         ],
         "state": "open",
         "title": "QASM to linear optics circuit converter",
@@ -1326,8 +1326,8 @@
       },
       {
         "assignees": [
-          "neogyk",
           "schance995",
+          "neogyk",
           "idriss-hamadi"
         ],
         "state": "open",
@@ -1337,9 +1337,9 @@
       },
       {
         "assignees": [
+          "AbdullahKazi500",
           "0mWh",
-          "schance995",
-          "AbdullahKazi500"
+          "schance995"
         ],
         "state": "open",
         "title": "Classification Model for General Quantum Circuits",
@@ -1880,11 +1880,13 @@
     "url": "https://github.com/qutip/qutip-tutorials/"
   },
   "rustworkx": {
-    "amount_available": 450,
+    "amount_available": 375,
     "bounties": [
       {
-        "assignees": [],
-        "state": "open",
+        "assignees": [
+          "maxwell04-wq"
+        ],
+        "state": "closed",
         "title": "`mpl_draw()` does not work for multigraphs",
         "url": "https://github.com/Qiskit/rustworkx/issues/774",
         "value": 75
@@ -1914,7 +1916,7 @@
     "emoji": "\u2699\ufe0f",
     "name": "rustworkx",
     "num_bounties": 4,
-    "num_open_bounties": 4,
+    "num_open_bounties": 3,
     "total_amount": 450,
     "url": "https://github.com/Qiskit/rustworkx"
   },
@@ -1959,8 +1961,8 @@
       },
       {
         "assignees": [
-          "Roshan-Thomas",
-          "ahkatlio"
+          "ahkatlio",
+          "Roshan-Thomas"
         ],
         "state": "closed",
         "title": "Adding code documentation",
@@ -1980,8 +1982,8 @@
     "bounties": [
       {
         "assignees": [
-          "ValentinS4t1qbit",
-          "alexfleury-sb"
+          "alexfleury-sb",
+          "ValentinS4t1qbit"
         ],
         "state": "open",
         "title": "Incompatibility with PySCF >= 2.5.0",
@@ -1990,9 +1992,9 @@
       },
       {
         "assignees": [
+          "alexfleury-sb",
           "cburdine",
-          "ValentinS4t1qbit",
-          "alexfleury-sb"
+          "ValentinS4t1qbit"
         ],
         "state": "open",
         "title": "Circuit as reference state in the ansatz definition",
@@ -2001,8 +2003,8 @@
       },
       {
         "assignees": [
-          "ValentinS4t1qbit",
-          "alexfleury-sb"
+          "alexfleury-sb",
+          "ValentinS4t1qbit"
         ],
         "state": "open",
         "title": "Automatic documentation deployment",
