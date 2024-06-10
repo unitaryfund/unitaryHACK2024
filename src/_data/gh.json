@@ -1324,9 +1324,9 @@
       },
       {
         "assignees": [
-          "schance995",
           "idriss-hamadi",
-          "neogyk"
+          "neogyk",
+          "schance995"
         ],
         "state": "open",
         "title": "QNRG Classifier ML Model Improvements",
@@ -1335,9 +1335,9 @@
       },
       {
         "assignees": [
-          "schance995",
+          "0mWh",
           "AbdullahKazi500",
-          "0mWh"
+          "schance995"
         ],
         "state": "open",
         "title": "Classification Model for General Quantum Circuits",
@@ -1957,8 +1957,8 @@
       },
       {
         "assignees": [
-          "Roshan-Thomas",
-          "ahkatlio"
+          "ahkatlio",
+          "Roshan-Thomas"
         ],
         "state": "closed",
         "title": "Adding code documentation",
@@ -1989,8 +1989,8 @@
       {
         "assignees": [
           "alexfleury-sb",
-          "ValentinS4t1qbit",
-          "cburdine"
+          "cburdine",
+          "ValentinS4t1qbit"
         ],
         "state": "open",
         "title": "Circuit as reference state in the ansatz definition",
