@@ -575,8 +575,8 @@
     "bounties": [
       {
         "assignees": [
-          "AbdullahKazi500",
-          "Barnald"
+          "Barnald",
+          "AbdullahKazi500"
         ],
         "state": "open",
         "title": "Application of tensor-network MBQC simulation",
@@ -1325,8 +1325,8 @@
       {
         "assignees": [
           "schance995",
-          "neogyk",
-          "idriss-hamadi"
+          "idriss-hamadi",
+          "neogyk"
         ],
         "state": "open",
         "title": "QNRG Classifier ML Model Improvements",
@@ -1609,7 +1609,7 @@
     "url": "https://github.com/unitaryfund/qrack"
   },
   "qsharp": {
-    "amount_available": 430,
+    "amount_available": 330,
     "bounties": [
       {
         "assignees": [],
@@ -1645,7 +1645,7 @@
         "assignees": [
           "Manvi-Agrawal"
         ],
-        "state": "open",
+        "state": "closed",
         "title": "Lint rule: `operation`s that don't manipulate quantum state can be `function`s instead",
         "url": "https://github.com/microsoft/qsharp/issues/1471",
         "value": 100
@@ -1661,7 +1661,7 @@
     "emoji": null,
     "name": "Azure Quantum Development Kit",
     "num_bounties": 6,
-    "num_open_bounties": 5,
+    "num_open_bounties": 4,
     "total_amount": 500,
     "url": "https://github.com/microsoft/qsharp"
   },
@@ -1989,8 +1989,8 @@
       {
         "assignees": [
           "alexfleury-sb",
-          "cburdine",
-          "ValentinS4t1qbit"
+          "ValentinS4t1qbit",
+          "cburdine"
         ],
         "state": "open",
         "title": "Circuit as reference state in the ansatz definition",

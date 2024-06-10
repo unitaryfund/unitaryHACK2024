@@ -183,10 +183,16 @@
         "title": "Add three qubit `AND` operation to public API",
         "project": "qsharp",
         "value": 70
+      },
+      {
+        "url": "https://github.com/microsoft/qsharp/issues/1471",
+        "title": "Lint rule: `operation`s that don't manipulate quantum state can be `function`s instead",
+        "project": "qsharp",
+        "value": 100
       }
     ],
     "num_projects": 1,
-    "total_value": 70
+    "total_value": 170
   },
   {
     "username": "LorenzoFioroni",
