@@ -325,10 +325,22 @@
         "title": "SPSA optimization example",
         "project": "tensorcircuit",
         "value": 100
+      },
+      {
+        "url": "https://github.com/matt-lourens/hierarqcal/issues/48",
+        "title": "UnitaryHack Bounty - Quantum Machine Learning Tutorial: Music Genre Classification using HierarQcal",
+        "project": "hierarqcal",
+        "value": 200
+      },
+      {
+        "url": "https://github.com/matt-lourens/hierarqcal/issues/50",
+        "title": "UnitaryHack Bounty - Research and Implement Sorting Networks with HierarQcal",
+        "project": "hierarqcal",
+        "value": 150
       }
     ],
-    "num_projects": 1,
-    "total_value": 100
+    "num_projects": 2,
+    "total_value": 450
   },
   {
     "username": "WingCode",

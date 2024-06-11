@@ -615,13 +615,13 @@
     "url": "https://github.com/TeamGraphix/graphix"
   },
   "hierarqcal": {
-    "amount_available": 500,
+    "amount_available": 150,
     "bounties": [
       {
         "assignees": [
           "Gopal-Dahale"
         ],
-        "state": "open",
+        "state": "closed",
         "title": "UnitaryHack Bounty - Quantum Machine Learning Tutorial: Music Genre Classification using HierarQcal",
         "url": "https://github.com/matt-lourens/hierarqcal/issues/48",
         "value": 200
@@ -637,7 +637,7 @@
         "assignees": [
           "Gopal-Dahale"
         ],
-        "state": "open",
+        "state": "closed",
         "title": "UnitaryHack Bounty - Research and Implement Sorting Networks with HierarQcal",
         "url": "https://github.com/matt-lourens/hierarqcal/issues/50",
         "value": 150
@@ -646,7 +646,7 @@
     "emoji": "\ud83e\udea1",
     "name": "HierarQcal",
     "num_bounties": 3,
-    "num_open_bounties": 3,
+    "num_open_bounties": 1,
     "total_amount": 500,
     "url": "https://github.com/matt-lourens/hierarqcal"
   },
@@ -863,7 +863,9 @@
         "value": 70
       },
       {
-        "assignees": [],
+        "assignees": [
+          "EmilianoG-byte"
+        ],
         "state": "open",
         "title": "In Pauli Twirling: allow user to pass a `noise_gate` or similar to simulate noise in between the twirled gates and CNOT / CZ gates.",
         "url": "https://github.com/unitaryfund/mitiq/issues/2346",
@@ -1339,8 +1341,8 @@
       {
         "assignees": [
           "idriss-hamadi",
-          "schance995",
-          "neogyk"
+          "neogyk",
+          "schance995"
         ],
         "state": "open",
         "title": "QNRG Classifier ML Model Improvements",
@@ -1350,8 +1352,8 @@
       {
         "assignees": [
           "AbdullahKazi500",
-          "schance995",
-          "0mWh"
+          "0mWh",
+          "schance995"
         ],
         "state": "open",
         "title": "Classification Model for General Quantum Circuits",
@@ -1994,8 +1996,8 @@
     "bounties": [
       {
         "assignees": [
-          "ValentinS4t1qbit",
-          "alexfleury-sb"
+          "alexfleury-sb",
+          "ValentinS4t1qbit"
         ],
         "state": "open",
         "title": "Incompatibility with PySCF >= 2.5.0",
@@ -2013,8 +2015,8 @@
       },
       {
         "assignees": [
-          "ValentinS4t1qbit",
-          "alexfleury-sb"
+          "alexfleury-sb",
+          "ValentinS4t1qbit"
         ],
         "state": "open",
         "title": "Automatic documentation deployment",
@@ -2194,8 +2196,8 @@
       },
       {
         "assignees": [
-          "Youngcius",
-          "king-p3nguin"
+          "king-p3nguin",
+          "Youngcius"
         ],
         "state": "open",
         "title": "Supporting Additional Features for tq2qiskit and qiskit2tq",
