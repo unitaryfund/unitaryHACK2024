@@ -533,6 +533,19 @@
     "total_value": 25
   },
   {
+    "username": "EmilianoG-byte",
+    "bounties": [
+      {
+        "url": "https://github.com/unitaryfund/mitiq/issues/2346",
+        "title": "In Pauli Twirling: allow user to pass a `noise_gate` or similar to simulate noise in between the twirled gates and CNOT / CZ gates.",
+        "project": "mitiq",
+        "value": 100
+      }
+    ],
+    "num_projects": 1,
+    "total_value": 100
+  },
+  {
     "username": "rmoretti9",
     "bounties": [
       {

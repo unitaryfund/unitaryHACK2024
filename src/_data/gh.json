@@ -839,7 +839,7 @@
     "url": "https://github.com/unitaryfund/metriq-app"
   },
   "mitiq": {
-    "amount_available": 430,
+    "amount_available": 330,
     "bounties": [
       {
         "assignees": [],
@@ -870,7 +870,7 @@
         "assignees": [
           "EmilianoG-byte"
         ],
-        "state": "open",
+        "state": "closed",
         "title": "In Pauli Twirling: allow user to pass a `noise_gate` or similar to simulate noise in between the twirled gates and CNOT / CZ gates.",
         "url": "https://github.com/unitaryfund/mitiq/issues/2346",
         "value": 100
@@ -886,7 +886,7 @@
     "emoji": "\ud83c\udf34",
     "name": "Mitiq",
     "num_bounties": 5,
-    "num_open_bounties": 4,
+    "num_open_bounties": 3,
     "total_amount": 500,
     "url": "https://github.com/unitaryfund/mitiq"
   },
@@ -1031,8 +1031,8 @@
     "bounties": [
       {
         "assignees": [
-          "burlemarxiste",
-          "maxwell04-wq"
+          "maxwell04-wq",
+          "burlemarxiste"
         ],
         "state": "open",
         "title": "QASM to linear optics circuit converter",
@@ -1355,9 +1355,9 @@
       },
       {
         "assignees": [
-          "0mWh",
+          "AbdullahKazi500",
           "schance995",
-          "AbdullahKazi500"
+          "0mWh"
         ],
         "state": "open",
         "title": "Classification Model for General Quantum Circuits",
@@ -1979,8 +1979,8 @@
       },
       {
         "assignees": [
-          "Roshan-Thomas",
-          "ahkatlio"
+          "ahkatlio",
+          "Roshan-Thomas"
         ],
         "state": "closed",
         "title": "Adding code documentation",
@@ -2200,8 +2200,8 @@
       },
       {
         "assignees": [
-          "Youngcius",
-          "king-p3nguin"
+          "king-p3nguin",
+          "Youngcius"
         ],
         "state": "open",
         "title": "Supporting Additional Features for tq2qiskit and qiskit2tq",
