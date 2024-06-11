@@ -279,7 +279,7 @@
     "total_value": 125
   },
   {
-    "username": "Barnald",
+    "username": "AbdullahKazi500",
     "bounties": [
       {
         "url": "https://github.com/TeamGraphix/graphix/issues/136",
@@ -292,7 +292,7 @@
     "total_value": 55
   },
   {
-    "username": "AbdullahKazi500",
+    "username": "Barnald",
     "bounties": [
       {
         "url": "https://github.com/TeamGraphix/graphix/issues/136",
@@ -379,6 +379,12 @@
     "username": "cburdine",
     "bounties": [
       {
+        "url": "https://github.com/goodchemistryco/Tangelo/issues/384",
+        "title": "Circuit as reference state in the ansatz definition",
+        "project": "tangelo",
+        "value": 100
+      },
+      {
         "url": "https://github.com/goodchemistryco/Tangelo/issues/386",
         "title": "Augment the Rotosolve optimizer to support Rotoselect",
         "project": "tangelo",
@@ -386,7 +392,7 @@
       }
     ],
     "num_projects": 1,
-    "total_value": 100
+    "total_value": 200
   },
   {
     "username": "atomgardner",
