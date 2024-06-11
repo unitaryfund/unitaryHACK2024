@@ -108,10 +108,22 @@
         "title": "[Feature]: quantum utils docstrings and tests",
         "project": "piccolo.jl",
         "value": 50
+      },
+      {
+        "url": "https://github.com/amazon-braket/Braket.jl/issues/79",
+        "title": "Full support for local detuning",
+        "project": "braket.jl",
+        "value": 70
+      },
+      {
+        "url": "https://github.com/amazon-braket/Braket.jl/issues/80",
+        "title": "Support for Braket Direct reservations",
+        "project": "braket.jl",
+        "value": 120
       }
     ],
-    "num_projects": 1,
-    "total_value": 50
+    "num_projects": 2,
+    "total_value": 240
   },
   {
     "username": "ErikQQY",
@@ -279,7 +291,7 @@
     "total_value": 125
   },
   {
-    "username": "AbdullahKazi500",
+    "username": "Barnald",
     "bounties": [
       {
         "url": "https://github.com/TeamGraphix/graphix/issues/136",
@@ -292,17 +304,23 @@
     "total_value": 55
   },
   {
-    "username": "Barnald",
+    "username": "AbdullahKazi500",
     "bounties": [
       {
         "url": "https://github.com/TeamGraphix/graphix/issues/136",
         "title": "Application of tensor-network MBQC simulation",
         "project": "graphix",
         "value": 55
+      },
+      {
+        "url": "https://github.com/iqm-finland/KQCircuits/issues/90",
+        "title": "Macro to open a tutorial layout",
+        "project": "kqcircuits",
+        "value": 75
       }
     ],
-    "num_projects": 1,
-    "total_value": 55
+    "num_projects": 2,
+    "total_value": 130
   },
   {
     "username": "tomv42",
@@ -565,6 +583,19 @@
     ],
     "num_projects": 1,
     "total_value": 100
+  },
+  {
+    "username": "ejthomas",
+    "bounties": [
+      {
+        "url": "https://github.com/qBraid/qbraid-qir/issues/67",
+        "title": "Support loop statements in `qasm3` converter",
+        "project": "qbraid-qir",
+        "value": 150
+      }
+    ],
+    "num_projects": 1,
+    "total_value": 150
   },
   {
     "username": "abhamra",

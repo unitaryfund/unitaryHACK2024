@@ -233,18 +233,22 @@
     "url": "https://github.com/bqskit/bqskit"
   },
   "braket.jl": {
-    "amount_available": 500,
+    "amount_available": 310,
     "bounties": [
       {
-        "assignees": [],
-        "state": "open",
+        "assignees": [
+          "Fe-r-oz"
+        ],
+        "state": "closed",
         "title": "Full support for local detuning",
         "url": "https://github.com/amazon-braket/Braket.jl/issues/79",
         "value": 70
       },
       {
-        "assignees": [],
-        "state": "open",
+        "assignees": [
+          "Fe-r-oz"
+        ],
+        "state": "closed",
         "title": "Support for Braket Direct reservations",
         "url": "https://github.com/amazon-braket/Braket.jl/issues/80",
         "value": 120
@@ -281,7 +285,7 @@
     "emoji": "\u269b\ufe0f\ud83d\udd34",
     "name": "Braket.jl",
     "num_bounties": 6,
-    "num_open_bounties": 6,
+    "num_open_bounties": 4,
     "total_amount": 500,
     "url": "https://github.com/amazon-braket/Braket.jl"
   },
@@ -575,8 +579,8 @@
     "bounties": [
       {
         "assignees": [
-          "AbdullahKazi500",
-          "Barnald"
+          "Barnald",
+          "AbdullahKazi500"
         ],
         "state": "closed",
         "title": "Application of tensor-network MBQC simulation",
@@ -683,7 +687,7 @@
     "url": "https://github.com/ionq-samples/Ion-Q-Thruster"
   },
   "kqcircuits": {
-    "amount_available": 300,
+    "amount_available": 225,
     "bounties": [
       {
         "assignees": [],
@@ -721,7 +725,7 @@
         "assignees": [
           "AbdullahKazi500"
         ],
-        "state": "open",
+        "state": "closed",
         "title": "Macro to open a tutorial layout",
         "url": "https://github.com/iqm-finland/KQCircuits/issues/90",
         "value": 75
@@ -739,7 +743,7 @@
     "emoji": "\ud83e\udd91",
     "name": "KQCircuits",
     "num_bounties": 6,
-    "num_open_bounties": 3,
+    "num_open_bounties": 2,
     "total_amount": 500,
     "url": "https://github.com/iqm-finland/KQCircuits"
   },
@@ -1027,8 +1031,8 @@
     "bounties": [
       {
         "assignees": [
-          "maxwell04-wq",
-          "burlemarxiste"
+          "burlemarxiste",
+          "maxwell04-wq"
         ],
         "state": "open",
         "title": "QASM to linear optics circuit converter",
@@ -1277,13 +1281,13 @@
     "url": "https://github.com/qBraid/qBraid"
   },
   "qbraid-qir": {
-    "amount_available": 500,
+    "amount_available": 350,
     "bounties": [
       {
         "assignees": [
           "ejthomas"
         ],
-        "state": "open",
+        "state": "closed",
         "title": "Support loop statements in `qasm3` converter",
         "url": "https://github.com/qBraid/qbraid-qir/issues/67",
         "value": 150
@@ -1322,7 +1326,7 @@
     "emoji": "\ud83d\udc23 \ud83d\udef8",
     "name": "qBraid-QIR",
     "num_bounties": 5,
-    "num_open_bounties": 5,
+    "num_open_bounties": 4,
     "total_amount": 500,
     "url": "https://github.com/qBraid/qbraid-qir"
   },
@@ -1340,9 +1344,9 @@
       },
       {
         "assignees": [
-          "idriss-hamadi",
           "neogyk",
-          "schance995"
+          "schance995",
+          "idriss-hamadi"
         ],
         "state": "open",
         "title": "QNRG Classifier ML Model Improvements",
@@ -1351,9 +1355,9 @@
       },
       {
         "assignees": [
-          "AbdullahKazi500",
           "0mWh",
-          "schance995"
+          "schance995",
+          "AbdullahKazi500"
         ],
         "state": "open",
         "title": "Classification Model for General Quantum Circuits",
@@ -1996,8 +2000,8 @@
     "bounties": [
       {
         "assignees": [
-          "alexfleury-sb",
-          "ValentinS4t1qbit"
+          "ValentinS4t1qbit",
+          "alexfleury-sb"
         ],
         "state": "open",
         "title": "Incompatibility with PySCF >= 2.5.0",
@@ -2015,8 +2019,8 @@
       },
       {
         "assignees": [
-          "alexfleury-sb",
-          "ValentinS4t1qbit"
+          "ValentinS4t1qbit",
+          "alexfleury-sb"
         ],
         "state": "open",
         "title": "Automatic documentation deployment",
@@ -2196,8 +2200,8 @@
       },
       {
         "assignees": [
-          "king-p3nguin",
-          "Youngcius"
+          "Youngcius",
+          "king-p3nguin"
         ],
         "state": "open",
         "title": "Supporting Additional Features for tq2qiskit and qiskit2tq",
