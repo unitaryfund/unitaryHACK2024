@@ -279,7 +279,7 @@
     "total_value": 125
   },
   {
-    "username": "AbdullahKazi500",
+    "username": "Barnald",
     "bounties": [
       {
         "url": "https://github.com/TeamGraphix/graphix/issues/136",
@@ -292,7 +292,7 @@
     "total_value": 55
   },
   {
-    "username": "Barnald",
+    "username": "AbdullahKazi500",
     "bounties": [
       {
         "url": "https://github.com/TeamGraphix/graphix/issues/136",
@@ -393,6 +393,19 @@
     ],
     "num_projects": 1,
     "total_value": 200
+  },
+  {
+    "username": "burlemarxiste",
+    "bounties": [
+      {
+        "url": "https://github.com/Quandela/Perceval/issues/207",
+        "title": "Heralds out of their box",
+        "project": "perceval",
+        "value": 100
+      }
+    ],
+    "num_projects": 1,
+    "total_value": 100
   },
   {
     "username": "atomgardner",
