@@ -575,8 +575,8 @@
     "bounties": [
       {
         "assignees": [
-          "Barnald",
-          "AbdullahKazi500"
+          "AbdullahKazi500",
+          "Barnald"
         ],
         "state": "closed",
         "title": "Application of tensor-network MBQC simulation",
@@ -965,7 +965,7 @@
     "url": "https://github.com/Qiskit/openqasm3_parser/"
   },
   "pennylane": {
-    "amount_available": 500,
+    "amount_available": 375,
     "bounties": [
       {
         "assignees": [],
@@ -997,7 +997,7 @@
       },
       {
         "assignees": [],
-        "state": "open",
+        "state": "closed",
         "title": "Add a QutritChannel operation",
         "url": "https://github.com/PennyLaneAI/pennylane/issues/5649",
         "value": 125
@@ -1006,7 +1006,7 @@
     "emoji": "\ud83e\uddd1\u200d\ud83d\udd2c\ud83d\udcda",
     "name": "PennyLane",
     "num_bounties": 5,
-    "num_open_bounties": 5,
+    "num_open_bounties": 4,
     "total_amount": 500,
     "url": "https://github.com/PennyLaneAI/pennylane"
   },
@@ -1212,8 +1212,8 @@
     "bounties": [
       {
         "assignees": [
-          "dhanaabhirajk",
-          "anomius"
+          "anomius",
+          "dhanaabhirajk"
         ],
         "state": "open",
         "title": "Convert OpenQASM 3 program to specified basis gate set",
@@ -1326,9 +1326,9 @@
       },
       {
         "assignees": [
-          "idriss-hamadi",
+          "schance995",
           "neogyk",
-          "schance995"
+          "idriss-hamadi"
         ],
         "state": "open",
         "title": "QNRG Classifier ML Model Improvements",
@@ -1337,8 +1337,8 @@
       },
       {
         "assignees": [
-          "AbdullahKazi500",
           "schance995",
+          "AbdullahKazi500",
           "0mWh"
         ],
         "state": "open",
@@ -1993,8 +1993,8 @@
       {
         "assignees": [
           "alexfleury-sb",
-          "ValentinS4t1qbit",
-          "cburdine"
+          "cburdine",
+          "ValentinS4t1qbit"
         ],
         "state": "open",
         "title": "Circuit as reference state in the ansatz definition",
@@ -2184,8 +2184,8 @@
       },
       {
         "assignees": [
-          "Youngcius",
-          "king-p3nguin"
+          "king-p3nguin",
+          "Youngcius"
         ],
         "state": "open",
         "title": "Supporting Additional Features for tq2qiskit and qiskit2tq",
