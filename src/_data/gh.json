@@ -898,7 +898,9 @@
         "value": 70
       },
       {
-        "assignees": [],
+        "assignees": [
+          "prakharb10"
+        ],
         "state": "open",
         "title": "Update `openqaoa-qiskit` to Qiskit 1.0",
         "url": "https://github.com/entropicalabs/openqaoa/issues/304",
@@ -1015,8 +1017,8 @@
     "bounties": [
       {
         "assignees": [
-          "burlemarxiste",
-          "maxwell04-wq"
+          "maxwell04-wq",
+          "burlemarxiste"
         ],
         "state": "open",
         "title": "QASM to linear optics circuit converter",
@@ -1212,8 +1214,8 @@
     "bounties": [
       {
         "assignees": [
-          "anomius",
-          "dhanaabhirajk"
+          "dhanaabhirajk",
+          "anomius"
         ],
         "state": "open",
         "title": "Convert OpenQASM 3 program to specified basis gate set",
@@ -1268,7 +1270,9 @@
     "amount_available": 500,
     "bounties": [
       {
-        "assignees": [],
+        "assignees": [
+          "ejthomas"
+        ],
         "state": "open",
         "title": "Support loop statements in `qasm3` converter",
         "url": "https://github.com/qBraid/qbraid-qir/issues/67",
@@ -1326,9 +1330,9 @@
       },
       {
         "assignees": [
-          "idriss-hamadi",
+          "neogyk",
           "schance995",
-          "neogyk"
+          "idriss-hamadi"
         ],
         "state": "open",
         "title": "QNRG Classifier ML Model Improvements",
@@ -1337,9 +1341,9 @@
       },
       {
         "assignees": [
-          "AbdullahKazi500",
           "0mWh",
-          "schance995"
+          "schance995",
+          "AbdullahKazi500"
         ],
         "state": "open",
         "title": "Classification Model for General Quantum Circuits",
@@ -1982,8 +1986,8 @@
     "bounties": [
       {
         "assignees": [
-          "ValentinS4t1qbit",
-          "alexfleury-sb"
+          "alexfleury-sb",
+          "ValentinS4t1qbit"
         ],
         "state": "open",
         "title": "Incompatibility with PySCF >= 2.5.0",
@@ -2001,8 +2005,8 @@
       },
       {
         "assignees": [
-          "ValentinS4t1qbit",
-          "alexfleury-sb"
+          "alexfleury-sb",
+          "ValentinS4t1qbit"
         ],
         "state": "open",
         "title": "Automatic documentation deployment",
@@ -2182,8 +2186,8 @@
       },
       {
         "assignees": [
-          "Youngcius",
-          "king-p3nguin"
+          "king-p3nguin",
+          "Youngcius"
         ],
         "state": "open",
         "title": "Supporting Additional Features for tq2qiskit and qiskit2tq",
