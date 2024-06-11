@@ -575,8 +575,8 @@
     "bounties": [
       {
         "assignees": [
-          "Barnald",
-          "AbdullahKazi500"
+          "AbdullahKazi500",
+          "Barnald"
         ],
         "state": "closed",
         "title": "Application of tensor-network MBQC simulation",
@@ -683,7 +683,7 @@
     "url": "https://github.com/ionq-samples/Ion-Q-Thruster"
   },
   "kqcircuits": {
-    "amount_available": 375,
+    "amount_available": 300,
     "bounties": [
       {
         "assignees": [],
@@ -700,8 +700,10 @@
         "value": 75
       },
       {
-        "assignees": [],
-        "state": "open",
+        "assignees": [
+          "rmoretti9"
+        ],
+        "state": "closed",
         "title": "Validate and report misconfigured simulation export",
         "url": "https://github.com/iqm-finland/KQCircuits/issues/91",
         "value": 75
@@ -716,7 +718,9 @@
         "value": 75
       },
       {
-        "assignees": [],
+        "assignees": [
+          "AbdullahKazi500"
+        ],
         "state": "open",
         "title": "Macro to open a tutorial layout",
         "url": "https://github.com/iqm-finland/KQCircuits/issues/90",
@@ -735,7 +739,7 @@
     "emoji": "\ud83e\udd91",
     "name": "KQCircuits",
     "num_bounties": 6,
-    "num_open_bounties": 4,
+    "num_open_bounties": 3,
     "total_amount": 500,
     "url": "https://github.com/iqm-finland/KQCircuits"
   },
@@ -841,7 +845,9 @@
         "value": 140
       },
       {
-        "assignees": [],
+        "assignees": [
+          "NnguyenHTommy"
+        ],
         "state": "open",
         "title": "Qiskit Quantum Fourier Transform (QFT) circuits error out during conversion",
         "url": "https://github.com/unitaryfund/mitiq/issues/2354",
@@ -929,7 +935,7 @@
     "url": "https://github.com/entropicalabs/openqaoa"
   },
   "openqasm3_parser": {
-    "amount_available": 100,
+    "amount_available": 0,
     "bounties": [
       {
         "assignees": [
@@ -944,7 +950,7 @@
         "assignees": [
           "abhamra"
         ],
-        "state": "open",
+        "state": "closed",
         "title": "Implement function `from_designator` in syntax_to_semantics.rs",
         "url": "https://github.com/Qiskit/openqasm3_parser/issues/170",
         "value": 100
@@ -962,7 +968,7 @@
     "emoji": "\ud83c\udf10\ud83e\udd80",
     "name": "OpenQASM 3 Parser",
     "num_bounties": 3,
-    "num_open_bounties": 1,
+    "num_open_bounties": 0,
     "total_amount": 300,
     "url": "https://github.com/Qiskit/openqasm3_parser/"
   },
@@ -998,7 +1004,9 @@
         "value": 125
       },
       {
-        "assignees": [],
+        "assignees": [
+          "Tarun-Kumar07"
+        ],
         "state": "closed",
         "title": "Add a QutritChannel operation",
         "url": "https://github.com/PennyLaneAI/pennylane/issues/5649",
@@ -1330,9 +1338,9 @@
       },
       {
         "assignees": [
-          "neogyk",
+          "idriss-hamadi",
           "schance995",
-          "idriss-hamadi"
+          "neogyk"
         ],
         "state": "open",
         "title": "QNRG Classifier ML Model Improvements",
@@ -1341,9 +1349,9 @@
       },
       {
         "assignees": [
-          "0mWh",
+          "AbdullahKazi500",
           "schance995",
-          "AbdullahKazi500"
+          "0mWh"
         ],
         "state": "open",
         "title": "Classification Model for General Quantum Circuits",
@@ -1965,8 +1973,8 @@
       },
       {
         "assignees": [
-          "ahkatlio",
-          "Roshan-Thomas"
+          "Roshan-Thomas",
+          "ahkatlio"
         ],
         "state": "closed",
         "title": "Adding code documentation",

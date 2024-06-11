@@ -279,7 +279,7 @@
     "total_value": 125
   },
   {
-    "username": "Barnald",
+    "username": "AbdullahKazi500",
     "bounties": [
       {
         "url": "https://github.com/TeamGraphix/graphix/issues/136",
@@ -292,7 +292,7 @@
     "total_value": 55
   },
   {
-    "username": "AbdullahKazi500",
+    "username": "Barnald",
     "bounties": [
       {
         "url": "https://github.com/TeamGraphix/graphix/issues/136",
@@ -395,6 +395,19 @@
     "total_value": 200
   },
   {
+    "username": "Tarun-Kumar07",
+    "bounties": [
+      {
+        "url": "https://github.com/PennyLaneAI/pennylane/issues/5649",
+        "title": "Add a QutritChannel operation",
+        "project": "pennylane",
+        "value": 125
+      }
+    ],
+    "num_projects": 1,
+    "total_value": 125
+  },
+  {
     "username": "burlemarxiste",
     "bounties": [
       {
@@ -490,6 +503,19 @@
     "total_value": 25
   },
   {
+    "username": "rmoretti9",
+    "bounties": [
+      {
+        "url": "https://github.com/iqm-finland/KQCircuits/issues/91",
+        "title": "Validate and report misconfigured simulation export",
+        "project": "kqcircuits",
+        "value": 75
+      }
+    ],
+    "num_projects": 1,
+    "total_value": 75
+  },
+  {
     "username": "PietroCampana",
     "bounties": [
       {
@@ -522,6 +548,19 @@
         "url": "https://github.com/pasqal-io/qadence/issues/370",
         "title": "[Enhance] Add 'backend' argument to product_state",
         "project": "qadence",
+        "value": 100
+      }
+    ],
+    "num_projects": 1,
+    "total_value": 100
+  },
+  {
+    "username": "abhamra",
+    "bounties": [
+      {
+        "url": "https://github.com/Qiskit/openqasm3_parser/issues/170",
+        "title": "Implement function `from_designator` in syntax_to_semantics.rs",
+        "project": "openqasm3_parser",
         "value": 100
       }
     ],
