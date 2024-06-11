@@ -839,7 +839,7 @@
     "url": "https://github.com/unitaryfund/metriq-app"
   },
   "mitiq": {
-    "amount_available": 330,
+    "amount_available": 250,
     "bounties": [
       {
         "assignees": [],
@@ -852,7 +852,7 @@
         "assignees": [
           "NnguyenHTommy"
         ],
-        "state": "open",
+        "state": "closed",
         "title": "Qiskit Quantum Fourier Transform (QFT) circuits error out during conversion",
         "url": "https://github.com/unitaryfund/mitiq/issues/2354",
         "value": 80
@@ -886,7 +886,7 @@
     "emoji": "\ud83c\udf34",
     "name": "Mitiq",
     "num_bounties": 5,
-    "num_open_bounties": 3,
+    "num_open_bounties": 2,
     "total_amount": 500,
     "url": "https://github.com/unitaryfund/mitiq"
   },
@@ -1031,8 +1031,8 @@
     "bounties": [
       {
         "assignees": [
-          "maxwell04-wq",
-          "burlemarxiste"
+          "burlemarxiste",
+          "maxwell04-wq"
         ],
         "state": "open",
         "title": "QASM to linear optics circuit converter",
@@ -1228,8 +1228,8 @@
     "bounties": [
       {
         "assignees": [
-          "anomius",
-          "dhanaabhirajk"
+          "dhanaabhirajk",
+          "anomius"
         ],
         "state": "open",
         "title": "Convert OpenQASM 3 program to specified basis gate set",
@@ -1344,9 +1344,9 @@
       },
       {
         "assignees": [
-          "neogyk",
+          "idriss-hamadi",
           "schance995",
-          "idriss-hamadi"
+          "neogyk"
         ],
         "state": "open",
         "title": "QNRG Classifier ML Model Improvements",
@@ -1356,8 +1356,8 @@
       {
         "assignees": [
           "AbdullahKazi500",
-          "schance995",
-          "0mWh"
+          "0mWh",
+          "schance995"
         ],
         "state": "open",
         "title": "Classification Model for General Quantum Circuits",
@@ -1850,7 +1850,7 @@
     "url": "https://github.com/mvwf/qublitz"
   },
   "qutip-tutorials": {
-    "amount_available": 400,
+    "amount_available": 300,
     "bounties": [
       {
         "assignees": [],
@@ -1868,7 +1868,7 @@
       },
       {
         "assignees": [],
-        "state": "open",
+        "state": "closed",
         "title": "Port \"Steady-State: Homodyned Jaynes-Cummings emission\" tutorial to QuTiP 5.",
         "url": "https://github.com/qutip/qutip-tutorials/issues/91",
         "value": 100
@@ -1893,7 +1893,7 @@
     "emoji": null,
     "name": "QuTiP Tutorials",
     "num_bounties": 5,
-    "num_open_bounties": 4,
+    "num_open_bounties": 3,
     "total_amount": 500,
     "url": "https://github.com/qutip/qutip-tutorials/"
   },
@@ -1961,7 +1961,7 @@
       },
       {
         "assignees": [
-          "petergthatsme"
+          "Yash-10"
         ],
         "state": "open",
         "title": "Addition of tests for the custom diagonalization functionality. ",
@@ -1979,8 +1979,8 @@
       },
       {
         "assignees": [
-          "ahkatlio",
-          "Roshan-Thomas"
+          "Roshan-Thomas",
+          "ahkatlio"
         ],
         "state": "closed",
         "title": "Adding code documentation",
@@ -2000,8 +2000,8 @@
     "bounties": [
       {
         "assignees": [
-          "ValentinS4t1qbit",
-          "alexfleury-sb"
+          "alexfleury-sb",
+          "ValentinS4t1qbit"
         ],
         "state": "open",
         "title": "Incompatibility with PySCF >= 2.5.0",
@@ -2019,8 +2019,8 @@
       },
       {
         "assignees": [
-          "ValentinS4t1qbit",
-          "alexfleury-sb"
+          "alexfleury-sb",
+          "ValentinS4t1qbit"
         ],
         "state": "open",
         "title": "Automatic documentation deployment",
@@ -2200,8 +2200,8 @@
       },
       {
         "assignees": [
-          "king-p3nguin",
-          "Youngcius"
+          "Youngcius",
+          "king-p3nguin"
         ],
         "state": "open",
         "title": "Supporting Additional Features for tq2qiskit and qiskit2tq",

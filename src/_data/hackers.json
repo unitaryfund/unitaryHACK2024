@@ -533,6 +533,19 @@
     "total_value": 25
   },
   {
+    "username": "NnguyenHTommy",
+    "bounties": [
+      {
+        "url": "https://github.com/unitaryfund/mitiq/issues/2354",
+        "title": "Qiskit Quantum Fourier Transform (QFT) circuits error out during conversion",
+        "project": "mitiq",
+        "value": 80
+      }
+    ],
+    "num_projects": 1,
+    "total_value": 80
+  },
+  {
     "username": "EmilianoG-byte",
     "bounties": [
       {
