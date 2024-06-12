@@ -891,13 +891,13 @@
     "url": "https://github.com/unitaryfund/mitiq"
   },
   "openqaoa": {
-    "amount_available": 500,
+    "amount_available": 310,
     "bounties": [
       {
         "assignees": [
           "rodolfocarobene"
         ],
-        "state": "open",
+        "state": "closed",
         "title": "Update the package to support `python >=3.11`",
         "url": "https://github.com/entropicalabs/openqaoa/issues/307",
         "value": 70
@@ -913,7 +913,7 @@
         "assignees": [
           "prakharb10"
         ],
-        "state": "open",
+        "state": "closed",
         "title": "Update `openqaoa-qiskit` to Qiskit 1.0",
         "url": "https://github.com/entropicalabs/openqaoa/issues/304",
         "value": 120
@@ -936,7 +936,7 @@
     "emoji": "\u2615\ud83e\udd9d",
     "name": "OpenQAOA",
     "num_bounties": 5,
-    "num_open_bounties": 5,
+    "num_open_bounties": 3,
     "total_amount": 500,
     "url": "https://github.com/entropicalabs/openqaoa"
   },
@@ -1224,14 +1224,13 @@
     "url": "https://github.com/pasqal-io/qadence"
   },
   "qbraid": {
-    "amount_available": 275,
+    "amount_available": 125,
     "bounties": [
       {
         "assignees": [
-          "anomius",
           "dhanaabhirajk"
         ],
-        "state": "open",
+        "state": "closed",
         "title": "Convert OpenQASM 3 program to specified basis gate set",
         "url": "https://github.com/qBraid/qBraid/issues/626",
         "value": 150
@@ -1276,7 +1275,7 @@
     "emoji": "\ud83c\udfc3\u200d\u2642\ufe0f\u23f1\ufe0f",
     "name": "qBraid-SDK",
     "num_bounties": 5,
-    "num_open_bounties": 2,
+    "num_open_bounties": 1,
     "total_amount": 500,
     "url": "https://github.com/qBraid/qBraid"
   },
@@ -1344,9 +1343,9 @@
       },
       {
         "assignees": [
+          "idriss-hamadi",
           "neogyk",
-          "schance995",
-          "idriss-hamadi"
+          "schance995"
         ],
         "state": "open",
         "title": "QNRG Classifier ML Model Improvements",
@@ -1355,9 +1354,9 @@
       },
       {
         "assignees": [
-          "AbdullahKazi500",
+          "0mWh",
           "schance995",
-          "0mWh"
+          "AbdullahKazi500"
         ],
         "state": "open",
         "title": "Classification Model for General Quantum Circuits",
@@ -1943,7 +1942,7 @@
     "url": "https://github.com/Qiskit/rustworkx"
   },
   "scqubits": {
-    "amount_available": 300,
+    "amount_available": 200,
     "bounties": [
       {
         "assignees": [
@@ -1967,7 +1966,7 @@
         "assignees": [
           "Yash-10"
         ],
-        "state": "open",
+        "state": "closed",
         "title": "Addition of tests for the custom diagonalization functionality. ",
         "url": "https://github.com/scqubits/scqubits/issues/220",
         "value": 100
@@ -1995,7 +1994,7 @@
     "emoji": "\ud83d\udce1",
     "name": "scqubits",
     "num_bounties": 5,
-    "num_open_bounties": 3,
+    "num_open_bounties": 2,
     "total_amount": 500,
     "url": "https://github.com/scqubits/scqubits"
   },

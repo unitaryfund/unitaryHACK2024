@@ -26,10 +26,16 @@
         "title": "Automatically determine dimensions for `aq.ArrayVar` declaration",
         "project": "autoqasm",
         "value": 40
+      },
+      {
+        "url": "https://github.com/scqubits/scqubits/issues/220",
+        "title": "Addition of tests for the custom diagonalization functionality. ",
+        "project": "scqubits",
+        "value": 100
       }
     ],
-    "num_projects": 2,
-    "total_value": 120
+    "num_projects": 3,
+    "total_value": 220
   },
   {
     "username": "anushkrishnav",
@@ -214,10 +220,16 @@
         "title": "`Xa*Zb*Zb*Zb` works but `Xa*Zb**3` raises error ",
         "project": "cirq",
         "value": 100
+      },
+      {
+        "url": "https://github.com/entropicalabs/openqaoa/issues/307",
+        "title": "Update the package to support `python >=3.11`",
+        "project": "openqaoa",
+        "value": 70
       }
     ],
-    "num_projects": 1,
-    "total_value": 100
+    "num_projects": 2,
+    "total_value": 170
   },
   {
     "username": "Manvi-Agrawal",
@@ -559,6 +571,19 @@
     "total_value": 25
   },
   {
+    "username": "prakharb10",
+    "bounties": [
+      {
+        "url": "https://github.com/entropicalabs/openqaoa/issues/304",
+        "title": "Update `openqaoa-qiskit` to Qiskit 1.0",
+        "project": "openqaoa",
+        "value": 120
+      }
+    ],
+    "num_projects": 1,
+    "total_value": 120
+  },
+  {
     "username": "NnguyenHTommy",
     "bounties": [
       {
@@ -622,6 +647,19 @@
     ],
     "num_projects": 1,
     "total_value": 50
+  },
+  {
+    "username": "dhanaabhirajk",
+    "bounties": [
+      {
+        "url": "https://github.com/qBraid/qBraid/issues/626",
+        "title": "Convert OpenQASM 3 program to specified basis gate set",
+        "project": "qbraid",
+        "value": 150
+      }
+    ],
+    "num_projects": 1,
+    "total_value": 150
   },
   {
     "username": "SaashaJoshi",
