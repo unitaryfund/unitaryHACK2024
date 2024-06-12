@@ -238,14 +238,20 @@
         "value": 75
       },
       {
+        "url": "https://github.com/pasqal-io/qadence/issues/268",
+        "title": "[Refactor] Better use of projectors",
+        "project": "qadence",
+        "value": 50
+      },
+      {
         "url": "https://github.com/qBraid/qbraid-qir/issues/78",
         "title": "Support for aliases for openqasm3 to qir",
         "project": "qbraid-qir",
         "value": 75
       }
     ],
-    "num_projects": 8,
-    "total_value": 1005
+    "num_projects": 9,
+    "total_value": 1055
   },
   {
     "username": "maxwell04-wq",
@@ -351,19 +357,6 @@
     "total_value": 125
   },
   {
-    "username": "Barnald",
-    "bounties": [
-      {
-        "url": "https://github.com/TeamGraphix/graphix/issues/136",
-        "title": "Application of tensor-network MBQC simulation",
-        "project": "graphix",
-        "value": 55
-      }
-    ],
-    "num_projects": 1,
-    "total_value": 55
-  },
-  {
     "username": "AbdullahKazi500",
     "bounties": [
       {
@@ -381,6 +374,19 @@
     ],
     "num_projects": 2,
     "total_value": 130
+  },
+  {
+    "username": "Barnald",
+    "bounties": [
+      {
+        "url": "https://github.com/TeamGraphix/graphix/issues/136",
+        "title": "Application of tensor-network MBQC simulation",
+        "project": "graphix",
+        "value": 55
+      }
+    ],
+    "num_projects": 1,
+    "total_value": 55
   },
   {
     "username": "marcogobbo",
@@ -778,6 +784,19 @@
       {
         "url": "https://github.com/pasqal-io/qadence/issues/370",
         "title": "[Enhance] Add 'backend' argument to product_state",
+        "project": "qadence",
+        "value": 100
+      }
+    ],
+    "num_projects": 1,
+    "total_value": 100
+  },
+  {
+    "username": "ducthanh1991",
+    "bounties": [
+      {
+        "url": "https://github.com/pasqal-io/qadence/issues/40",
+        "title": "[Performance] Expand PyQComposedBlock to 2 qubit gates",
         "project": "qadence",
         "value": 100
       }

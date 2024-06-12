@@ -583,8 +583,8 @@
     "bounties": [
       {
         "assignees": [
-          "Barnald",
-          "AbdullahKazi500"
+          "AbdullahKazi500",
+          "Barnald"
         ],
         "state": "closed",
         "title": "Application of tensor-network MBQC simulation",
@@ -1039,8 +1039,8 @@
     "bounties": [
       {
         "assignees": [
-          "burlemarxiste",
-          "maxwell04-wq"
+          "maxwell04-wq",
+          "burlemarxiste"
         ],
         "state": "open",
         "title": "QASM to linear optics circuit converter",
@@ -1176,7 +1176,7 @@
     "url": "https://github.com/hongyehu/PyClifford"
   },
   "qadence": {
-    "amount_available": 250,
+    "amount_available": 100,
     "bounties": [
       {
         "assignees": [
@@ -1200,7 +1200,7 @@
         "assignees": [
           "king-p3nguin"
         ],
-        "state": "open",
+        "state": "closed",
         "title": "[Refactor] Better use of projectors",
         "url": "https://github.com/pasqal-io/qadence/issues/268",
         "value": 50
@@ -1218,7 +1218,7 @@
         "assignees": [
           "ducthanh1991"
         ],
-        "state": "open",
+        "state": "closed",
         "title": "[Performance] Expand PyQComposedBlock to 2 qubit gates",
         "url": "https://github.com/pasqal-io/qadence/issues/40",
         "value": 100
@@ -1227,7 +1227,7 @@
     "emoji": null,
     "name": "Qadence",
     "num_bounties": 5,
-    "num_open_bounties": 3,
+    "num_open_bounties": 1,
     "total_amount": 500,
     "url": "https://github.com/pasqal-io/qadence"
   },
@@ -1349,9 +1349,9 @@
       },
       {
         "assignees": [
-          "schance995",
           "neogyk",
-          "idriss-hamadi"
+          "idriss-hamadi",
+          "schance995"
         ],
         "state": "open",
         "title": "QNRG Classifier ML Model Improvements",
@@ -1360,9 +1360,9 @@
       },
       {
         "assignees": [
-          "schance995",
+          "0mWh",
           "AbdullahKazi500",
-          "0mWh"
+          "schance995"
         ],
         "state": "open",
         "title": "Classification Model for General Quantum Circuits",
@@ -2221,8 +2221,8 @@
       },
       {
         "assignees": [
-          "Youngcius",
-          "king-p3nguin"
+          "king-p3nguin",
+          "Youngcius"
         ],
         "state": "open",
         "title": "Supporting Additional Features for tq2qiskit and qiskit2tq",
