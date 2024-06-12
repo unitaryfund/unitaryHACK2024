@@ -579,8 +579,8 @@
     "bounties": [
       {
         "assignees": [
-          "Barnald",
-          "AbdullahKazi500"
+          "AbdullahKazi500",
+          "Barnald"
         ],
         "state": "closed",
         "title": "Application of tensor-network MBQC simulation",
@@ -1343,9 +1343,9 @@
       },
       {
         "assignees": [
-          "schance995",
           "neogyk",
-          "idriss-hamadi"
+          "idriss-hamadi",
+          "schance995"
         ],
         "state": "open",
         "title": "QNRG Classifier ML Model Improvements",
@@ -1354,9 +1354,9 @@
       },
       {
         "assignees": [
-          "schance995",
           "AbdullahKazi500",
-          "0mWh"
+          "0mWh",
+          "schance995"
         ],
         "state": "open",
         "title": "Classification Model for General Quantum Circuits",
@@ -1849,7 +1849,7 @@
     "url": "https://github.com/mvwf/qublitz"
   },
   "qutip-tutorials": {
-    "amount_available": 200,
+    "amount_available": 0,
     "bounties": [
       {
         "assignees": [
@@ -1861,8 +1861,10 @@
         "value": 100
       },
       {
-        "assignees": [],
-        "state": "open",
+        "assignees": [
+          "obliviateandsurrender"
+        ],
+        "state": "closed",
         "title": " Port \"Steady-State: Optomechanical System in the Single-Photon Strong-Coupling Regime\" tutorial to QuTiP 5.",
         "url": "https://github.com/qutip/qutip-tutorials/issues/92",
         "value": 100
@@ -1886,8 +1888,10 @@
         "value": 100
       },
       {
-        "assignees": [],
-        "state": "open",
+        "assignees": [
+          "alan-nala"
+        ],
+        "state": "closed",
         "title": "Gates in qutip-qutip",
         "url": "https://github.com/qutip/qutip/issues/2389",
         "value": 100
@@ -1896,7 +1900,7 @@
     "emoji": null,
     "name": "QuTiP Tutorials",
     "num_bounties": 5,
-    "num_open_bounties": 2,
+    "num_open_bounties": 0,
     "total_amount": 500,
     "url": "https://github.com/qutip/qutip-tutorials/"
   },
@@ -1984,8 +1988,8 @@
       },
       {
         "assignees": [
-          "ahkatlio",
-          "Roshan-Thomas"
+          "Roshan-Thomas",
+          "ahkatlio"
         ],
         "state": "closed",
         "title": "Adding code documentation",
@@ -2001,14 +2005,13 @@
     "url": "https://github.com/scqubits/scqubits"
   },
   "tangelo": {
-    "amount_available": 200,
+    "amount_available": 100,
     "bounties": [
       {
         "assignees": [
-          "alexfleury-sb",
-          "ValentinS4t1qbit"
+          "anushkrishnav"
         ],
-        "state": "open",
+        "state": "closed",
         "title": "Incompatibility with PySCF >= 2.5.0",
         "url": "https://github.com/goodchemistryco/Tangelo/issues/383",
         "value": 100
@@ -2024,8 +2027,7 @@
       },
       {
         "assignees": [
-          "alexfleury-sb",
-          "ValentinS4t1qbit"
+          "king-p3nguin"
         ],
         "state": "open",
         "title": "Automatic documentation deployment",
@@ -2063,7 +2065,7 @@
     "emoji": "\ud83c\udf4a",
     "name": "Tangelo",
     "num_bounties": 6,
-    "num_open_bounties": 2,
+    "num_open_bounties": 1,
     "total_amount": 500,
     "url": "https://github.com/goodchemistryco/Tangelo"
   },
@@ -2205,8 +2207,8 @@
       },
       {
         "assignees": [
-          "king-p3nguin",
-          "Youngcius"
+          "Youngcius",
+          "king-p3nguin"
         ],
         "state": "open",
         "title": "Supporting Additional Features for tq2qiskit and qiskit2tq",
