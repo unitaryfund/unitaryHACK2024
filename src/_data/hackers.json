@@ -90,14 +90,20 @@
         "value": 80
       },
       {
+        "url": "https://github.com/unitaryfund/pyqrack/issues/23",
+        "title": "CI publishing pipeline",
+        "project": "qrack",
+        "value": 125
+      },
+      {
         "url": "https://github.com/goodchemistryco/Tangelo/issues/387",
         "title": "Support for multi-controlled rotation (RX, RY, RZ) gates for qiskit backend",
         "project": "tangelo",
         "value": 50
       }
     ],
-    "num_projects": 2,
-    "total_value": 130
+    "num_projects": 3,
+    "total_value": 255
   },
   {
     "username": "Roshan-Thomas",
@@ -492,10 +498,22 @@
         "title": "Improve unit test coverage to 100%",
         "project": "qiskit-braket-provider",
         "value": 200
+      },
+      {
+        "url": "https://github.com/amazon-braket/Braket.jl/issues/18",
+        "title": "Feature request: support for loading pickled results from Hybrid Jobs",
+        "project": "braket.jl",
+        "value": 50
+      },
+      {
+        "url": "https://github.com/amazon-braket/amazon-braket-pennylane-plugin-python/issues/255",
+        "title": "Print noisy circuit when a Braket noise model is applied to PL device with `parallel=True`",
+        "project": "amazon-braket-pennylane-plugin-python",
+        "value": 90
       }
     ],
-    "num_projects": 2,
-    "total_value": 350
+    "num_projects": 4,
+    "total_value": 490
   },
   {
     "username": "AVDiv",
@@ -541,6 +559,19 @@
     ],
     "num_projects": 1,
     "total_value": 200
+  },
+  {
+    "username": "MashAliK",
+    "bounties": [
+      {
+        "url": "https://github.com/PennyLaneAI/pennylane/issues/5646",
+        "title": "Improve measurement support in from_qasm",
+        "project": "pennylane",
+        "value": 100
+      }
+    ],
+    "num_projects": 1,
+    "total_value": 100
   },
   {
     "username": "Tarun-Kumar07",

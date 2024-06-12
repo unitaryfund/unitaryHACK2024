@@ -32,7 +32,7 @@
     "url": "https://github.com/amazon-braket/amazon-braket-default-simulator-python"
   },
   "amazon-braket-pennylane-plugin-python": {
-    "amount_available": 250,
+    "amount_available": 160,
     "bounties": [
       {
         "assignees": [],
@@ -49,8 +49,10 @@
         "value": 70
       },
       {
-        "assignees": [],
-        "state": "open",
+        "assignees": [
+          "WingCode"
+        ],
+        "state": "closed",
         "title": "Print noisy circuit when a Braket noise model is applied to PL device with `parallel=True`",
         "url": "https://github.com/amazon-braket/amazon-braket-pennylane-plugin-python/issues/255",
         "value": 90
@@ -59,7 +61,7 @@
     "emoji": "\u269b\ufe0f\ud83e\ude99",
     "name": "PennyLane Plugin for Amazon Braket",
     "num_bounties": 3,
-    "num_open_bounties": 3,
+    "num_open_bounties": 2,
     "total_amount": 250,
     "url": "https://github.com/amazon-braket/amazon-braket-pennylane-plugin-python"
   },
@@ -233,7 +235,7 @@
     "url": "https://github.com/bqskit/bqskit"
   },
   "braket.jl": {
-    "amount_available": 310,
+    "amount_available": 260,
     "bounties": [
       {
         "assignees": [
@@ -275,8 +277,10 @@
         "value": 90
       },
       {
-        "assignees": [],
-        "state": "open",
+        "assignees": [
+          "WingCode"
+        ],
+        "state": "closed",
         "title": "Feature request: support for loading pickled results from Hybrid Jobs",
         "url": "https://github.com/amazon-braket/Braket.jl/issues/18",
         "value": 50
@@ -285,7 +289,7 @@
     "emoji": "\u269b\ufe0f\ud83d\udd34",
     "name": "Braket.jl",
     "num_bounties": 6,
-    "num_open_bounties": 4,
+    "num_open_bounties": 3,
     "total_amount": 500,
     "url": "https://github.com/amazon-braket/Braket.jl"
   },
@@ -979,7 +983,7 @@
     "url": "https://github.com/Qiskit/openqasm3_parser/"
   },
   "pennylane": {
-    "amount_available": 250,
+    "amount_available": 150,
     "bounties": [
       {
         "assignees": [],
@@ -996,8 +1000,10 @@
         "value": 75
       },
       {
-        "assignees": [],
-        "state": "open",
+        "assignees": [
+          "MashAliK"
+        ],
+        "state": "closed",
         "title": "Improve measurement support in from_qasm",
         "url": "https://github.com/PennyLaneAI/pennylane/issues/5646",
         "value": 100
@@ -1024,7 +1030,7 @@
     "emoji": "\ud83e\uddd1\u200d\ud83d\udd2c\ud83d\udcda",
     "name": "PennyLane",
     "num_bounties": 5,
-    "num_open_bounties": 3,
+    "num_open_bounties": 2,
     "total_amount": 500,
     "url": "https://github.com/PennyLaneAI/pennylane"
   },
@@ -1033,8 +1039,8 @@
     "bounties": [
       {
         "assignees": [
-          "maxwell04-wq",
-          "burlemarxiste"
+          "burlemarxiste",
+          "maxwell04-wq"
         ],
         "state": "open",
         "title": "QASM to linear optics circuit converter",
@@ -1354,9 +1360,9 @@
       },
       {
         "assignees": [
-          "0mWh",
           "schance995",
-          "AbdullahKazi500"
+          "AbdullahKazi500",
+          "0mWh"
         ],
         "state": "open",
         "title": "Classification Model for General Quantum Circuits",
@@ -1593,7 +1599,7 @@
     "url": "https://github.com/qosf/qosf.org"
   },
   "qrack": {
-    "amount_available": 500,
+    "amount_available": 375,
     "bounties": [
       {
         "assignees": [],
@@ -1617,8 +1623,10 @@
         "value": 125
       },
       {
-        "assignees": [],
-        "state": "open",
+        "assignees": [
+          "golanor"
+        ],
+        "state": "closed",
         "title": "CI publishing pipeline",
         "url": "https://github.com/unitaryfund/pyqrack/issues/23",
         "value": 125
@@ -1627,7 +1635,7 @@
     "emoji": "\ud83d\ude08",
     "name": "Qrack",
     "num_bounties": 4,
-    "num_open_bounties": 4,
+    "num_open_bounties": 3,
     "total_amount": 500,
     "url": "https://github.com/unitaryfund/qrack"
   },
@@ -1635,7 +1643,9 @@
     "amount_available": 330,
     "bounties": [
       {
-        "assignees": [],
+        "assignees": [
+          "nirajvenkat"
+        ],
         "state": "open",
         "title": "Add ability to save the Resource Estimator space-time diagram as a file (png/jpg/svg)",
         "url": "https://github.com/microsoft/qsharp/issues/1063",
@@ -1689,7 +1699,7 @@
     "url": "https://github.com/microsoft/qsharp"
   },
   "qua-qsim": {
-    "amount_available": 400,
+    "amount_available": 300,
     "bounties": [
       {
         "assignees": [],
@@ -1721,7 +1731,7 @@
       },
       {
         "assignees": [],
-        "state": "open",
+        "state": "closed",
         "title": "Live conversion from QUA to Qiskit simulations",
         "url": "https://github.com/qua-platform/qua-qsim/issues/5",
         "value": 100
@@ -1737,7 +1747,7 @@
     "emoji": "\u269b\ufe0f\ud83d\udc0d",
     "name": "Quantum Machines QUA-to-Qiskit compiler & simulator",
     "num_bounties": 6,
-    "num_open_bounties": 5,
+    "num_open_bounties": 4,
     "total_amount": 500,
     "url": "https://github.com/qua-platform/qua-qsim"
   },
@@ -2211,8 +2221,8 @@
       },
       {
         "assignees": [
-          "king-p3nguin",
-          "Youngcius"
+          "Youngcius",
+          "king-p3nguin"
         ],
         "state": "open",
         "title": "Supporting Additional Features for tq2qiskit and qiskit2tq",
