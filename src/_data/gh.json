@@ -1168,7 +1168,7 @@
     "url": "https://github.com/hongyehu/PyClifford"
   },
   "qadence": {
-    "amount_available": 400,
+    "amount_available": 250,
     "bounties": [
       {
         "assignees": [
@@ -1201,7 +1201,7 @@
         "assignees": [
           "Yash-10"
         ],
-        "state": "open",
+        "state": "closed",
         "title": "[Feature] Add checkpoint_best_only in train_grad",
         "url": "https://github.com/pasqal-io/qadence/issues/214",
         "value": 150
@@ -1219,7 +1219,7 @@
     "emoji": null,
     "name": "Qadence",
     "num_bounties": 5,
-    "num_open_bounties": 4,
+    "num_open_bounties": 3,
     "total_amount": 500,
     "url": "https://github.com/pasqal-io/qadence"
   },
@@ -1343,9 +1343,9 @@
       },
       {
         "assignees": [
-          "idriss-hamadi",
+          "schance995",
           "neogyk",
-          "schance995"
+          "idriss-hamadi"
         ],
         "state": "open",
         "title": "QNRG Classifier ML Model Improvements",
@@ -1354,9 +1354,9 @@
       },
       {
         "assignees": [
-          "0mWh",
           "schance995",
-          "AbdullahKazi500"
+          "AbdullahKazi500",
+          "0mWh"
         ],
         "state": "open",
         "title": "Classification Model for General Quantum Circuits",
@@ -1913,7 +1913,9 @@
         "value": 75
       },
       {
-        "assignees": [],
+        "assignees": [
+          "anushkrishnav"
+        ],
         "state": "closed",
         "title": "graphviz draw tooltip with special characters",
         "url": "https://github.com/Qiskit/rustworkx/issues/750",

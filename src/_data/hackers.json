@@ -32,10 +32,16 @@
         "title": "Addition of tests for the custom diagonalization functionality. ",
         "project": "scqubits",
         "value": 100
+      },
+      {
+        "url": "https://github.com/pasqal-io/qadence/issues/214",
+        "title": "[Feature] Add checkpoint_best_only in train_grad",
+        "project": "qadence",
+        "value": 150
       }
     ],
-    "num_projects": 3,
-    "total_value": 220
+    "num_projects": 4,
+    "total_value": 370
   },
   {
     "username": "anushkrishnav",
@@ -45,6 +51,12 @@
         "title": "Refactor: Permute systems index offset",
         "project": "toqito",
         "value": 80
+      },
+      {
+        "url": "https://github.com/Qiskit/rustworkx/issues/750",
+        "title": "graphviz draw tooltip with special characters",
+        "project": "rustworkx",
+        "value": 75
       },
       {
         "url": "https://github.com/qutip/qutip/issues/2400",
@@ -59,8 +71,8 @@
         "value": 50
       }
     ],
-    "num_projects": 3,
-    "total_value": 230
+    "num_projects": 4,
+    "total_value": 305
   },
   {
     "username": "golanor",
