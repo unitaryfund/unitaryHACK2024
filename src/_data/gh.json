@@ -579,8 +579,8 @@
     "bounties": [
       {
         "assignees": [
-          "AbdullahKazi500",
-          "Barnald"
+          "Barnald",
+          "AbdullahKazi500"
         ],
         "state": "closed",
         "title": "Application of tensor-network MBQC simulation",
@@ -1033,8 +1033,8 @@
     "bounties": [
       {
         "assignees": [
-          "burlemarxiste",
-          "maxwell04-wq"
+          "maxwell04-wq",
+          "burlemarxiste"
         ],
         "state": "open",
         "title": "QASM to linear optics circuit converter",
@@ -1343,9 +1343,9 @@
       },
       {
         "assignees": [
-          "idriss-hamadi",
           "schance995",
-          "neogyk"
+          "neogyk",
+          "idriss-hamadi"
         ],
         "state": "open",
         "title": "QNRG Classifier ML Model Improvements",
@@ -1354,9 +1354,9 @@
       },
       {
         "assignees": [
-          "AbdullahKazi500",
+          "0mWh",
           "schance995",
-          "0mWh"
+          "AbdullahKazi500"
         ],
         "state": "open",
         "title": "Classification Model for General Quantum Circuits",
@@ -2221,7 +2221,6 @@
       },
       {
         "assignees": [
-          "anonymousr007",
           "Gopal-Dahale"
         ],
         "state": "open",

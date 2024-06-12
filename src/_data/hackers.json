@@ -345,6 +345,19 @@
     "total_value": 125
   },
   {
+    "username": "Barnald",
+    "bounties": [
+      {
+        "url": "https://github.com/TeamGraphix/graphix/issues/136",
+        "title": "Application of tensor-network MBQC simulation",
+        "project": "graphix",
+        "value": 55
+      }
+    ],
+    "num_projects": 1,
+    "total_value": 55
+  },
+  {
     "username": "AbdullahKazi500",
     "bounties": [
       {
@@ -362,19 +375,6 @@
     ],
     "num_projects": 2,
     "total_value": 130
-  },
-  {
-    "username": "Barnald",
-    "bounties": [
-      {
-        "url": "https://github.com/TeamGraphix/graphix/issues/136",
-        "title": "Application of tensor-network MBQC simulation",
-        "project": "graphix",
-        "value": 55
-      }
-    ],
-    "num_projects": 1,
-    "total_value": 55
   },
   {
     "username": "marcogobbo",
