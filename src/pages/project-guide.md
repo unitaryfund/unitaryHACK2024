@@ -25,7 +25,7 @@ We have some outlines below for what you can expect before and during the event,
 > - **May 24th** All issues must be finalized
 > - **May 29th** unitaryHACK opens
 > - **June 12th**: unitaryHACK closes
-> - **June TBD**: Awardees finalized
+> - **June 19th**: Awardees finalized
 
 ## ⌚ Before the Hack ⌚
 
