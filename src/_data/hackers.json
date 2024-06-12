@@ -196,6 +196,18 @@
         "value": 100
       },
       {
+        "url": "https://github.com/PennyLaneAI/pennylane/issues/5647",
+        "title": "Support native measurement-based snapshots in Default Clifford",
+        "project": "pennylane",
+        "value": 125
+      },
+      {
+        "url": "https://github.com/mit-han-lab/torchquantum/issues/262",
+        "title": "Make TQ Compatible with Qiskit \u22651.0.0",
+        "project": "torchquantum",
+        "value": 100
+      },
+      {
         "url": "https://github.com/unitaryfund/mitiq/issues/2161",
         "title": "Test circuit conversion time for large non-cirq circuits",
         "project": "mitiq",
@@ -218,10 +230,16 @@
         "title": "Expand IonQ provider runtime to supported gates",
         "project": "qbraid",
         "value": 75
+      },
+      {
+        "url": "https://github.com/qBraid/qbraid-qir/issues/78",
+        "title": "Support for aliases for openqasm3 to qir",
+        "project": "qbraid-qir",
+        "value": 75
       }
     ],
-    "num_projects": 5,
-    "total_value": 705
+    "num_projects": 8,
+    "total_value": 1005
   },
   {
     "username": "maxwell04-wq",

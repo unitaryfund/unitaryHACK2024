@@ -979,7 +979,7 @@
     "url": "https://github.com/Qiskit/openqasm3_parser/"
   },
   "pennylane": {
-    "amount_available": 375,
+    "amount_available": 250,
     "bounties": [
       {
         "assignees": [],
@@ -1003,8 +1003,10 @@
         "value": 100
       },
       {
-        "assignees": [],
-        "state": "open",
+        "assignees": [
+          "king-p3nguin"
+        ],
+        "state": "closed",
         "title": "Support native measurement-based snapshots in Default Clifford",
         "url": "https://github.com/PennyLaneAI/pennylane/issues/5647",
         "value": 125
@@ -1022,7 +1024,7 @@
     "emoji": "\ud83e\uddd1\u200d\ud83d\udd2c\ud83d\udcda",
     "name": "PennyLane",
     "num_bounties": 5,
-    "num_open_bounties": 4,
+    "num_open_bounties": 3,
     "total_amount": 500,
     "url": "https://github.com/PennyLaneAI/pennylane"
   },
@@ -1245,9 +1247,7 @@
         "value": 75
       },
       {
-        "assignees": [
-          "Hope-Alemayehu"
-        ],
+        "assignees": [],
         "state": "open",
         "title": " Challenge Accepted: Boost Our Code with CPython!",
         "url": "https://github.com/qBraid/qBraid/issues/619",
@@ -1280,7 +1280,7 @@
     "url": "https://github.com/qBraid/qBraid"
   },
   "qbraid-qir": {
-    "amount_available": 350,
+    "amount_available": 275,
     "bounties": [
       {
         "assignees": [
@@ -1302,7 +1302,7 @@
         "assignees": [
           "king-p3nguin"
         ],
-        "state": "open",
+        "state": "closed",
         "title": "Support for aliases for openqasm3 to qir",
         "url": "https://github.com/qBraid/qbraid-qir/issues/78",
         "value": 75
@@ -1325,7 +1325,7 @@
     "emoji": "\ud83d\udc23 \ud83d\udef8",
     "name": "qBraid-QIR",
     "num_bounties": 5,
-    "num_open_bounties": 4,
+    "num_open_bounties": 3,
     "total_amount": 500,
     "url": "https://github.com/qBraid/qbraid-qir"
   },
@@ -1344,8 +1344,8 @@
       {
         "assignees": [
           "idriss-hamadi",
-          "neogyk",
-          "schance995"
+          "schance995",
+          "neogyk"
         ],
         "state": "open",
         "title": "QNRG Classifier ML Model Improvements",
@@ -1354,9 +1354,9 @@
       },
       {
         "assignees": [
+          "AbdullahKazi500",
           "schance995",
-          "0mWh",
-          "AbdullahKazi500"
+          "0mWh"
         ],
         "state": "open",
         "title": "Classification Model for General Quantum Circuits",
@@ -1992,8 +1992,8 @@
       },
       {
         "assignees": [
-          "ahkatlio",
-          "Roshan-Thomas"
+          "Roshan-Thomas",
+          "ahkatlio"
         ],
         "state": "closed",
         "title": "Adding code documentation",
@@ -2182,7 +2182,7 @@
     "url": "https://github.com/vprusso/toqito"
   },
   "torchquantum": {
-    "amount_available": 500,
+    "amount_available": 400,
     "bounties": [
       {
         "assignees": [],
@@ -2204,7 +2204,7 @@
         "assignees": [
           "king-p3nguin"
         ],
-        "state": "open",
+        "state": "closed",
         "title": "Make TQ Compatible with Qiskit \u22651.0.0",
         "url": "https://github.com/mit-han-lab/torchquantum/issues/262",
         "value": 100
@@ -2233,7 +2233,7 @@
     "emoji": null,
     "name": "TorchQuantum",
     "num_bounties": 5,
-    "num_open_bounties": 5,
+    "num_open_bounties": 4,
     "total_amount": 500,
     "url": "https://github.com/mit-han-lab/torchquantum"
   }
