@@ -291,19 +291,6 @@
     "total_value": 125
   },
   {
-    "username": "Barnald",
-    "bounties": [
-      {
-        "url": "https://github.com/TeamGraphix/graphix/issues/136",
-        "title": "Application of tensor-network MBQC simulation",
-        "project": "graphix",
-        "value": 55
-      }
-    ],
-    "num_projects": 1,
-    "total_value": 55
-  },
-  {
     "username": "AbdullahKazi500",
     "bounties": [
       {
@@ -321,6 +308,45 @@
     ],
     "num_projects": 2,
     "total_value": 130
+  },
+  {
+    "username": "Barnald",
+    "bounties": [
+      {
+        "url": "https://github.com/TeamGraphix/graphix/issues/136",
+        "title": "Application of tensor-network MBQC simulation",
+        "project": "graphix",
+        "value": 55
+      }
+    ],
+    "num_projects": 1,
+    "total_value": 55
+  },
+  {
+    "username": "marcogobbo",
+    "bounties": [
+      {
+        "url": "https://github.com/qutip/qutip-tutorials/issues/93",
+        "title": "Port \"Steady-State: Time-dependent (periodic) quantum system\" tutorial to QuTiP 5.",
+        "project": "qutip-tutorials",
+        "value": 100
+      }
+    ],
+    "num_projects": 1,
+    "total_value": 100
+  },
+  {
+    "username": "ArturDomingues",
+    "bounties": [
+      {
+        "url": "https://github.com/qutip/qutip-tutorials/issues/91",
+        "title": "Port \"Steady-State: Homodyned Jaynes-Cummings emission\" tutorial to QuTiP 5.",
+        "project": "qutip-tutorials",
+        "value": 100
+      }
+    ],
+    "num_projects": 1,
+    "total_value": 100
   },
   {
     "username": "tomv42",
