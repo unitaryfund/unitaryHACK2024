@@ -254,6 +254,70 @@
     "total_value": 1055
   },
   {
+    "username": "0mWh",
+    "bounties": [
+      {
+        "url": "https://github.com/dorahacksglobal/qc-classifier/issues/1",
+        "title": "QRNG Classifier Preprocessing Functions Improvements",
+        "project": "qc-classifier",
+        "value": 75
+      }
+    ],
+    "num_projects": 1,
+    "total_value": 75
+  },
+  {
+    "username": "schance995",
+    "bounties": [
+      {
+        "url": "https://github.com/dorahacksglobal/qc-classifier/issues/1",
+        "title": "QRNG Classifier Preprocessing Functions Improvements",
+        "project": "qc-classifier",
+        "value": 75
+      }
+    ],
+    "num_projects": 1,
+    "total_value": 75
+  },
+  {
+    "username": "idriss-hamadi",
+    "bounties": [
+      {
+        "url": "https://github.com/dorahacksglobal/qc-classifier/issues/3",
+        "title": "QNRG Classifier ML Model Improvements",
+        "project": "qc-classifier",
+        "value": 150
+      }
+    ],
+    "num_projects": 1,
+    "total_value": 150
+  },
+  {
+    "username": "AbdullahKazi500",
+    "bounties": [
+      {
+        "url": "https://github.com/dorahacksglobal/qc-classifier/issues/2",
+        "title": "Classification Model for General Quantum Circuits",
+        "project": "qc-classifier",
+        "value": 200
+      },
+      {
+        "url": "https://github.com/TeamGraphix/graphix/issues/136",
+        "title": "Application of tensor-network MBQC simulation",
+        "project": "graphix",
+        "value": 55
+      },
+      {
+        "url": "https://github.com/iqm-finland/KQCircuits/issues/90",
+        "title": "Macro to open a tutorial layout",
+        "project": "kqcircuits",
+        "value": 75
+      }
+    ],
+    "num_projects": 3,
+    "total_value": 330
+  },
+  {
     "username": "maxwell04-wq",
     "bounties": [
       {
@@ -355,25 +419,6 @@
     ],
     "num_projects": 1,
     "total_value": 125
-  },
-  {
-    "username": "AbdullahKazi500",
-    "bounties": [
-      {
-        "url": "https://github.com/TeamGraphix/graphix/issues/136",
-        "title": "Application of tensor-network MBQC simulation",
-        "project": "graphix",
-        "value": 55
-      },
-      {
-        "url": "https://github.com/iqm-finland/KQCircuits/issues/90",
-        "title": "Macro to open a tutorial layout",
-        "project": "kqcircuits",
-        "value": 75
-      }
-    ],
-    "num_projects": 2,
-    "total_value": 130
   },
   {
     "username": "Barnald",
@@ -535,6 +580,32 @@
     "total_value": 100
   },
   {
+    "username": "abidart",
+    "bounties": [
+      {
+        "url": "https://github.com/amazon-braket/autoqasm/issues/9",
+        "title": "Support integer division with `//` operator",
+        "project": "autoqasm",
+        "value": 25
+      }
+    ],
+    "num_projects": 1,
+    "total_value": 25
+  },
+  {
+    "username": "daredevil3435",
+    "bounties": [
+      {
+        "url": "https://github.com/amazon-braket/autoqasm/issues/9",
+        "title": "Support integer division with `//` operator",
+        "project": "autoqasm",
+        "value": 25
+      }
+    ],
+    "num_projects": 1,
+    "total_value": 25
+  },
+  {
     "username": "atharva-satpute",
     "bounties": [
       {
@@ -567,6 +638,31 @@
     "total_value": 200
   },
   {
+    "username": "Tarun-Kumar07",
+    "bounties": [
+      {
+        "url": "https://github.com/PennyLaneAI/pennylane/issues/5644",
+        "title": "Improve operator support for new `assert_equal` function: Group 1",
+        "project": "pennylane",
+        "value": 75
+      },
+      {
+        "url": "https://github.com/PennyLaneAI/pennylane/issues/5648",
+        "title": "Improve operator support for new `assert_equal` function: Group 2",
+        "project": "pennylane",
+        "value": 75
+      },
+      {
+        "url": "https://github.com/PennyLaneAI/pennylane/issues/5649",
+        "title": "Add a QutritChannel operation",
+        "project": "pennylane",
+        "value": 125
+      }
+    ],
+    "num_projects": 1,
+    "total_value": 275
+  },
+  {
     "username": "MashAliK",
     "bounties": [
       {
@@ -578,19 +674,6 @@
     ],
     "num_projects": 1,
     "total_value": 100
-  },
-  {
-    "username": "Tarun-Kumar07",
-    "bounties": [
-      {
-        "url": "https://github.com/PennyLaneAI/pennylane/issues/5649",
-        "title": "Add a QutritChannel operation",
-        "project": "pennylane",
-        "value": 125
-      }
-    ],
-    "num_projects": 1,
-    "total_value": 125
   },
   {
     "username": "burlemarxiste",
