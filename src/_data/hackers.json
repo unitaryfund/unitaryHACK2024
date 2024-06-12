@@ -190,6 +190,12 @@
         "value": 150
       },
       {
+        "url": "https://github.com/goodchemistryco/Tangelo/issues/385",
+        "title": "Automatic documentation deployment",
+        "project": "tangelo",
+        "value": 100
+      },
+      {
         "url": "https://github.com/unitaryfund/mitiq/issues/2161",
         "title": "Test circuit conversion time for large non-cirq circuits",
         "project": "mitiq",
@@ -214,8 +220,8 @@
         "value": 75
       }
     ],
-    "num_projects": 4,
-    "total_value": 605
+    "num_projects": 5,
+    "total_value": 705
   },
   {
     "username": "maxwell04-wq",
@@ -408,6 +414,12 @@
     "username": "tomv42",
     "bounties": [
       {
+        "url": "https://github.com/dakk/qlasskit/issues/28",
+        "title": "py2bexp bool expressions exporter",
+        "project": "qlasskit",
+        "value": 100
+      },
+      {
         "url": "https://github.com/dakk/qlasskit/issues/23",
         "title": "Pow operator",
         "project": "qlasskit",
@@ -415,7 +427,7 @@
       }
     ],
     "num_projects": 1,
-    "total_value": 50
+    "total_value": 150
   },
   {
     "username": "Gopal-Dahale",

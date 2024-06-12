@@ -1343,8 +1343,8 @@
       },
       {
         "assignees": [
-          "neogyk",
           "idriss-hamadi",
+          "neogyk",
           "schance995"
         ],
         "state": "open",
@@ -1495,7 +1495,7 @@
     "url": "https://github.com/qiskit-community/qiskit-braket-provider"
   },
   "qlasskit": {
-    "amount_available": 375,
+    "amount_available": 275,
     "bounties": [
       {
         "assignees": [],
@@ -1505,8 +1505,10 @@
         "value": 100
       },
       {
-        "assignees": [],
-        "state": "open",
+        "assignees": [
+          "tomv42"
+        ],
+        "state": "closed",
         "title": "py2bexp bool expressions exporter",
         "url": "https://github.com/dakk/qlasskit/issues/28",
         "value": 100
@@ -1538,7 +1540,7 @@
     "emoji": "\u2699\ufe0f",
     "name": "qlasskit",
     "num_bounties": 5,
-    "num_open_bounties": 4,
+    "num_open_bounties": 3,
     "total_amount": 425,
     "url": "https://github.com/dakk/qlasskit"
   },
@@ -1988,8 +1990,8 @@
       },
       {
         "assignees": [
-          "Roshan-Thomas",
-          "ahkatlio"
+          "ahkatlio",
+          "Roshan-Thomas"
         ],
         "state": "closed",
         "title": "Adding code documentation",
@@ -2005,7 +2007,7 @@
     "url": "https://github.com/scqubits/scqubits"
   },
   "tangelo": {
-    "amount_available": 100,
+    "amount_available": 0,
     "bounties": [
       {
         "assignees": [
@@ -2029,7 +2031,7 @@
         "assignees": [
           "king-p3nguin"
         ],
-        "state": "open",
+        "state": "closed",
         "title": "Automatic documentation deployment",
         "url": "https://github.com/goodchemistryco/Tangelo/issues/385",
         "value": 100
@@ -2065,7 +2067,7 @@
     "emoji": "\ud83c\udf4a",
     "name": "Tangelo",
     "num_bounties": 6,
-    "num_open_bounties": 1,
+    "num_open_bounties": 0,
     "total_amount": 500,
     "url": "https://github.com/goodchemistryco/Tangelo"
   },
@@ -2207,8 +2209,8 @@
       },
       {
         "assignees": [
-          "Youngcius",
-          "king-p3nguin"
+          "king-p3nguin",
+          "Youngcius"
         ],
         "state": "open",
         "title": "Supporting Additional Features for tq2qiskit and qiskit2tq",
