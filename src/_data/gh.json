@@ -1354,9 +1354,9 @@
       },
       {
         "assignees": [
-          "AbdullahKazi500",
+          "schance995",
           "0mWh",
-          "schance995"
+          "AbdullahKazi500"
         ],
         "state": "open",
         "title": "Classification Model for General Quantum Circuits",
@@ -1495,11 +1495,13 @@
     "url": "https://github.com/qiskit-community/qiskit-braket-provider"
   },
   "qlasskit": {
-    "amount_available": 275,
+    "amount_available": 175,
     "bounties": [
       {
-        "assignees": [],
-        "state": "open",
+        "assignees": [
+          "tomv42"
+        ],
+        "state": "closed",
         "title": "py2qasm cli tool",
         "url": "https://github.com/dakk/qlasskit/issues/26",
         "value": 100
@@ -1540,7 +1542,7 @@
     "emoji": "\u2699\ufe0f",
     "name": "qlasskit",
     "num_bounties": 5,
-    "num_open_bounties": 3,
+    "num_open_bounties": 2,
     "total_amount": 425,
     "url": "https://github.com/dakk/qlasskit"
   },
@@ -2219,7 +2221,8 @@
       },
       {
         "assignees": [
-          "anonymousr007"
+          "anonymousr007",
+          "Gopal-Dahale"
         ],
         "state": "open",
         "title": "Adding new examples and algorithms for TQ",

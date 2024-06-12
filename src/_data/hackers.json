@@ -414,6 +414,12 @@
     "username": "tomv42",
     "bounties": [
       {
+        "url": "https://github.com/dakk/qlasskit/issues/26",
+        "title": "py2qasm cli tool",
+        "project": "qlasskit",
+        "value": 100
+      },
+      {
         "url": "https://github.com/dakk/qlasskit/issues/28",
         "title": "py2bexp bool expressions exporter",
         "project": "qlasskit",
@@ -427,7 +433,7 @@
       }
     ],
     "num_projects": 1,
-    "total_value": 150
+    "total_value": 250
   },
   {
     "username": "Gopal-Dahale",
