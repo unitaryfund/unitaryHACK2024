@@ -22,6 +22,12 @@
         "value": 80
       },
       {
+        "url": "https://github.com/quantumlib/Cirq/issues/4691",
+        "title": "Add an option to highlight a subset of qubits in cirq.Heatmap ",
+        "project": "cirq",
+        "value": 100
+      },
+      {
         "url": "https://github.com/amazon-braket/autoqasm/issues/13",
         "title": "Automatically determine dimensions for `aq.ArrayVar` declaration",
         "project": "autoqasm",
@@ -40,8 +46,8 @@
         "value": 150
       }
     ],
-    "num_projects": 4,
-    "total_value": 370
+    "num_projects": 5,
+    "total_value": 470
   },
   {
     "username": "anushkrishnav",
@@ -156,6 +162,25 @@
     "total_value": 240
   },
   {
+    "username": "maxwell04-wq",
+    "bounties": [
+      {
+        "url": "https://github.com/aarontrowbridge/QuantumCollocation.jl/issues/85",
+        "title": "[Feature]: interface with QuantumOptics.jl",
+        "project": "piccolo.jl",
+        "value": 50
+      },
+      {
+        "url": "https://github.com/Qiskit/rustworkx/issues/774",
+        "title": "`mpl_draw()` does not work for multigraphs",
+        "project": "rustworkx",
+        "value": 75
+      }
+    ],
+    "num_projects": 2,
+    "total_value": 125
+  },
+  {
     "username": "ErikQQY",
     "bounties": [
       {
@@ -254,7 +279,7 @@
     "total_value": 1055
   },
   {
-    "username": "0mWh",
+    "username": "schance995",
     "bounties": [
       {
         "url": "https://github.com/dorahacksglobal/qc-classifier/issues/1",
@@ -267,7 +292,7 @@
     "total_value": 75
   },
   {
-    "username": "schance995",
+    "username": "0mWh",
     "bounties": [
       {
         "url": "https://github.com/dorahacksglobal/qc-classifier/issues/1",
@@ -316,19 +341,6 @@
     ],
     "num_projects": 3,
     "total_value": 330
-  },
-  {
-    "username": "maxwell04-wq",
-    "bounties": [
-      {
-        "url": "https://github.com/Qiskit/rustworkx/issues/774",
-        "title": "`mpl_draw()` does not work for multigraphs",
-        "project": "rustworkx",
-        "value": 75
-      }
-    ],
-    "num_projects": 1,
-    "total_value": 75
   },
   {
     "username": "rodolfocarobene",
@@ -580,7 +592,7 @@
     "total_value": 100
   },
   {
-    "username": "abidart",
+    "username": "daredevil3435",
     "bounties": [
       {
         "url": "https://github.com/amazon-braket/autoqasm/issues/9",
@@ -593,7 +605,7 @@
     "total_value": 25
   },
   {
-    "username": "daredevil3435",
+    "username": "abidart",
     "bounties": [
       {
         "url": "https://github.com/amazon-braket/autoqasm/issues/9",

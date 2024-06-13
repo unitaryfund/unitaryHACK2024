@@ -125,8 +125,8 @@
     "bounties": [
       {
         "assignees": [
-          "abidart",
-          "daredevil3435"
+          "daredevil3435",
+          "abidart"
         ],
         "state": "closed",
         "title": "Support integer division with `//` operator",
@@ -375,7 +375,7 @@
     "url": "https://github.com/amazon-braket/BraketSimulator.jl"
   },
   "cirq": {
-    "amount_available": 400,
+    "amount_available": 300,
     "bounties": [
       {
         "assignees": [],
@@ -411,9 +411,9 @@
       },
       {
         "assignees": [
-          "kris524"
+          "Yash-10"
         ],
-        "state": "open",
+        "state": "closed",
         "title": "Add an option to highlight a subset of qubits in cirq.Heatmap ",
         "url": "https://github.com/quantumlib/Cirq/issues/4691",
         "value": 100
@@ -422,7 +422,7 @@
     "emoji": null,
     "name": "Cirq",
     "num_bounties": 5,
-    "num_open_bounties": 4,
+    "num_open_bounties": 3,
     "total_amount": 500,
     "url": "https://github.com/quantumlib/Cirq"
   },
@@ -1046,8 +1046,8 @@
     "bounties": [
       {
         "assignees": [
-          "burlemarxiste",
-          "maxwell04-wq"
+          "maxwell04-wq",
+          "burlemarxiste"
         ],
         "state": "open",
         "title": "QASM to linear optics circuit converter",
@@ -1079,7 +1079,7 @@
     "url": "https://github.com/Quandela/Perceval"
   },
   "piccolo.jl": {
-    "amount_available": 300,
+    "amount_available": 250,
     "bounties": [
       {
         "assignees": [
@@ -1094,7 +1094,7 @@
         "assignees": [
           "maxwell04-wq"
         ],
-        "state": "open",
+        "state": "closed",
         "title": "[Feature]: interface with QuantumOptics.jl",
         "url": "https://github.com/aarontrowbridge/QuantumCollocation.jl/issues/85",
         "value": 50
@@ -1139,7 +1139,7 @@
     "emoji": null,
     "name": "Piccolo.jl",
     "num_bounties": 6,
-    "num_open_bounties": 3,
+    "num_open_bounties": 2,
     "total_amount": 500,
     "url": "https://github.com/aarontrowbridge/Piccolo.jl"
   },
@@ -1347,8 +1347,8 @@
     "bounties": [
       {
         "assignees": [
-          "0mWh",
-          "schance995"
+          "schance995",
+          "0mWh"
         ],
         "state": "closed",
         "title": "QRNG Classifier Preprocessing Functions Improvements",
@@ -2006,8 +2006,8 @@
       },
       {
         "assignees": [
-          "Roshan-Thomas",
-          "ahkatlio"
+          "ahkatlio",
+          "Roshan-Thomas"
         ],
         "state": "closed",
         "title": "Adding code documentation",
