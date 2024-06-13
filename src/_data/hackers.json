@@ -279,7 +279,7 @@
     "total_value": 1055
   },
   {
-    "username": "0mWh",
+    "username": "schance995",
     "bounties": [
       {
         "url": "https://github.com/dorahacksglobal/qc-classifier/issues/1",
@@ -292,7 +292,7 @@
     "total_value": 75
   },
   {
-    "username": "schance995",
+    "username": "0mWh",
     "bounties": [
       {
         "url": "https://github.com/dorahacksglobal/qc-classifier/issues/1",
@@ -768,6 +768,19 @@
     ],
     "num_projects": 2,
     "total_value": 400
+  },
+  {
+    "username": "Qubit1718",
+    "bounties": [
+      {
+        "url": "https://github.com/Classiq/classiq-library/issues/41",
+        "title": "Add examples and insights that demonstrates Classiq's HW-aware synthesis capability ",
+        "project": "classiq-library",
+        "value": 150
+      }
+    ],
+    "num_projects": 1,
+    "total_value": 150
   },
   {
     "username": "shravanpatel30",
