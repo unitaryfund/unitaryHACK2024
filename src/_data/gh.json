@@ -125,8 +125,8 @@
     "bounties": [
       {
         "assignees": [
-          "abidart",
-          "daredevil3435"
+          "daredevil3435",
+          "abidart"
         ],
         "state": "closed",
         "title": "Support integer division with `//` operator",
@@ -592,8 +592,8 @@
     "bounties": [
       {
         "assignees": [
-          "AbdullahKazi500",
-          "Barnald"
+          "Barnald",
+          "AbdullahKazi500"
         ],
         "state": "closed",
         "title": "Application of tensor-network MBQC simulation",
@@ -1353,8 +1353,8 @@
     "bounties": [
       {
         "assignees": [
-          "0mWh",
-          "schance995"
+          "schance995",
+          "0mWh"
         ],
         "state": "closed",
         "title": "QRNG Classifier Preprocessing Functions Improvements",
@@ -2018,8 +2018,8 @@
       },
       {
         "assignees": [
-          "ahkatlio",
-          "Roshan-Thomas"
+          "Roshan-Thomas",
+          "ahkatlio"
         ],
         "state": "closed",
         "title": "Adding code documentation",
@@ -2113,8 +2113,8 @@
       },
       {
         "assignees": [
-          "AbdullahKazi500",
-          "king-p3nguin"
+          "king-p3nguin",
+          "AbdullahKazi500"
         ],
         "state": "open",
         "title": "Stabilizer simulation example utilizing stim backend",
