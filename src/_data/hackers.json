@@ -239,6 +239,12 @@
         "value": 100
       },
       {
+        "url": "https://github.com/mit-han-lab/torchquantum/issues/263",
+        "title": "Supporting Additional Features for tq2qiskit and qiskit2tq",
+        "project": "torchquantum",
+        "value": 100
+      },
+      {
         "url": "https://github.com/unitaryfund/mitiq/issues/2161",
         "title": "Test circuit conversion time for large non-cirq circuits",
         "project": "mitiq",
@@ -276,10 +282,10 @@
       }
     ],
     "num_projects": 9,
-    "total_value": 1055
+    "total_value": 1155
   },
   {
-    "username": "schance995",
+    "username": "0mWh",
     "bounties": [
       {
         "url": "https://github.com/dorahacksglobal/qc-classifier/issues/1",
@@ -292,7 +298,7 @@
     "total_value": 75
   },
   {
-    "username": "0mWh",
+    "username": "schance995",
     "bounties": [
       {
         "url": "https://github.com/dorahacksglobal/qc-classifier/issues/1",
@@ -333,14 +339,26 @@
         "value": 55
       },
       {
+        "url": "https://github.com/mit-han-lab/torchquantum/issues/260",
+        "title": "Enhance the Pulse-Level Simulation",
+        "project": "torchquantum",
+        "value": 100
+      },
+      {
+        "url": "https://github.com/mit-han-lab/torchquantum/issues/264",
+        "title": "Adding new examples and algorithms for TQ",
+        "project": "torchquantum",
+        "value": 50
+      },
+      {
         "url": "https://github.com/iqm-finland/KQCircuits/issues/90",
         "title": "Macro to open a tutorial layout",
         "project": "kqcircuits",
         "value": 75
       }
     ],
-    "num_projects": 3,
-    "total_value": 330
+    "num_projects": 4,
+    "total_value": 480
   },
   {
     "username": "rodolfocarobene",
@@ -542,10 +560,16 @@
         "title": "UnitaryHack Bounty - Research and Implement Sorting Networks with HierarQcal",
         "project": "hierarqcal",
         "value": 150
+      },
+      {
+        "url": "https://github.com/mit-han-lab/torchquantum/issues/264",
+        "title": "Adding new examples and algorithms for TQ",
+        "project": "torchquantum",
+        "value": 50
       }
     ],
-    "num_projects": 2,
-    "total_value": 450
+    "num_projects": 3,
+    "total_value": 500
   },
   {
     "username": "WingCode",
@@ -605,7 +629,7 @@
     "total_value": 125
   },
   {
-    "username": "daredevil3435",
+    "username": "abidart",
     "bounties": [
       {
         "url": "https://github.com/amazon-braket/autoqasm/issues/9",
@@ -618,7 +642,7 @@
     "total_value": 25
   },
   {
-    "username": "abidart",
+    "username": "daredevil3435",
     "bounties": [
       {
         "url": "https://github.com/amazon-braket/autoqasm/issues/9",
@@ -822,6 +846,25 @@
     "total_value": 120
   },
   {
+    "username": "SaashaJoshi",
+    "bounties": [
+      {
+        "url": "https://github.com/mit-han-lab/torchquantum/issues/261",
+        "title": "Develop the TorchQuantum Testing Suite",
+        "project": "torchquantum",
+        "value": 100
+      },
+      {
+        "url": "https://github.com/pasqal-io/qadence/issues/370",
+        "title": "[Enhance] Add 'backend' argument to product_state",
+        "project": "qadence",
+        "value": 100
+      }
+    ],
+    "num_projects": 2,
+    "total_value": 200
+  },
+  {
     "username": "NnguyenHTommy",
     "bounties": [
       {
@@ -898,19 +941,6 @@
     ],
     "num_projects": 1,
     "total_value": 150
-  },
-  {
-    "username": "SaashaJoshi",
-    "bounties": [
-      {
-        "url": "https://github.com/pasqal-io/qadence/issues/370",
-        "title": "[Enhance] Add 'backend' argument to product_state",
-        "project": "qadence",
-        "value": 100
-      }
-    ],
-    "num_projects": 1,
-    "total_value": 100
   },
   {
     "username": "ducthanh1991",
