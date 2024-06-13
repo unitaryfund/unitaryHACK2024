@@ -121,12 +121,12 @@
     "url": "https://github.com/amazon-braket/amazon-braket-sdk-python"
   },
   "autoqasm": {
-    "amount_available": 50,
+    "amount_available": 0,
     "bounties": [
       {
         "assignees": [
-          "daredevil3435",
-          "abidart"
+          "abidart",
+          "daredevil3435"
         ],
         "state": "closed",
         "title": "Support integer division with `//` operator",
@@ -134,8 +134,10 @@
         "value": 50
       },
       {
-        "assignees": [],
-        "state": "open",
+        "assignees": [
+          "abidart"
+        ],
+        "state": "closed",
         "title": "Support arithmetic on measurement results",
         "url": "https://github.com/amazon-braket/autoqasm/issues/10",
         "value": 50
@@ -171,7 +173,7 @@
     "emoji": "\u269b\ufe0f\ud83d\udc0d",
     "name": "AutoQASM",
     "num_bounties": 5,
-    "num_open_bounties": 1,
+    "num_open_bounties": 0,
     "total_amount": 250,
     "url": "https://github.com/amazon-braket/autoqasm"
   },
@@ -590,8 +592,8 @@
     "bounties": [
       {
         "assignees": [
-          "Barnald",
-          "AbdullahKazi500"
+          "AbdullahKazi500",
+          "Barnald"
         ],
         "state": "closed",
         "title": "Application of tensor-network MBQC simulation",
@@ -1050,8 +1052,8 @@
     "bounties": [
       {
         "assignees": [
-          "maxwell04-wq",
-          "burlemarxiste"
+          "burlemarxiste",
+          "maxwell04-wq"
         ],
         "state": "open",
         "title": "QASM to linear optics circuit converter",
@@ -2016,8 +2018,8 @@
       },
       {
         "assignees": [
-          "Roshan-Thomas",
-          "ahkatlio"
+          "ahkatlio",
+          "Roshan-Thomas"
         ],
         "state": "closed",
         "title": "Adding code documentation",
@@ -2111,8 +2113,8 @@
       },
       {
         "assignees": [
-          "king-p3nguin",
-          "AbdullahKazi500"
+          "AbdullahKazi500",
+          "king-p3nguin"
         ],
         "state": "open",
         "title": "Stabilizer simulation example utilizing stim backend",
@@ -2249,8 +2251,8 @@
       },
       {
         "assignees": [
-          "Gopal-Dahale",
-          "AbdullahKazi500"
+          "AbdullahKazi500",
+          "Gopal-Dahale"
         ],
         "state": "closed",
         "title": "Adding new examples and algorithms for TQ",
