@@ -798,7 +798,7 @@
     "url": "https://github.com/CQCL/lambeq"
   },
   "metriq-app": {
-    "amount_available": 250,
+    "amount_available": 150,
     "bounties": [
       {
         "assignees": [],
@@ -834,9 +834,9 @@
       },
       {
         "assignees": [
-          "WrathfulSpatula"
+          "ljcamargo"
         ],
-        "state": "open",
+        "state": "closed",
         "title": "Include markdown rendering on homepage",
         "url": "https://github.com/unitaryfund/metriq-app/issues/878",
         "value": 100
@@ -845,7 +845,7 @@
     "emoji": "\ud83d\udcca",
     "name": "Metriq",
     "num_bounties": 5,
-    "num_open_bounties": 3,
+    "num_open_bounties": 2,
     "total_amount": 500,
     "url": "https://github.com/unitaryfund/metriq-app"
   },
@@ -1509,7 +1509,7 @@
     "url": "https://github.com/qiskit-community/qiskit-braket-provider"
   },
   "qlasskit": {
-    "amount_available": 175,
+    "amount_available": 100,
     "bounties": [
       {
         "assignees": [
@@ -1546,8 +1546,10 @@
         "value": 100
       },
       {
-        "assignees": [],
-        "state": "open",
+        "assignees": [
+          "divshacker"
+        ],
+        "state": "closed",
         "title": "Request for algorithms!",
         "url": "https://github.com/dakk/qlasskit/issues/32",
         "value": 75
@@ -1556,7 +1558,7 @@
     "emoji": "\u2699\ufe0f",
     "name": "qlasskit",
     "num_bounties": 5,
-    "num_open_bounties": 2,
+    "num_open_bounties": 1,
     "total_amount": 425,
     "url": "https://github.com/dakk/qlasskit"
   },
@@ -2109,8 +2111,8 @@
       },
       {
         "assignees": [
-          "king-p3nguin",
-          "AbdullahKazi500"
+          "AbdullahKazi500",
+          "king-p3nguin"
         ],
         "state": "open",
         "title": "Stabilizer simulation example utilizing stim backend",

@@ -541,6 +541,19 @@
     "total_value": 250
   },
   {
+    "username": "divshacker",
+    "bounties": [
+      {
+        "url": "https://github.com/dakk/qlasskit/issues/32",
+        "title": "Request for algorithms!",
+        "project": "qlasskit",
+        "value": 75
+      }
+    ],
+    "num_projects": 1,
+    "total_value": 75
+  },
+  {
     "username": "Gopal-Dahale",
     "bounties": [
       {
@@ -608,6 +621,19 @@
       {
         "url": "https://github.com/unitaryfund/metriq-client/issues/119",
         "title": "Update to pyproject.toml",
+        "project": "metriq-app",
+        "value": 100
+      }
+    ],
+    "num_projects": 1,
+    "total_value": 100
+  },
+  {
+    "username": "ljcamargo",
+    "bounties": [
+      {
+        "url": "https://github.com/unitaryfund/metriq-app/issues/878",
+        "title": "Include markdown rendering on homepage",
         "project": "metriq-app",
         "value": 100
       }
