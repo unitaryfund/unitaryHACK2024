@@ -13,11 +13,11 @@ tags:
   - Quantum Simulation
   - Pulse
 bounties:
-  - issue_num: 957
-    value: 200
-  - issue_num: 876
-    value: 200
-  - issue_num: 741
+  - issue_num: 986
+    value: 40
+  - issue_num: 987
+    value: 72
+  - issue_num: 988
     value: 20
 ---
 
