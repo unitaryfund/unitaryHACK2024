@@ -586,8 +586,8 @@
     "bounties": [
       {
         "assignees": [
-          "AbdullahKazi500",
-          "Barnald"
+          "Barnald",
+          "AbdullahKazi500"
         ],
         "state": "closed",
         "title": "Application of tensor-network MBQC simulation",
@@ -640,7 +640,7 @@
       {
         "assignees": [],
         "state": "open",
-        "title": "UnitaryHack Bounty - Quantum Circuit Tutorial: Modular Addition and Subtraction using HierarQcal",
+        "title": "Quantum Circuit Tutorial: Modular Addition and Subtraction using HierarQcal",
         "url": "https://github.com/matt-lourens/hierarqcal/issues/49",
         "value": 150
       },
@@ -1347,8 +1347,8 @@
     "bounties": [
       {
         "assignees": [
-          "schance995",
-          "0mWh"
+          "0mWh",
+          "schance995"
         ],
         "state": "closed",
         "title": "QRNG Classifier Preprocessing Functions Improvements",
@@ -2103,8 +2103,8 @@
       },
       {
         "assignees": [
-          "king-p3nguin",
-          "AbdullahKazi500"
+          "AbdullahKazi500",
+          "king-p3nguin"
         ],
         "state": "open",
         "title": "Stabilizer simulation example utilizing stim backend",
