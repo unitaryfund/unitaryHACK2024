@@ -279,7 +279,7 @@
     "total_value": 1055
   },
   {
-    "username": "schance995",
+    "username": "0mWh",
     "bounties": [
       {
         "url": "https://github.com/dorahacksglobal/qc-classifier/issues/1",
@@ -292,7 +292,7 @@
     "total_value": 75
   },
   {
-    "username": "0mWh",
+    "username": "schance995",
     "bounties": [
       {
         "url": "https://github.com/dorahacksglobal/qc-classifier/issues/1",
@@ -592,7 +592,20 @@
     "total_value": 100
   },
   {
-    "username": "daredevil3435",
+    "username": "jpacold",
+    "bounties": [
+      {
+        "url": "https://github.com/unitaryfund/qrack/issues/876",
+        "title": "Extend `ZMask()` to `PhaseRootNMask()`",
+        "project": "qrack",
+        "value": 125
+      }
+    ],
+    "num_projects": 1,
+    "total_value": 125
+  },
+  {
+    "username": "abidart",
     "bounties": [
       {
         "url": "https://github.com/amazon-braket/autoqasm/issues/9",
@@ -605,7 +618,7 @@
     "total_value": 25
   },
   {
-    "username": "abidart",
+    "username": "daredevil3435",
     "bounties": [
       {
         "url": "https://github.com/amazon-braket/autoqasm/issues/9",
