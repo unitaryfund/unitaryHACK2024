@@ -125,8 +125,8 @@
     "bounties": [
       {
         "assignees": [
-          "daredevil3435",
-          "abidart"
+          "abidart",
+          "daredevil3435"
         ],
         "state": "closed",
         "title": "Support integer division with `//` operator",
@@ -1052,8 +1052,8 @@
     "bounties": [
       {
         "assignees": [
-          "burlemarxiste",
-          "maxwell04-wq"
+          "maxwell04-wq",
+          "burlemarxiste"
         ],
         "state": "open",
         "title": "QASM to linear optics circuit converter",
@@ -1431,7 +1431,7 @@
     "url": "https://github.com/Qiskit/qiskit/"
   },
   "qiskit-aer": {
-    "amount_available": 500,
+    "amount_available": 440,
     "bounties": [
       {
         "assignees": [],
@@ -1465,7 +1465,7 @@
         "assignees": [
           "divshacker"
         ],
-        "state": "open",
+        "state": "closed",
         "title": "Update documents and tutorials",
         "url": "https://github.com/Qiskit/qiskit-aer/issues/2114",
         "value": 60
@@ -1474,7 +1474,7 @@
     "emoji": "\ud83c\udf10\ud83d\udca8",
     "name": "Qiskit Aer",
     "num_bounties": 5,
-    "num_open_bounties": 5,
+    "num_open_bounties": 4,
     "total_amount": 500,
     "url": "https://github.com/Qiskit/qiskit-aer"
   },
@@ -2020,8 +2020,8 @@
       },
       {
         "assignees": [
-          "Roshan-Thomas",
-          "ahkatlio"
+          "ahkatlio",
+          "Roshan-Thomas"
         ],
         "state": "closed",
         "title": "Adding code documentation",
@@ -2102,7 +2102,7 @@
     "url": "https://github.com/goodchemistryco/Tangelo"
   },
   "tensorcircuit": {
-    "amount_available": 150,
+    "amount_available": 0,
     "bounties": [
       {
         "assignees": [
@@ -2115,10 +2115,10 @@
       },
       {
         "assignees": [
-          "king-p3nguin",
-          "AbdullahKazi500"
+          "AbdullahKazi500",
+          "king-p3nguin"
         ],
-        "state": "open",
+        "state": "closed",
         "title": "Stabilizer simulation example utilizing stim backend",
         "url": "https://github.com/tencent-quantum-lab/tensorcircuit/issues/211",
         "value": 150
@@ -2145,7 +2145,7 @@
     "emoji": "\ud83d\ude80\ud83c\udf14",
     "name": "TensorCircuit",
     "num_bounties": 4,
-    "num_open_bounties": 1,
+    "num_open_bounties": 0,
     "total_amount": 500,
     "url": "https://github.com/tencent-quantum-lab/tensorcircuit"
   },
@@ -2253,8 +2253,8 @@
       },
       {
         "assignees": [
-          "Gopal-Dahale",
-          "AbdullahKazi500"
+          "AbdullahKazi500",
+          "Gopal-Dahale"
         ],
         "state": "closed",
         "title": "Adding new examples and algorithms for TQ",

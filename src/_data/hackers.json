@@ -1,5 +1,24 @@
 [
   {
+    "username": "divshacker",
+    "bounties": [
+      {
+        "url": "https://github.com/Qiskit/qiskit-aer/issues/2114",
+        "title": "Update documents and tutorials",
+        "project": "qiskit-aer",
+        "value": 60
+      },
+      {
+        "url": "https://github.com/dakk/qlasskit/issues/32",
+        "title": "Request for algorithms!",
+        "project": "qlasskit",
+        "value": 75
+      }
+    ],
+    "num_projects": 2,
+    "total_value": 135
+  },
+  {
     "username": "tnemoz",
     "bounties": [
       {
@@ -215,6 +234,12 @@
         "value": 100
       },
       {
+        "url": "https://github.com/tencent-quantum-lab/tensorcircuit/issues/211",
+        "title": "Stabilizer simulation example utilizing stim backend",
+        "project": "tensorcircuit",
+        "value": 75
+      },
+      {
         "url": "https://github.com/tencent-quantum-lab/tensorcircuit/issues/161",
         "title": "Backend agnostic implementation of quantum Hamiltonian generation",
         "project": "tensorcircuit",
@@ -282,7 +307,7 @@
       }
     ],
     "num_projects": 9,
-    "total_value": 1155
+    "total_value": 1230
   },
   {
     "username": "schance995",
@@ -339,6 +364,12 @@
         "value": 55
       },
       {
+        "url": "https://github.com/tencent-quantum-lab/tensorcircuit/issues/211",
+        "title": "Stabilizer simulation example utilizing stim backend",
+        "project": "tensorcircuit",
+        "value": 75
+      },
+      {
         "url": "https://github.com/mit-han-lab/torchquantum/issues/260",
         "title": "Enhance the Pulse-Level Simulation",
         "project": "torchquantum",
@@ -357,8 +388,8 @@
         "value": 75
       }
     ],
-    "num_projects": 4,
-    "total_value": 480
+    "num_projects": 5,
+    "total_value": 555
   },
   {
     "username": "rodolfocarobene",
@@ -541,19 +572,6 @@
     "total_value": 250
   },
   {
-    "username": "divshacker",
-    "bounties": [
-      {
-        "url": "https://github.com/dakk/qlasskit/issues/32",
-        "title": "Request for algorithms!",
-        "project": "qlasskit",
-        "value": 75
-      }
-    ],
-    "num_projects": 1,
-    "total_value": 75
-  },
-  {
     "username": "Gopal-Dahale",
     "bounties": [
       {
@@ -655,19 +673,6 @@
     "total_value": 125
   },
   {
-    "username": "daredevil3435",
-    "bounties": [
-      {
-        "url": "https://github.com/amazon-braket/autoqasm/issues/9",
-        "title": "Support integer division with `//` operator",
-        "project": "autoqasm",
-        "value": 25
-      }
-    ],
-    "num_projects": 1,
-    "total_value": 25
-  },
-  {
     "username": "abidart",
     "bounties": [
       {
@@ -685,6 +690,19 @@
     ],
     "num_projects": 1,
     "total_value": 75
+  },
+  {
+    "username": "daredevil3435",
+    "bounties": [
+      {
+        "url": "https://github.com/amazon-braket/autoqasm/issues/9",
+        "title": "Support integer division with `//` operator",
+        "project": "autoqasm",
+        "value": 25
+      }
+    ],
+    "num_projects": 1,
+    "total_value": 25
   },
   {
     "username": "atharva-satpute",
