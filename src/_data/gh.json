@@ -178,35 +178,35 @@
     "url": "https://github.com/amazon-braket/autoqasm"
   },
   "bloqade-python": {
-    "amount_available": 400,
+    "amount_available": 0,
     "bounties": [
       {
         "assignees": [],
-        "state": "open",
-        "title": "improve docstrings",
-        "url": "https://github.com/QuEraComputing/bloqade-python/issues/957",
-        "value": 200
-      },
-      {
-        "assignees": [],
-        "state": "open",
-        "title": "add more plots and explaination in line with whitepaper in tutorial examples",
-        "url": "https://github.com/QuEraComputing/bloqade-python/issues/876",
-        "value": 200
+        "state": "closed",
+        "title": "unitaryhack tracking issue for @shubhusion",
+        "url": "https://github.com/QuEraComputing/bloqade-python/issues/986",
+        "value": 40
       },
       {
         "assignees": [],
         "state": "closed",
-        "title": "Improve documentation on Batch tasks. ",
-        "url": "https://github.com/QuEraComputing/bloqade-python/issues/741",
+        "title": "unitaryhack tracking issue by Manvi-Agrawal",
+        "url": "https://github.com/QuEraComputing/bloqade-python/issues/987",
+        "value": 72
+      },
+      {
+        "assignees": [],
+        "state": "closed",
+        "title": "unitary hack tracking issue for qmanning4",
+        "url": "https://github.com/QuEraComputing/bloqade-python/issues/988",
         "value": 20
       }
     ],
     "emoji": "\u269b\ufe0f",
     "name": "bloqade-python",
     "num_bounties": 3,
-    "num_open_bounties": 2,
-    "total_amount": 420,
+    "num_open_bounties": 0,
+    "total_amount": 132,
     "url": "https://github.com/QuEraComputing/bloqade-python"
   },
   "bqskit": {
@@ -592,8 +592,8 @@
     "bounties": [
       {
         "assignees": [
-          "AbdullahKazi500",
-          "Barnald"
+          "Barnald",
+          "AbdullahKazi500"
         ],
         "state": "closed",
         "title": "Application of tensor-network MBQC simulation",
@@ -800,7 +800,7 @@
     "url": "https://github.com/CQCL/lambeq"
   },
   "metriq-app": {
-    "amount_available": 150,
+    "amount_available": 100,
     "bounties": [
       {
         "assignees": [],
@@ -810,8 +810,10 @@
         "value": 100
       },
       {
-        "assignees": [],
-        "state": "open",
+        "assignees": [
+          "WingCode"
+        ],
+        "state": "closed",
         "title": "Prepopulate result dates in \"Add Submission\" workflow",
         "url": "https://github.com/unitaryfund/metriq-app/issues/880",
         "value": 50
@@ -847,7 +849,7 @@
     "emoji": "\ud83d\udcca",
     "name": "Metriq",
     "num_bounties": 5,
-    "num_open_bounties": 2,
+    "num_open_bounties": 1,
     "total_amount": 500,
     "url": "https://github.com/unitaryfund/metriq-app"
   },
@@ -1353,8 +1355,8 @@
     "bounties": [
       {
         "assignees": [
-          "schance995",
-          "0mWh"
+          "0mWh",
+          "schance995"
         ],
         "state": "closed",
         "title": "QRNG Classifier Preprocessing Functions Improvements",
@@ -2020,8 +2022,8 @@
       },
       {
         "assignees": [
-          "ahkatlio",
-          "Roshan-Thomas"
+          "Roshan-Thomas",
+          "ahkatlio"
         ],
         "state": "closed",
         "title": "Adding code documentation",
@@ -2253,8 +2255,8 @@
       },
       {
         "assignees": [
-          "Gopal-Dahale",
-          "AbdullahKazi500"
+          "AbdullahKazi500",
+          "Gopal-Dahale"
         ],
         "state": "closed",
         "title": "Adding new examples and algorithms for TQ",

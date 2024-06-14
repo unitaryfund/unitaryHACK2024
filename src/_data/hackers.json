@@ -310,7 +310,7 @@
     "total_value": 1230
   },
   {
-    "username": "schance995",
+    "username": "0mWh",
     "bounties": [
       {
         "url": "https://github.com/dorahacksglobal/qc-classifier/issues/1",
@@ -323,7 +323,7 @@
     "total_value": 75
   },
   {
-    "username": "0mWh",
+    "username": "schance995",
     "bounties": [
       {
         "url": "https://github.com/dorahacksglobal/qc-classifier/issues/1",
@@ -606,6 +606,12 @@
     "username": "WingCode",
     "bounties": [
       {
+        "url": "https://github.com/unitaryfund/metriq-app/issues/880",
+        "title": "Prepopulate result dates in \"Add Submission\" workflow",
+        "project": "metriq-app",
+        "value": 50
+      },
+      {
         "url": "https://github.com/unitaryfund/metriq-app/issues/851",
         "title": "Metriq freezes from mobile browser",
         "project": "metriq-app",
@@ -631,7 +637,7 @@
       }
     ],
     "num_projects": 4,
-    "total_value": 490
+    "total_value": 540
   },
   {
     "username": "AVDiv",
