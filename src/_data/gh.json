@@ -592,8 +592,8 @@
     "bounties": [
       {
         "assignees": [
-          "Barnald",
-          "AbdullahKazi500"
+          "AbdullahKazi500",
+          "Barnald"
         ],
         "state": "closed",
         "title": "Application of tensor-network MBQC simulation",
@@ -1355,8 +1355,8 @@
     "bounties": [
       {
         "assignees": [
-          "0mWh",
-          "schance995"
+          "schance995",
+          "0mWh"
         ],
         "state": "closed",
         "title": "QRNG Classifier Preprocessing Functions Improvements",
@@ -1658,13 +1658,13 @@
     "url": "https://github.com/unitaryfund/qrack"
   },
   "qsharp": {
-    "amount_available": 330,
+    "amount_available": 270,
     "bounties": [
       {
         "assignees": [
           "nirajvenkat"
         ],
-        "state": "open",
+        "state": "closed",
         "title": "Add ability to save the Resource Estimator space-time diagram as a file (png/jpg/svg)",
         "url": "https://github.com/microsoft/qsharp/issues/1063",
         "value": 60
@@ -1712,7 +1712,7 @@
     "emoji": null,
     "name": "Azure Quantum Development Kit",
     "num_bounties": 6,
-    "num_open_bounties": 4,
+    "num_open_bounties": 3,
     "total_amount": 500,
     "url": "https://github.com/microsoft/qsharp"
   },

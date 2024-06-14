@@ -310,7 +310,7 @@
     "total_value": 1230
   },
   {
-    "username": "0mWh",
+    "username": "schance995",
     "bounties": [
       {
         "url": "https://github.com/dorahacksglobal/qc-classifier/issues/1",
@@ -323,7 +323,7 @@
     "total_value": 75
   },
   {
-    "username": "schance995",
+    "username": "0mWh",
     "bounties": [
       {
         "url": "https://github.com/dorahacksglobal/qc-classifier/issues/1",
@@ -409,6 +409,19 @@
     ],
     "num_projects": 2,
     "total_value": 170
+  },
+  {
+    "username": "nirajvenkat",
+    "bounties": [
+      {
+        "url": "https://github.com/microsoft/qsharp/issues/1063",
+        "title": "Add ability to save the Resource Estimator space-time diagram as a file (png/jpg/svg)",
+        "project": "qsharp",
+        "value": 60
+      }
+    ],
+    "num_projects": 1,
+    "total_value": 60
   },
   {
     "username": "Manvi-Agrawal",
