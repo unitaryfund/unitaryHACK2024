@@ -125,8 +125,8 @@
     "bounties": [
       {
         "assignees": [
-          "abidart",
-          "daredevil3435"
+          "daredevil3435",
+          "abidart"
         ],
         "state": "closed",
         "title": "Support integer division with `//` operator",
@@ -594,8 +594,8 @@
     "bounties": [
       {
         "assignees": [
-          "AbdullahKazi500",
-          "Barnald"
+          "Barnald",
+          "AbdullahKazi500"
         ],
         "state": "closed",
         "title": "Application of tensor-network MBQC simulation",
@@ -1056,8 +1056,8 @@
     "bounties": [
       {
         "assignees": [
-          "burlemarxiste",
-          "maxwell04-wq"
+          "maxwell04-wq",
+          "burlemarxiste"
         ],
         "state": "open",
         "title": "QASM to linear optics circuit converter",
@@ -1357,8 +1357,8 @@
     "bounties": [
       {
         "assignees": [
-          "0mWh",
-          "schance995"
+          "schance995",
+          "0mWh"
         ],
         "state": "closed",
         "title": "QRNG Classifier Preprocessing Functions Improvements",
@@ -2024,8 +2024,8 @@
       },
       {
         "assignees": [
-          "ahkatlio",
-          "Roshan-Thomas"
+          "Roshan-Thomas",
+          "ahkatlio"
         ],
         "state": "closed",
         "title": "Adding code documentation",
