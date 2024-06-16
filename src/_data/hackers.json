@@ -100,10 +100,16 @@
         "title": "[BUG] `Circuit.draw()` returns an error when gate parameter is a string",
         "project": "tangelo",
         "value": 50
+      },
+      {
+        "url": "https://github.com/scqubits/scqubits/issues/219",
+        "title": "Enhancement of the `plot_transitions()` method",
+        "project": "scqubits",
+        "value": 75
       }
     ],
-    "num_projects": 4,
-    "total_value": 405
+    "num_projects": 5,
+    "total_value": 480
   },
   {
     "username": "golanor",
@@ -692,6 +698,19 @@
     "total_value": 125
   },
   {
+    "username": "daredevil3435",
+    "bounties": [
+      {
+        "url": "https://github.com/amazon-braket/autoqasm/issues/9",
+        "title": "Support integer division with `//` operator",
+        "project": "autoqasm",
+        "value": 25
+      }
+    ],
+    "num_projects": 1,
+    "total_value": 25
+  },
+  {
     "username": "abidart",
     "bounties": [
       {
@@ -709,19 +728,6 @@
     ],
     "num_projects": 1,
     "total_value": 75
-  },
-  {
-    "username": "daredevil3435",
-    "bounties": [
-      {
-        "url": "https://github.com/amazon-braket/autoqasm/issues/9",
-        "title": "Support integer division with `//` operator",
-        "project": "autoqasm",
-        "value": 25
-      }
-    ],
-    "num_projects": 1,
-    "total_value": 25
   },
   {
     "username": "atharva-satpute",

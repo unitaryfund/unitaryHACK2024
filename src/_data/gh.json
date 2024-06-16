@@ -125,8 +125,8 @@
     "bounties": [
       {
         "assignees": [
-          "abidart",
-          "daredevil3435"
+          "daredevil3435",
+          "abidart"
         ],
         "state": "closed",
         "title": "Support integer division with `//` operator",
@@ -594,8 +594,8 @@
     "bounties": [
       {
         "assignees": [
-          "AbdullahKazi500",
-          "Barnald"
+          "Barnald",
+          "AbdullahKazi500"
         ],
         "state": "closed",
         "title": "Application of tensor-network MBQC simulation",
@@ -1984,7 +1984,7 @@
     "url": "https://github.com/Qiskit/rustworkx"
   },
   "scqubits": {
-    "amount_available": 200,
+    "amount_available": 125,
     "bounties": [
       {
         "assignees": [
@@ -1997,9 +1997,9 @@
       },
       {
         "assignees": [
-          "petergthatsme"
+          "anushkrishnav"
         ],
-        "state": "open",
+        "state": "closed",
         "title": "Enhancement of the `plot_transitions()` method",
         "url": "https://github.com/scqubits/scqubits/issues/219",
         "value": 75
@@ -2036,7 +2036,7 @@
     "emoji": "\ud83d\udce1",
     "name": "scqubits",
     "num_bounties": 5,
-    "num_open_bounties": 2,
+    "num_open_bounties": 1,
     "total_amount": 500,
     "url": "https://github.com/scqubits/scqubits"
   },
