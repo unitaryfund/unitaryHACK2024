@@ -1357,8 +1357,8 @@
     "bounties": [
       {
         "assignees": [
-          "schance995",
-          "0mWh"
+          "0mWh",
+          "schance995"
         ],
         "state": "closed",
         "title": "QRNG Classifier Preprocessing Functions Improvements",
@@ -2024,8 +2024,8 @@
       },
       {
         "assignees": [
-          "Roshan-Thomas",
-          "ahkatlio"
+          "ahkatlio",
+          "Roshan-Thomas"
         ],
         "state": "closed",
         "title": "Adding code documentation",
@@ -2119,8 +2119,8 @@
       },
       {
         "assignees": [
-          "AbdullahKazi500",
-          "king-p3nguin"
+          "king-p3nguin",
+          "AbdullahKazi500"
         ],
         "state": "closed",
         "title": "Stabilizer simulation example utilizing stim backend",
