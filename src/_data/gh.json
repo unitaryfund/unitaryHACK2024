@@ -183,7 +183,9 @@
     "amount_available": 0,
     "bounties": [
       {
-        "assignees": [],
+        "assignees": [
+          "shubhusion"
+        ],
         "state": "closed",
         "title": "unitaryhack tracking issue for @shubhusion",
         "url": "https://github.com/QuEraComputing/bloqade-python/issues/986",
@@ -2026,8 +2028,8 @@
       },
       {
         "assignees": [
-          "ahkatlio",
-          "Roshan-Thomas"
+          "Roshan-Thomas",
+          "ahkatlio"
         ],
         "state": "closed",
         "title": "Adding code documentation",
@@ -2121,8 +2123,8 @@
       },
       {
         "assignees": [
-          "king-p3nguin",
-          "AbdullahKazi500"
+          "AbdullahKazi500",
+          "king-p3nguin"
         ],
         "state": "closed",
         "title": "Stabilizer simulation example utilizing stim backend",

@@ -685,6 +685,19 @@
     "total_value": 100
   },
   {
+    "username": "shubhusion",
+    "bounties": [
+      {
+        "url": "https://github.com/QuEraComputing/bloqade-python/issues/986",
+        "title": "unitaryhack tracking issue for @shubhusion",
+        "project": "bloqade-python",
+        "value": 40
+      }
+    ],
+    "num_projects": 1,
+    "total_value": 40
+  },
+  {
     "username": "jpacold",
     "bounties": [
       {
