@@ -596,8 +596,8 @@
     "bounties": [
       {
         "assignees": [
-          "Barnald",
-          "AbdullahKazi500"
+          "AbdullahKazi500",
+          "Barnald"
         ],
         "state": "closed",
         "title": "Application of tensor-network MBQC simulation",
@@ -1058,8 +1058,8 @@
     "bounties": [
       {
         "assignees": [
-          "maxwell04-wq",
-          "burlemarxiste"
+          "burlemarxiste",
+          "maxwell04-wq"
         ],
         "state": "open",
         "title": "QASM to linear optics circuit converter",
@@ -1359,8 +1359,8 @@
     "bounties": [
       {
         "assignees": [
-          "0mWh",
-          "schance995"
+          "schance995",
+          "0mWh"
         ],
         "state": "closed",
         "title": "QRNG Classifier Preprocessing Functions Improvements",
@@ -2026,8 +2026,8 @@
       },
       {
         "assignees": [
-          "Roshan-Thomas",
-          "ahkatlio"
+          "ahkatlio",
+          "Roshan-Thomas"
         ],
         "state": "closed",
         "title": "Adding code documentation",
@@ -2121,8 +2121,8 @@
       },
       {
         "assignees": [
-          "king-p3nguin",
-          "AbdullahKazi500"
+          "AbdullahKazi500",
+          "king-p3nguin"
         ],
         "state": "closed",
         "title": "Stabilizer simulation example utilizing stim backend",
@@ -2259,8 +2259,8 @@
       },
       {
         "assignees": [
-          "Gopal-Dahale",
-          "AbdullahKazi500"
+          "AbdullahKazi500",
+          "Gopal-Dahale"
         ],
         "state": "closed",
         "title": "Adding new examples and algorithms for TQ",
