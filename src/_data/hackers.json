@@ -181,10 +181,16 @@
         "title": "Support for Braket Direct reservations",
         "project": "braket.jl",
         "value": 120
+      },
+      {
+        "url": "https://github.com/amazon-braket/Braket.jl/issues/82",
+        "title": "Support for symbolic expressions in FreeParameters",
+        "project": "braket.jl",
+        "value": 70
       }
     ],
     "num_projects": 2,
-    "total_value": 240
+    "total_value": 310
   },
   {
     "username": "maxwell04-wq",
@@ -223,6 +229,37 @@
     ],
     "num_projects": 1,
     "total_value": 150
+  },
+  {
+    "username": "Manvi-Agrawal",
+    "bounties": [
+      {
+        "url": "https://github.com/amazon-braket/amazon-braket-sdk-python/issues/974",
+        "title": "Support for adding barriers and delays to `Circuit`",
+        "project": "amazon-braket-sdk-python",
+        "value": 130
+      },
+      {
+        "url": "https://github.com/microsoft/qsharp/issues/1212",
+        "title": "Add three qubit `AND` operation to public API",
+        "project": "qsharp",
+        "value": 70
+      },
+      {
+        "url": "https://github.com/microsoft/qsharp/issues/1471",
+        "title": "Lint rule: `operation`s that don't manipulate quantum state can be `function`s instead",
+        "project": "qsharp",
+        "value": 100
+      },
+      {
+        "url": "https://github.com/QuEraComputing/bloqade-python/issues/987",
+        "title": "unitaryhack tracking issue by Manvi-Agrawal",
+        "project": "bloqade-python",
+        "value": 72
+      }
+    ],
+    "num_projects": 3,
+    "total_value": 372
   },
   {
     "username": "Tarun-Kumar07",
@@ -478,31 +515,6 @@
     ],
     "num_projects": 1,
     "total_value": 60
-  },
-  {
-    "username": "Manvi-Agrawal",
-    "bounties": [
-      {
-        "url": "https://github.com/microsoft/qsharp/issues/1212",
-        "title": "Add three qubit `AND` operation to public API",
-        "project": "qsharp",
-        "value": 70
-      },
-      {
-        "url": "https://github.com/microsoft/qsharp/issues/1471",
-        "title": "Lint rule: `operation`s that don't manipulate quantum state can be `function`s instead",
-        "project": "qsharp",
-        "value": 100
-      },
-      {
-        "url": "https://github.com/QuEraComputing/bloqade-python/issues/987",
-        "title": "unitaryhack tracking issue by Manvi-Agrawal",
-        "project": "bloqade-python",
-        "value": 72
-      }
-    ],
-    "num_projects": 2,
-    "total_value": 242
   },
   {
     "username": "LorenzoFioroni",

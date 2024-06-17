@@ -68,11 +68,13 @@
     "url": "https://github.com/amazon-braket/amazon-braket-pennylane-plugin-python"
   },
   "amazon-braket-sdk-python": {
-    "amount_available": 330,
+    "amount_available": 200,
     "bounties": [
       {
-        "assignees": [],
-        "state": "open",
+        "assignees": [
+          "Manvi-Agrawal"
+        ],
+        "state": "closed",
         "title": "Support for adding barriers and delays to `Circuit`",
         "url": "https://github.com/amazon-braket/amazon-braket-sdk-python/issues/974",
         "value": 130
@@ -120,7 +122,7 @@
     "emoji": "\u269b\ufe0f\ud83d\udcbb",
     "name": "Amazon Braket SDK",
     "num_bounties": 6,
-    "num_open_bounties": 4,
+    "num_open_bounties": 3,
     "total_amount": 490,
     "url": "https://github.com/amazon-braket/amazon-braket-sdk-python"
   },
@@ -282,7 +284,9 @@
         "value": 100
       },
       {
-        "assignees": [],
+        "assignees": [
+          "Fe-r-oz"
+        ],
         "state": "closed",
         "title": "Support for symbolic expressions in FreeParameters",
         "url": "https://github.com/amazon-braket/Braket.jl/issues/82",
@@ -2139,8 +2143,8 @@
       },
       {
         "assignees": [
-          "AbdullahKazi500",
-          "king-p3nguin"
+          "king-p3nguin",
+          "AbdullahKazi500"
         ],
         "state": "closed",
         "title": "Stabilizer simulation example utilizing stim backend",
@@ -2277,8 +2281,8 @@
       },
       {
         "assignees": [
-          "AbdullahKazi500",
-          "Gopal-Dahale"
+          "Gopal-Dahale",
+          "AbdullahKazi500"
         ],
         "state": "closed",
         "title": "Adding new examples and algorithms for TQ",
