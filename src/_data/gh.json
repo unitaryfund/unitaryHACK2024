@@ -203,7 +203,9 @@
         "value": 72
       },
       {
-        "assignees": [],
+        "assignees": [
+          "qmanning4"
+        ],
         "state": "closed",
         "title": "unitary hack tracking issue for qmanning4",
         "url": "https://github.com/QuEraComputing/bloqade-python/issues/988",
@@ -1371,8 +1373,8 @@
     "bounties": [
       {
         "assignees": [
-          "schance995",
-          "0mWh"
+          "0mWh",
+          "schance995"
         ],
         "state": "closed",
         "title": "QRNG Classifier Preprocessing Functions Improvements",
@@ -1757,14 +1759,18 @@
         "value": 75
       },
       {
-        "assignees": [],
+        "assignees": [
+          "Piwakk"
+        ],
         "state": "closed",
         "title": "Create frontend interface",
         "url": "https://github.com/qua-platform/qua-qsim/issues/4",
         "value": 100
       },
       {
-        "assignees": [],
+        "assignees": [
+          "Piwakk"
+        ],
         "state": "closed",
         "title": "Live conversion from QUA to Qiskit simulations",
         "url": "https://github.com/qua-platform/qua-qsim/issues/5",
@@ -2038,8 +2044,8 @@
       },
       {
         "assignees": [
-          "ahkatlio",
-          "Roshan-Thomas"
+          "Roshan-Thomas",
+          "ahkatlio"
         ],
         "state": "closed",
         "title": "Adding code documentation",
@@ -2133,8 +2139,8 @@
       },
       {
         "assignees": [
-          "king-p3nguin",
-          "AbdullahKazi500"
+          "AbdullahKazi500",
+          "king-p3nguin"
         ],
         "state": "closed",
         "title": "Stabilizer simulation example utilizing stim backend",
@@ -2271,8 +2277,8 @@
       },
       {
         "assignees": [
-          "Gopal-Dahale",
-          "AbdullahKazi500"
+          "AbdullahKazi500",
+          "Gopal-Dahale"
         ],
         "state": "closed",
         "title": "Adding new examples and algorithms for TQ",

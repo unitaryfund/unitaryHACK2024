@@ -353,7 +353,7 @@
     "total_value": 1300
   },
   {
-    "username": "schance995",
+    "username": "0mWh",
     "bounties": [
       {
         "url": "https://github.com/dorahacksglobal/qc-classifier/issues/1",
@@ -366,7 +366,7 @@
     "total_value": 75
   },
   {
-    "username": "0mWh",
+    "username": "schance995",
     "bounties": [
       {
         "url": "https://github.com/dorahacksglobal/qc-classifier/issues/1",
@@ -754,6 +754,19 @@
     "total_value": 40
   },
   {
+    "username": "qmanning4",
+    "bounties": [
+      {
+        "url": "https://github.com/QuEraComputing/bloqade-python/issues/988",
+        "title": "unitary hack tracking issue for qmanning4",
+        "project": "bloqade-python",
+        "value": 20
+      }
+    ],
+    "num_projects": 1,
+    "total_value": 20
+  },
+  {
     "username": "jpacold",
     "bounties": [
       {
@@ -816,6 +829,25 @@
     ],
     "num_projects": 1,
     "total_value": 110
+  },
+  {
+    "username": "Piwakk",
+    "bounties": [
+      {
+        "url": "https://github.com/qua-platform/qua-qsim/issues/4",
+        "title": "Create frontend interface",
+        "project": "qua-qsim",
+        "value": 100
+      },
+      {
+        "url": "https://github.com/qua-platform/qua-qsim/issues/5",
+        "title": "Live conversion from QUA to Qiskit simulations",
+        "project": "qua-qsim",
+        "value": 100
+      }
+    ],
+    "num_projects": 1,
+    "total_value": 200
   },
   {
     "username": "cburdine",
