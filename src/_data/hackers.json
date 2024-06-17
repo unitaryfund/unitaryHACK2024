@@ -225,6 +225,37 @@
     "total_value": 150
   },
   {
+    "username": "Tarun-Kumar07",
+    "bounties": [
+      {
+        "url": "https://github.com/amazon-braket/amazon-braket-sdk-python/issues/603",
+        "title": "Error when FreeParameters are named QASM types ",
+        "project": "amazon-braket-sdk-python",
+        "value": 100
+      },
+      {
+        "url": "https://github.com/PennyLaneAI/pennylane/issues/5644",
+        "title": "Improve operator support for new `assert_equal` function: Group 1",
+        "project": "pennylane",
+        "value": 75
+      },
+      {
+        "url": "https://github.com/PennyLaneAI/pennylane/issues/5648",
+        "title": "Improve operator support for new `assert_equal` function: Group 2",
+        "project": "pennylane",
+        "value": 75
+      },
+      {
+        "url": "https://github.com/PennyLaneAI/pennylane/issues/5649",
+        "title": "Add a QutritChannel operation",
+        "project": "pennylane",
+        "value": 125
+      }
+    ],
+    "num_projects": 2,
+    "total_value": 375
+  },
+  {
     "username": "king-p3nguin",
     "bounties": [
       {
@@ -417,6 +448,19 @@
     "total_value": 170
   },
   {
+    "username": "SoshunNaito",
+    "bounties": [
+      {
+        "url": "https://github.com/bqskit/bqskit/issues/224",
+        "title": "Subgraph Isomorphism Checks",
+        "project": "bqskit",
+        "value": 250
+      }
+    ],
+    "num_projects": 1,
+    "total_value": 250
+  },
+  {
     "username": "nirajvenkat",
     "bounties": [
       {
@@ -443,10 +487,16 @@
         "title": "Lint rule: `operation`s that don't manipulate quantum state can be `function`s instead",
         "project": "qsharp",
         "value": 100
+      },
+      {
+        "url": "https://github.com/QuEraComputing/bloqade-python/issues/987",
+        "title": "unitaryhack tracking issue by Manvi-Agrawal",
+        "project": "bloqade-python",
+        "value": 72
       }
     ],
-    "num_projects": 1,
-    "total_value": 170
+    "num_projects": 2,
+    "total_value": 242
   },
   {
     "username": "LorenzoFioroni",
@@ -781,31 +831,6 @@
     "total_value": 200
   },
   {
-    "username": "Tarun-Kumar07",
-    "bounties": [
-      {
-        "url": "https://github.com/PennyLaneAI/pennylane/issues/5644",
-        "title": "Improve operator support for new `assert_equal` function: Group 1",
-        "project": "pennylane",
-        "value": 75
-      },
-      {
-        "url": "https://github.com/PennyLaneAI/pennylane/issues/5648",
-        "title": "Improve operator support for new `assert_equal` function: Group 2",
-        "project": "pennylane",
-        "value": 75
-      },
-      {
-        "url": "https://github.com/PennyLaneAI/pennylane/issues/5649",
-        "title": "Add a QutritChannel operation",
-        "project": "pennylane",
-        "value": 125
-      }
-    ],
-    "num_projects": 1,
-    "total_value": 275
-  },
-  {
     "username": "MashAliK",
     "bounties": [
       {
@@ -825,6 +850,19 @@
         "url": "https://github.com/Quandela/Perceval/issues/207",
         "title": "Heralds out of their box",
         "project": "perceval",
+        "value": 100
+      }
+    ],
+    "num_projects": 1,
+    "total_value": 100
+  },
+  {
+    "username": "YangLiuWillow",
+    "bounties": [
+      {
+        "url": "https://github.com/yuewuo/fusion-blossom/issues/34",
+        "title": "documentation of configuring parallel parameters",
+        "project": "fusion-blossom",
         "value": 100
       }
     ],

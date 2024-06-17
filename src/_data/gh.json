@@ -68,7 +68,7 @@
     "url": "https://github.com/amazon-braket/amazon-braket-pennylane-plugin-python"
   },
   "amazon-braket-sdk-python": {
-    "amount_available": 430,
+    "amount_available": 330,
     "bounties": [
       {
         "assignees": [],
@@ -78,8 +78,10 @@
         "value": 130
       },
       {
-        "assignees": [],
-        "state": "open",
+        "assignees": [
+          "Tarun-Kumar07"
+        ],
+        "state": "closed",
         "title": "Error when FreeParameters are named QASM types ",
         "url": "https://github.com/amazon-braket/amazon-braket-sdk-python/issues/603",
         "value": 100
@@ -118,7 +120,7 @@
     "emoji": "\u269b\ufe0f\ud83d\udcbb",
     "name": "Amazon Braket SDK",
     "num_bounties": 6,
-    "num_open_bounties": 5,
+    "num_open_bounties": 4,
     "total_amount": 490,
     "url": "https://github.com/amazon-braket/amazon-braket-sdk-python"
   },
@@ -192,7 +194,9 @@
         "value": 40
       },
       {
-        "assignees": [],
+        "assignees": [
+          "Manvi-Agrawal"
+        ],
         "state": "closed",
         "title": "unitaryhack tracking issue by Manvi-Agrawal",
         "url": "https://github.com/QuEraComputing/bloqade-python/issues/987",
@@ -214,7 +218,7 @@
     "url": "https://github.com/QuEraComputing/bloqade-python"
   },
   "bqskit": {
-    "amount_available": 500,
+    "amount_available": 250,
     "bounties": [
       {
         "assignees": [],
@@ -231,8 +235,10 @@
         "value": 150
       },
       {
-        "assignees": [],
-        "state": "open",
+        "assignees": [
+          "SoshunNaito"
+        ],
+        "state": "closed",
         "title": "Subgraph Isomorphism Checks",
         "url": "https://github.com/bqskit/bqskit/issues/224",
         "value": 250
@@ -241,7 +247,7 @@
     "emoji": "\ud83c\udf6a",
     "name": "BQSKit",
     "num_bounties": 3,
-    "num_open_bounties": 3,
+    "num_open_bounties": 2,
     "total_amount": 500,
     "url": "https://github.com/bqskit/bqskit"
   },
@@ -546,7 +552,7 @@
     "url": "https://github.com/NVIDIA/cuda-quantum"
   },
   "fusion-blossom": {
-    "amount_available": 450,
+    "amount_available": 350,
     "bounties": [
       {
         "assignees": [],
@@ -570,8 +576,10 @@
         "value": 150
       },
       {
-        "assignees": [],
-        "state": "open",
+        "assignees": [
+          "YangLiuWillow"
+        ],
+        "state": "closed",
         "title": "documentation of configuring parallel parameters",
         "url": "https://github.com/yuewuo/fusion-blossom/issues/34",
         "value": 100
@@ -589,7 +597,7 @@
     "emoji": "\ud83e\udd80\ud83d\udc0d",
     "name": "Fusion Blossom",
     "num_bounties": 5,
-    "num_open_bounties": 4,
+    "num_open_bounties": 3,
     "total_amount": 500,
     "url": "https://github.com/yuewuo/fusion-blossom"
   },
@@ -598,8 +606,8 @@
     "bounties": [
       {
         "assignees": [
-          "AbdullahKazi500",
-          "Barnald"
+          "Barnald",
+          "AbdullahKazi500"
         ],
         "state": "closed",
         "title": "Application of tensor-network MBQC simulation",
@@ -1060,8 +1068,8 @@
     "bounties": [
       {
         "assignees": [
-          "burlemarxiste",
-          "maxwell04-wq"
+          "maxwell04-wq",
+          "burlemarxiste"
         ],
         "state": "open",
         "title": "QASM to linear optics circuit converter",
@@ -2123,8 +2131,8 @@
       },
       {
         "assignees": [
-          "AbdullahKazi500",
-          "king-p3nguin"
+          "king-p3nguin",
+          "AbdullahKazi500"
         ],
         "state": "closed",
         "title": "Stabilizer simulation example utilizing stim backend",
@@ -2261,8 +2269,8 @@
       },
       {
         "assignees": [
-          "AbdullahKazi500",
-          "Gopal-Dahale"
+          "Gopal-Dahale",
+          "AbdullahKazi500"
         ],
         "state": "closed",
         "title": "Adding new examples and algorithms for TQ",
