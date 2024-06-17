@@ -316,7 +316,7 @@
     "total_value": 1230
   },
   {
-    "username": "0mWh",
+    "username": "schance995",
     "bounties": [
       {
         "url": "https://github.com/dorahacksglobal/qc-classifier/issues/1",
@@ -329,7 +329,7 @@
     "total_value": 75
   },
   {
-    "username": "schance995",
+    "username": "0mWh",
     "bounties": [
       {
         "url": "https://github.com/dorahacksglobal/qc-classifier/issues/1",
@@ -698,19 +698,6 @@
     "total_value": 125
   },
   {
-    "username": "daredevil3435",
-    "bounties": [
-      {
-        "url": "https://github.com/amazon-braket/autoqasm/issues/9",
-        "title": "Support integer division with `//` operator",
-        "project": "autoqasm",
-        "value": 25
-      }
-    ],
-    "num_projects": 1,
-    "total_value": 25
-  },
-  {
     "username": "abidart",
     "bounties": [
       {
@@ -728,6 +715,19 @@
     ],
     "num_projects": 1,
     "total_value": 75
+  },
+  {
+    "username": "daredevil3435",
+    "bounties": [
+      {
+        "url": "https://github.com/amazon-braket/autoqasm/issues/9",
+        "title": "Support integer division with `//` operator",
+        "project": "autoqasm",
+        "value": 25
+      }
+    ],
+    "num_projects": 1,
+    "total_value": 25
   },
   {
     "username": "atharva-satpute",
