@@ -341,10 +341,16 @@
         "title": "Support for aliases for openqasm3 to qir",
         "project": "qbraid-qir",
         "value": 75
+      },
+      {
+        "url": "https://github.com/amazon-braket/amazon-braket-pennylane-plugin-python/issues/195",
+        "title": "Support `qml.counts` for circuits",
+        "project": "amazon-braket-pennylane-plugin-python",
+        "value": 70
       }
     ],
-    "num_projects": 9,
-    "total_value": 1230
+    "num_projects": 10,
+    "total_value": 1300
   },
   {
     "username": "schance995",
@@ -761,6 +767,19 @@
     "total_value": 125
   },
   {
+    "username": "daredevil3435",
+    "bounties": [
+      {
+        "url": "https://github.com/amazon-braket/autoqasm/issues/9",
+        "title": "Support integer division with `//` operator",
+        "project": "autoqasm",
+        "value": 25
+      }
+    ],
+    "num_projects": 1,
+    "total_value": 25
+  },
+  {
     "username": "abidart",
     "bounties": [
       {
@@ -778,19 +797,6 @@
     ],
     "num_projects": 1,
     "total_value": 75
-  },
-  {
-    "username": "daredevil3435",
-    "bounties": [
-      {
-        "url": "https://github.com/amazon-braket/autoqasm/issues/9",
-        "title": "Support integer division with `//` operator",
-        "project": "autoqasm",
-        "value": 25
-      }
-    ],
-    "num_projects": 1,
-    "total_value": 25
   },
   {
     "username": "atharva-satpute",

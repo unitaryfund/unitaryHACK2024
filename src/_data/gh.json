@@ -32,7 +32,7 @@
     "url": "https://github.com/amazon-braket/amazon-braket-default-simulator-python"
   },
   "amazon-braket-pennylane-plugin-python": {
-    "amount_available": 160,
+    "amount_available": 90,
     "bounties": [
       {
         "assignees": [],
@@ -45,7 +45,7 @@
         "assignees": [
           "king-p3nguin"
         ],
-        "state": "open",
+        "state": "closed",
         "title": "Support `qml.counts` for circuits",
         "url": "https://github.com/amazon-braket/amazon-braket-pennylane-plugin-python/issues/195",
         "value": 70
@@ -63,7 +63,7 @@
     "emoji": "\u269b\ufe0f\ud83e\ude99",
     "name": "PennyLane Plugin for Amazon Braket",
     "num_bounties": 3,
-    "num_open_bounties": 2,
+    "num_open_bounties": 1,
     "total_amount": 250,
     "url": "https://github.com/amazon-braket/amazon-braket-pennylane-plugin-python"
   },
@@ -129,8 +129,8 @@
     "bounties": [
       {
         "assignees": [
-          "abidart",
-          "daredevil3435"
+          "daredevil3435",
+          "abidart"
         ],
         "state": "closed",
         "title": "Support integer division with `//` operator",
@@ -252,7 +252,7 @@
     "url": "https://github.com/bqskit/bqskit"
   },
   "braket.jl": {
-    "amount_available": 260,
+    "amount_available": 190,
     "bounties": [
       {
         "assignees": [
@@ -281,7 +281,7 @@
       },
       {
         "assignees": [],
-        "state": "open",
+        "state": "closed",
         "title": "Support for symbolic expressions in FreeParameters",
         "url": "https://github.com/amazon-braket/Braket.jl/issues/82",
         "value": 70
@@ -306,7 +306,7 @@
     "emoji": "\u269b\ufe0f\ud83d\udd34",
     "name": "Braket.jl",
     "num_bounties": 6,
-    "num_open_bounties": 3,
+    "num_open_bounties": 2,
     "total_amount": 500,
     "url": "https://github.com/amazon-braket/Braket.jl"
   },
@@ -1282,7 +1282,9 @@
         "value": 75
       },
       {
-        "assignees": [],
+        "assignees": [
+          "shubhamkaushal765"
+        ],
         "state": "open",
         "title": " Challenge Accepted: Boost Our Code with CPython!",
         "url": "https://github.com/qBraid/qBraid/issues/619",
@@ -2036,8 +2038,8 @@
       },
       {
         "assignees": [
-          "Roshan-Thomas",
-          "ahkatlio"
+          "ahkatlio",
+          "Roshan-Thomas"
         ],
         "state": "closed",
         "title": "Adding code documentation",
