@@ -614,8 +614,8 @@
     "bounties": [
       {
         "assignees": [
-          "AbdullahKazi500",
-          "Barnald"
+          "Barnald",
+          "AbdullahKazi500"
         ],
         "state": "closed",
         "title": "Application of tensor-network MBQC simulation",
@@ -2052,8 +2052,8 @@
       },
       {
         "assignees": [
-          "ahkatlio",
-          "Roshan-Thomas"
+          "Roshan-Thomas",
+          "ahkatlio"
         ],
         "state": "closed",
         "title": "Adding code documentation",
@@ -2285,8 +2285,8 @@
       },
       {
         "assignees": [
-          "AbdullahKazi500",
-          "Gopal-Dahale"
+          "Gopal-Dahale",
+          "AbdullahKazi500"
         ],
         "state": "closed",
         "title": "Adding new examples and algorithms for TQ",
