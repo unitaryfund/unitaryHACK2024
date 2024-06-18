@@ -2143,8 +2143,8 @@
       },
       {
         "assignees": [
-          "king-p3nguin",
-          "AbdullahKazi500"
+          "AbdullahKazi500",
+          "king-p3nguin"
         ],
         "state": "closed",
         "title": "Stabilizer simulation example utilizing stim backend",
@@ -2281,8 +2281,8 @@
       },
       {
         "assignees": [
-          "Gopal-Dahale",
-          "AbdullahKazi500"
+          "AbdullahKazi500",
+          "Gopal-Dahale"
         ],
         "state": "closed",
         "title": "Adding new examples and algorithms for TQ",
