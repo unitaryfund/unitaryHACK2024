@@ -131,8 +131,8 @@
     "bounties": [
       {
         "assignees": [
-          "abidart",
-          "daredevil3435"
+          "daredevil3435",
+          "abidart"
         ],
         "state": "closed",
         "title": "Support integer division with `//` operator",
@@ -1076,8 +1076,8 @@
     "bounties": [
       {
         "assignees": [
-          "maxwell04-wq",
-          "burlemarxiste"
+          "burlemarxiste",
+          "maxwell04-wq"
         ],
         "state": "open",
         "title": "QASM to linear optics circuit converter",
@@ -1294,7 +1294,7 @@
           "shubhamkaushal765"
         ],
         "state": "open",
-        "title": " Challenge Accepted: Boost Our Code with CPython!",
+        "title": " Challenge Accepted: Boost Our Code with Cython!",
         "url": "https://github.com/qBraid/qBraid/issues/619",
         "value": 125
       },
@@ -1379,8 +1379,8 @@
     "bounties": [
       {
         "assignees": [
-          "0mWh",
-          "schance995"
+          "schance995",
+          "0mWh"
         ],
         "state": "closed",
         "title": "QRNG Classifier Preprocessing Functions Improvements",
@@ -1460,7 +1460,9 @@
     "amount_available": 440,
     "bounties": [
       {
-        "assignees": [],
+        "assignees": [
+          "MozammilQ"
+        ],
         "state": "open",
         "title": "Accelerate MPS simulator by using cuQuantum",
         "url": "https://github.com/Qiskit/qiskit-aer/issues/2112",
@@ -2145,8 +2147,8 @@
       },
       {
         "assignees": [
-          "king-p3nguin",
-          "AbdullahKazi500"
+          "AbdullahKazi500",
+          "king-p3nguin"
         ],
         "state": "closed",
         "title": "Stabilizer simulation example utilizing stim backend",
