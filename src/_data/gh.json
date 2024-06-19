@@ -1074,14 +1074,14 @@
     "url": "https://github.com/PennyLaneAI/pennylane"
   },
   "perceval": {
-    "amount_available": 400,
+    "amount_available": 200,
     "bounties": [
       {
         "assignees": [
           "burlemarxiste",
           "maxwell04-wq"
         ],
-        "state": "open",
+        "state": "closed",
         "title": "QASM to linear optics circuit converter",
         "url": "https://github.com/Quandela/Perceval/issues/399",
         "value": 200
@@ -1106,7 +1106,7 @@
     "emoji": null,
     "name": "Perceval",
     "num_bounties": 3,
-    "num_open_bounties": 2,
+    "num_open_bounties": 1,
     "total_amount": 500,
     "url": "https://github.com/Quandela/Perceval"
   },
@@ -2149,8 +2149,8 @@
       },
       {
         "assignees": [
-          "king-p3nguin",
-          "AbdullahKazi500"
+          "AbdullahKazi500",
+          "king-p3nguin"
         ],
         "state": "closed",
         "title": "Stabilizer simulation example utilizing stim backend",
@@ -2287,8 +2287,8 @@
       },
       {
         "assignees": [
-          "Gopal-Dahale",
-          "AbdullahKazi500"
+          "AbdullahKazi500",
+          "Gopal-Dahale"
         ],
         "state": "closed",
         "title": "Adding new examples and algorithms for TQ",
