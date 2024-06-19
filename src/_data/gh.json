@@ -1078,8 +1078,8 @@
     "bounties": [
       {
         "assignees": [
-          "burlemarxiste",
-          "maxwell04-wq"
+          "maxwell04-wq",
+          "burlemarxiste"
         ],
         "state": "open",
         "title": "QASM to linear optics circuit converter",
@@ -1381,8 +1381,8 @@
     "bounties": [
       {
         "assignees": [
-          "0mWh",
-          "schance995"
+          "schance995",
+          "0mWh"
         ],
         "state": "closed",
         "title": "QRNG Classifier Preprocessing Functions Improvements",
@@ -2054,8 +2054,8 @@
       },
       {
         "assignees": [
-          "ahkatlio",
-          "Roshan-Thomas"
+          "Roshan-Thomas",
+          "ahkatlio"
         ],
         "state": "closed",
         "title": "Adding code documentation",
