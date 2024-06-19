@@ -505,13 +505,13 @@
     "url": "https://github.com/Classiq/classiq-library"
   },
   "cuda-quantum": {
-    "amount_available": 450,
+    "amount_available": 275,
     "bounties": [
       {
         "assignees": [
           "freifrauvonbleifrei"
         ],
-        "state": "open",
+        "state": "closed",
         "title": "Enable emitting circuit diagrams for unitary quantum kernels in LaTeX",
         "url": "https://github.com/NVIDIA/cuda-quantum/issues/1638",
         "value": 100
@@ -543,7 +543,7 @@
         "assignees": [
           "Gopal-Dahale"
         ],
-        "state": "open",
+        "state": "closed",
         "title": "Readout Error Mitigation",
         "url": "https://github.com/NVIDIA/cuda-quantum/issues/1642",
         "value": 75
@@ -559,7 +559,7 @@
     "emoji": "\ud83c\udfce\ufe0f",
     "name": "CUDA-Q",
     "num_bounties": 6,
-    "num_open_bounties": 5,
+    "num_open_bounties": 3,
     "total_amount": 500,
     "url": "https://github.com/NVIDIA/cuda-quantum"
   },
@@ -1080,8 +1080,8 @@
     "bounties": [
       {
         "assignees": [
-          "maxwell04-wq",
-          "burlemarxiste"
+          "burlemarxiste",
+          "maxwell04-wq"
         ],
         "state": "closed",
         "title": "QASM to linear optics circuit converter",
@@ -1383,8 +1383,8 @@
     "bounties": [
       {
         "assignees": [
-          "0mWh",
-          "schance995"
+          "schance995",
+          "0mWh"
         ],
         "state": "closed",
         "title": "QRNG Classifier Preprocessing Functions Improvements",
