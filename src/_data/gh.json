@@ -133,8 +133,8 @@
     "bounties": [
       {
         "assignees": [
-          "daredevil3435",
-          "abidart"
+          "abidart",
+          "daredevil3435"
         ],
         "state": "closed",
         "title": "Support integer division with `//` operator",
@@ -616,8 +616,8 @@
     "bounties": [
       {
         "assignees": [
-          "Barnald",
-          "AbdullahKazi500"
+          "AbdullahKazi500",
+          "Barnald"
         ],
         "state": "closed",
         "title": "Application of tensor-network MBQC simulation",
@@ -1381,8 +1381,8 @@
     "bounties": [
       {
         "assignees": [
-          "0mWh",
-          "schance995"
+          "schance995",
+          "0mWh"
         ],
         "state": "closed",
         "title": "QRNG Classifier Preprocessing Functions Improvements",
@@ -2287,8 +2287,8 @@
       },
       {
         "assignees": [
-          "AbdullahKazi500",
-          "Gopal-Dahale"
+          "Gopal-Dahale",
+          "AbdullahKazi500"
         ],
         "state": "closed",
         "title": "Adding new examples and algorithms for TQ",
