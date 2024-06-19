@@ -642,6 +642,19 @@
     "total_value": 540
   },
   {
+    "username": "daredevil3435",
+    "bounties": [
+      {
+        "url": "https://github.com/amazon-braket/autoqasm/issues/9",
+        "title": "Support integer division with `//` operator",
+        "project": "autoqasm",
+        "value": 25
+      }
+    ],
+    "num_projects": 1,
+    "total_value": 25
+  },
+  {
     "username": "abidart",
     "bounties": [
       {
@@ -659,19 +672,6 @@
     ],
     "num_projects": 1,
     "total_value": 75
-  },
-  {
-    "username": "daredevil3435",
-    "bounties": [
-      {
-        "url": "https://github.com/amazon-braket/autoqasm/issues/9",
-        "title": "Support integer division with `//` operator",
-        "project": "autoqasm",
-        "value": 25
-      }
-    ],
-    "num_projects": 1,
-    "total_value": 25
   },
   {
     "username": "atharva-satpute",
@@ -879,6 +879,25 @@
     "total_value": 120
   },
   {
+    "username": "ljcamargo",
+    "bounties": [
+      {
+        "url": "https://github.com/Qiskit/qiskit/issues/12067",
+        "title": "Spellcheck API docs (Unity Fund Hackathon) ",
+        "project": "qiskit",
+        "value": 100
+      },
+      {
+        "url": "https://github.com/unitaryfund/metriq-app/issues/878",
+        "title": "Include markdown rendering on homepage",
+        "project": "metriq-app",
+        "value": 100
+      }
+    ],
+    "num_projects": 2,
+    "total_value": 200
+  },
+  {
     "username": "shravanpatel30",
     "bounties": [
       {
@@ -1007,19 +1026,6 @@
       {
         "url": "https://github.com/unitaryfund/metriq-client/issues/119",
         "title": "Update to pyproject.toml",
-        "project": "metriq-app",
-        "value": 100
-      }
-    ],
-    "num_projects": 1,
-    "total_value": 100
-  },
-  {
-    "username": "ljcamargo",
-    "bounties": [
-      {
-        "url": "https://github.com/unitaryfund/metriq-app/issues/878",
-        "title": "Include markdown rendering on homepage",
         "project": "metriq-app",
         "value": 100
       }

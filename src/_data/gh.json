@@ -133,8 +133,8 @@
     "bounties": [
       {
         "assignees": [
-          "abidart",
-          "daredevil3435"
+          "daredevil3435",
+          "abidart"
         ],
         "state": "closed",
         "title": "Support integer division with `//` operator",
@@ -508,7 +508,9 @@
     "amount_available": 450,
     "bounties": [
       {
-        "assignees": [],
+        "assignees": [
+          "freifrauvonbleifrei"
+        ],
         "state": "open",
         "title": "Enable emitting circuit diagrams for unitary quantum kernels in LaTeX",
         "url": "https://github.com/NVIDIA/cuda-quantum/issues/1638",
@@ -1416,13 +1418,13 @@
     "url": "https://github.com/dorahacksglobal/qc-classifier"
   },
   "qiskit": {
-    "amount_available": 300,
+    "amount_available": 200,
     "bounties": [
       {
         "assignees": [
           "ljcamargo"
         ],
-        "state": "open",
+        "state": "closed",
         "title": "Spellcheck API docs (Unity Fund Hackathon) ",
         "url": "https://github.com/Qiskit/qiskit/issues/12067",
         "value": 100
@@ -1454,7 +1456,7 @@
     "emoji": "\ud83c\udf10",
     "name": "Qiskit",
     "num_bounties": 4,
-    "num_open_bounties": 3,
+    "num_open_bounties": 2,
     "total_amount": 350,
     "url": "https://github.com/Qiskit/qiskit/"
   },
