@@ -505,7 +505,7 @@
     "url": "https://github.com/Classiq/classiq-library"
   },
   "cuda-quantum": {
-    "amount_available": 500,
+    "amount_available": 450,
     "bounties": [
       {
         "assignees": [],
@@ -548,7 +548,7 @@
       },
       {
         "assignees": [],
-        "state": "open",
+        "state": "closed",
         "title": "Bloch sphere visualization for single-qubit operations",
         "url": "https://github.com/NVIDIA/cuda-quantum/issues/1639",
         "value": 50
@@ -557,7 +557,7 @@
     "emoji": "\ud83c\udfce\ufe0f",
     "name": "CUDA-Q",
     "num_bounties": 6,
-    "num_open_bounties": 6,
+    "num_open_bounties": 5,
     "total_amount": 500,
     "url": "https://github.com/NVIDIA/cuda-quantum"
   },
@@ -1078,8 +1078,8 @@
     "bounties": [
       {
         "assignees": [
-          "burlemarxiste",
-          "maxwell04-wq"
+          "maxwell04-wq",
+          "burlemarxiste"
         ],
         "state": "closed",
         "title": "QASM to linear optics circuit converter",
@@ -1381,8 +1381,8 @@
     "bounties": [
       {
         "assignees": [
-          "schance995",
-          "0mWh"
+          "0mWh",
+          "schance995"
         ],
         "state": "closed",
         "title": "QRNG Classifier Preprocessing Functions Improvements",
