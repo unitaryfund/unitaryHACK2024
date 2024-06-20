@@ -626,9 +626,21 @@
         "value": 90
       },
       {
+        "url": "https://github.com/QuEraComputing/bloqade-python/issues/741",
+        "title": "Improve documentation on Batch tasks. ",
+        "project": "bloqade-python",
+        "value": 20
+      },
+      {
         "url": "https://github.com/amazon-braket/amazon-braket-default-simulator-python/issues/252",
         "title": "Support non-contiguous qubit indices",
         "project": "amazon-braket-default-simulator-python",
+        "value": 100
+      },
+      {
+        "url": "https://github.com/NVIDIA/cuda-quantum/issues/1624",
+        "title": "Organize Documentation Examples ",
+        "project": "cuda-quantum",
         "value": 100
       },
       {
@@ -656,8 +668,8 @@
         "value": 200
       }
     ],
-    "num_projects": 5,
-    "total_value": 640
+    "num_projects": 7,
+    "total_value": 760
   },
   {
     "username": "daredevil3435",

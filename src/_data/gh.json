@@ -216,13 +216,22 @@
         "title": "unitary hack tracking issue for qmanning4",
         "url": "https://github.com/QuEraComputing/bloqade-python/issues/988",
         "value": 20
+      },
+      {
+        "assignees": [
+          "WingCode"
+        ],
+        "state": "closed",
+        "title": "Improve documentation on Batch tasks. ",
+        "url": "https://github.com/QuEraComputing/bloqade-python/issues/741",
+        "value": 20
       }
     ],
     "emoji": "\u269b\ufe0f",
     "name": "bloqade-python",
-    "num_bounties": 3,
+    "num_bounties": 4,
     "num_open_bounties": 0,
-    "total_amount": 132,
+    "total_amount": 152,
     "url": "https://github.com/QuEraComputing/bloqade-python"
   },
   "bqskit": {
@@ -509,7 +518,7 @@
     "url": "https://github.com/Classiq/classiq-library"
   },
   "cuda-quantum": {
-    "amount_available": 275,
+    "amount_available": 175,
     "bounties": [
       {
         "assignees": [
@@ -524,7 +533,7 @@
         "assignees": [
           "WingCode"
         ],
-        "state": "open",
+        "state": "closed",
         "title": "Organize Documentation Examples ",
         "url": "https://github.com/NVIDIA/cuda-quantum/issues/1624",
         "value": 100
@@ -563,7 +572,7 @@
     "emoji": "\ud83c\udfce\ufe0f",
     "name": "CUDA-Q",
     "num_bounties": 6,
-    "num_open_bounties": 3,
+    "num_open_bounties": 2,
     "total_amount": 500,
     "url": "https://github.com/NVIDIA/cuda-quantum"
   },
@@ -2293,8 +2302,8 @@
       },
       {
         "assignees": [
-          "Gopal-Dahale",
-          "AbdullahKazi500"
+          "AbdullahKazi500",
+          "Gopal-Dahale"
         ],
         "state": "closed",
         "title": "Adding new examples and algorithms for TQ",
