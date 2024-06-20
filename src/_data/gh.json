@@ -3,7 +3,9 @@
     "amount_available": 170,
     "bounties": [
       {
-        "assignees": [],
+        "assignees": [
+          "WingCode"
+        ],
         "state": "open",
         "title": "Support non-contiguous qubit indices",
         "url": "https://github.com/amazon-braket/amazon-braket-default-simulator-python/issues/252",
@@ -133,8 +135,8 @@
     "bounties": [
       {
         "assignees": [
-          "abidart",
-          "daredevil3435"
+          "daredevil3435",
+          "abidart"
         ],
         "state": "closed",
         "title": "Support integer division with `//` operator",
@@ -351,7 +353,7 @@
     "url": "https://github.com/amazon-braket/BraketAHS.jl"
   },
   "braketsimulator.jl": {
-    "amount_available": 500,
+    "amount_available": 420,
     "bounties": [
       {
         "assignees": [],
@@ -361,8 +363,10 @@
         "value": 140
       },
       {
-        "assignees": [],
-        "state": "open",
+        "assignees": [
+          "Fe-r-oz"
+        ],
+        "state": "closed",
         "title": "Expanded support for quantum chemistry operations",
         "url": "https://github.com/amazon-braket/BraketSimulator.jl/issues/14",
         "value": 80
@@ -392,7 +396,7 @@
     "emoji": "\u269b\ufe0f\ud83d\udcf6",
     "name": "BraketSimulator.jl",
     "num_bounties": 5,
-    "num_open_bounties": 5,
+    "num_open_bounties": 4,
     "total_amount": 500,
     "url": "https://github.com/amazon-braket/BraketSimulator.jl"
   },
@@ -618,8 +622,8 @@
     "bounties": [
       {
         "assignees": [
-          "Barnald",
-          "AbdullahKazi500"
+          "AbdullahKazi500",
+          "Barnald"
         ],
         "state": "closed",
         "title": "Application of tensor-network MBQC simulation",
@@ -1080,8 +1084,8 @@
     "bounties": [
       {
         "assignees": [
-          "burlemarxiste",
-          "maxwell04-wq"
+          "maxwell04-wq",
+          "burlemarxiste"
         ],
         "state": "closed",
         "title": "QASM to linear optics circuit converter",
