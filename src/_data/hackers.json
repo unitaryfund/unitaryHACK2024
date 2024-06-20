@@ -472,7 +472,7 @@
     "total_value": 372
   },
   {
-    "username": "schance995",
+    "username": "0mWh",
     "bounties": [
       {
         "url": "https://github.com/dorahacksglobal/qc-classifier/issues/1",
@@ -485,7 +485,7 @@
     "total_value": 75
   },
   {
-    "username": "0mWh",
+    "username": "schance995",
     "bounties": [
       {
         "url": "https://github.com/dorahacksglobal/qc-classifier/issues/1",
@@ -827,6 +827,19 @@
     "total_value": 250
   },
   {
+    "username": "ahkatlio",
+    "bounties": [
+      {
+        "url": "https://github.com/scqubits/scqubits/issues/222",
+        "title": "Adding code documentation",
+        "project": "scqubits",
+        "value": 25
+      }
+    ],
+    "num_projects": 1,
+    "total_value": 25
+  },
+  {
     "username": "Roshan-Thomas",
     "bounties": [
       {
@@ -850,19 +863,6 @@
     ],
     "num_projects": 3,
     "total_value": 235
-  },
-  {
-    "username": "ahkatlio",
-    "bounties": [
-      {
-        "url": "https://github.com/scqubits/scqubits/issues/222",
-        "title": "Adding code documentation",
-        "project": "scqubits",
-        "value": 25
-      }
-    ],
-    "num_projects": 1,
-    "total_value": 25
   },
   {
     "username": "rodolfocarobene",
