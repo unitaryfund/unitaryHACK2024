@@ -1,12 +1,12 @@
 {
   "amazon-braket-default-simulator-python": {
-    "amount_available": 170,
+    "amount_available": 70,
     "bounties": [
       {
         "assignees": [
           "WingCode"
         ],
-        "state": "open",
+        "state": "closed",
         "title": "Support non-contiguous qubit indices",
         "url": "https://github.com/amazon-braket/amazon-braket-default-simulator-python/issues/252",
         "value": 100
@@ -31,7 +31,7 @@
     "emoji": "\u269b\ufe0f\ud83d\udcca",
     "name": "Amazon Braket Default Simulator",
     "num_bounties": 3,
-    "num_open_bounties": 2,
+    "num_open_bounties": 1,
     "total_amount": 240,
     "url": "https://github.com/amazon-braket/amazon-braket-default-simulator-python"
   },
@@ -1084,8 +1084,8 @@
     "bounties": [
       {
         "assignees": [
-          "burlemarxiste",
-          "maxwell04-wq"
+          "maxwell04-wq",
+          "burlemarxiste"
         ],
         "state": "closed",
         "title": "QASM to linear optics circuit converter",
@@ -1387,8 +1387,8 @@
     "bounties": [
       {
         "assignees": [
-          "0mWh",
-          "schance995"
+          "schance995",
+          "0mWh"
         ],
         "state": "closed",
         "title": "QRNG Classifier Preprocessing Functions Improvements",
@@ -2155,8 +2155,8 @@
       },
       {
         "assignees": [
-          "AbdullahKazi500",
-          "king-p3nguin"
+          "king-p3nguin",
+          "AbdullahKazi500"
         ],
         "state": "closed",
         "title": "Stabilizer simulation example utilizing stim backend",
@@ -2293,8 +2293,8 @@
       },
       {
         "assignees": [
-          "AbdullahKazi500",
-          "Gopal-Dahale"
+          "Gopal-Dahale",
+          "AbdullahKazi500"
         ],
         "state": "closed",
         "title": "Adding new examples and algorithms for TQ",

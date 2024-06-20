@@ -472,7 +472,7 @@
     "total_value": 372
   },
   {
-    "username": "0mWh",
+    "username": "schance995",
     "bounties": [
       {
         "url": "https://github.com/dorahacksglobal/qc-classifier/issues/1",
@@ -485,7 +485,7 @@
     "total_value": 75
   },
   {
-    "username": "schance995",
+    "username": "0mWh",
     "bounties": [
       {
         "url": "https://github.com/dorahacksglobal/qc-classifier/issues/1",
@@ -626,6 +626,12 @@
         "value": 90
       },
       {
+        "url": "https://github.com/amazon-braket/amazon-braket-default-simulator-python/issues/252",
+        "title": "Support non-contiguous qubit indices",
+        "project": "amazon-braket-default-simulator-python",
+        "value": 100
+      },
+      {
         "url": "https://github.com/unitaryfund/metriq-app/issues/880",
         "title": "Prepopulate result dates in \"Add Submission\" workflow",
         "project": "metriq-app",
@@ -650,8 +656,8 @@
         "value": 200
       }
     ],
-    "num_projects": 4,
-    "total_value": 540
+    "num_projects": 5,
+    "total_value": 640
   },
   {
     "username": "abidart",
