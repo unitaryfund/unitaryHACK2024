@@ -135,8 +135,8 @@
     "bounties": [
       {
         "assignees": [
-          "daredevil3435",
-          "abidart"
+          "abidart",
+          "daredevil3435"
         ],
         "state": "closed",
         "title": "Support integer division with `//` operator",
@@ -1093,8 +1093,8 @@
     "bounties": [
       {
         "assignees": [
-          "maxwell04-wq",
-          "burlemarxiste"
+          "burlemarxiste",
+          "maxwell04-wq"
         ],
         "state": "closed",
         "title": "QASM to linear optics circuit converter",
@@ -2069,8 +2069,8 @@
       },
       {
         "assignees": [
-          "ahkatlio",
-          "Roshan-Thomas"
+          "Roshan-Thomas",
+          "ahkatlio"
         ],
         "state": "closed",
         "title": "Adding code documentation",
@@ -2164,8 +2164,8 @@
       },
       {
         "assignees": [
-          "AbdullahKazi500",
-          "king-p3nguin"
+          "king-p3nguin",
+          "AbdullahKazi500"
         ],
         "state": "closed",
         "title": "Stabilizer simulation example utilizing stim backend",
