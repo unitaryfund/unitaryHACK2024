@@ -2164,8 +2164,8 @@
       },
       {
         "assignees": [
-          "king-p3nguin",
-          "AbdullahKazi500"
+          "AbdullahKazi500",
+          "king-p3nguin"
         ],
         "state": "closed",
         "title": "Stabilizer simulation example utilizing stim backend",
