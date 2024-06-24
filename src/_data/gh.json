@@ -1128,7 +1128,7 @@
     "url": "https://github.com/Quandela/Perceval"
   },
   "piccolo.jl": {
-    "amount_available": 250,
+    "amount_available": 100,
     "bounties": [
       {
         "assignees": [
@@ -1152,7 +1152,7 @@
         "assignees": [
           "Fe-r-oz"
         ],
-        "state": "open",
+        "state": "closed",
         "title": "[Feature]: Sampling-based robust control",
         "url": "https://github.com/aarontrowbridge/QuantumCollocation.jl/issues/89",
         "value": 150
@@ -1188,7 +1188,7 @@
     "emoji": null,
     "name": "Piccolo.jl",
     "num_bounties": 6,
-    "num_open_bounties": 2,
+    "num_open_bounties": 1,
     "total_amount": 500,
     "url": "https://github.com/aarontrowbridge/Piccolo.jl"
   },
@@ -1840,9 +1840,7 @@
         "value": 50
       },
       {
-        "assignees": [
-          "GubioGL"
-        ],
+        "assignees": [],
         "state": "closed",
         "title": "Building a Quantum Computer  [unitaryhack] ",
         "url": "https://github.com/Quantum-Universal-Education/Quantum-Universal-Education.github.io/issues/16",
@@ -2077,8 +2075,8 @@
       },
       {
         "assignees": [
-          "ahkatlio",
-          "Roshan-Thomas"
+          "Roshan-Thomas",
+          "ahkatlio"
         ],
         "state": "closed",
         "title": "Adding code documentation",
@@ -2172,8 +2170,8 @@
       },
       {
         "assignees": [
-          "AbdullahKazi500",
-          "king-p3nguin"
+          "king-p3nguin",
+          "AbdullahKazi500"
         ],
         "state": "closed",
         "title": "Stabilizer simulation example utilizing stim backend",
@@ -2310,8 +2308,8 @@
       },
       {
         "assignees": [
-          "AbdullahKazi500",
-          "Gopal-Dahale"
+          "Gopal-Dahale",
+          "AbdullahKazi500"
         ],
         "state": "closed",
         "title": "Adding new examples and algorithms for TQ",
