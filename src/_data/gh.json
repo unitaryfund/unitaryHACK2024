@@ -135,8 +135,8 @@
     "bounties": [
       {
         "assignees": [
-          "daredevil3435",
-          "abidart"
+          "abidart",
+          "daredevil3435"
         ],
         "state": "closed",
         "title": "Support integer division with `//` operator",
@@ -1095,8 +1095,8 @@
     "bounties": [
       {
         "assignees": [
-          "burlemarxiste",
-          "maxwell04-wq"
+          "maxwell04-wq",
+          "burlemarxiste"
         ],
         "state": "closed",
         "title": "QASM to linear optics circuit converter",
@@ -1398,8 +1398,8 @@
     "bounties": [
       {
         "assignees": [
-          "schance995",
-          "0mWh"
+          "0mWh",
+          "schance995"
         ],
         "state": "closed",
         "title": "QRNG Classifier Preprocessing Functions Improvements",
@@ -1822,21 +1822,27 @@
     "amount_available": 0,
     "bounties": [
       {
-        "assignees": [],
+        "assignees": [
+          "JuanitaCathy"
+        ],
         "state": "closed",
         "title": "Quantum Software and Games  [unitaryhack]",
         "url": "https://github.com/Quantum-Universal-Education/Quantum-Universal-Education.github.io/issues/24",
         "value": 50
       },
       {
-        "assignees": [],
+        "assignees": [
+          "shubhusion"
+        ],
         "state": "closed",
         "title": "Quantum Applications [unitaryhack]",
         "url": "https://github.com/Quantum-Universal-Education/Quantum-Universal-Education.github.io/issues/20",
         "value": 50
       },
       {
-        "assignees": [],
+        "assignees": [
+          "GubioGL"
+        ],
         "state": "closed",
         "title": "Building a Quantum Computer  [unitaryhack] ",
         "url": "https://github.com/Quantum-Universal-Education/Quantum-Universal-Education.github.io/issues/16",
@@ -2071,8 +2077,8 @@
       },
       {
         "assignees": [
-          "Roshan-Thomas",
-          "ahkatlio"
+          "ahkatlio",
+          "Roshan-Thomas"
         ],
         "state": "closed",
         "title": "Adding code documentation",
@@ -2166,8 +2172,8 @@
       },
       {
         "assignees": [
-          "AbdullahKazi500",
-          "king-p3nguin"
+          "king-p3nguin",
+          "AbdullahKazi500"
         ],
         "state": "closed",
         "title": "Stabilizer simulation example utilizing stim backend",
@@ -2304,8 +2310,8 @@
       },
       {
         "assignees": [
-          "AbdullahKazi500",
-          "Gopal-Dahale"
+          "Gopal-Dahale",
+          "AbdullahKazi500"
         ],
         "state": "closed",
         "title": "Adding new examples and algorithms for TQ",
