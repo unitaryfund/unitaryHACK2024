@@ -1095,8 +1095,8 @@
     "bounties": [
       {
         "assignees": [
-          "maxwell04-wq",
-          "burlemarxiste"
+          "burlemarxiste",
+          "maxwell04-wq"
         ],
         "state": "closed",
         "title": "QASM to linear optics circuit converter",
@@ -2077,8 +2077,8 @@
       },
       {
         "assignees": [
-          "ahkatlio",
-          "Roshan-Thomas"
+          "Roshan-Thomas",
+          "ahkatlio"
         ],
         "state": "closed",
         "title": "Adding code documentation",
