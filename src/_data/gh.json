@@ -135,8 +135,8 @@
     "bounties": [
       {
         "assignees": [
-          "abidart",
-          "daredevil3435"
+          "daredevil3435",
+          "abidart"
         ],
         "state": "closed",
         "title": "Support integer division with `//` operator",
@@ -1095,8 +1095,8 @@
     "bounties": [
       {
         "assignees": [
-          "burlemarxiste",
-          "maxwell04-wq"
+          "maxwell04-wq",
+          "burlemarxiste"
         ],
         "state": "closed",
         "title": "QASM to linear optics circuit converter",
@@ -1840,7 +1840,9 @@
         "value": 50
       },
       {
-        "assignees": [],
+        "assignees": [
+          "GubioGL"
+        ],
         "state": "closed",
         "title": "Building a Quantum Computer  [unitaryhack] ",
         "url": "https://github.com/Quantum-Universal-Education/Quantum-Universal-Education.github.io/issues/16",
@@ -2075,8 +2077,8 @@
       },
       {
         "assignees": [
-          "Roshan-Thomas",
-          "ahkatlio"
+          "ahkatlio",
+          "Roshan-Thomas"
         ],
         "state": "closed",
         "title": "Adding code documentation",
@@ -2308,8 +2310,8 @@
       },
       {
         "assignees": [
-          "Gopal-Dahale",
-          "AbdullahKazi500"
+          "AbdullahKazi500",
+          "Gopal-Dahale"
         ],
         "state": "closed",
         "title": "Adding new examples and algorithms for TQ",
