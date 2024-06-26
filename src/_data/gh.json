@@ -631,8 +631,8 @@
     "bounties": [
       {
         "assignees": [
-          "Barnald",
-          "AbdullahKazi500"
+          "AbdullahKazi500",
+          "Barnald"
         ],
         "state": "closed",
         "title": "Application of tensor-network MBQC simulation",
@@ -1398,8 +1398,8 @@
     "bounties": [
       {
         "assignees": [
-          "schance995",
-          "0mWh"
+          "0mWh",
+          "schance995"
         ],
         "state": "closed",
         "title": "QRNG Classifier Preprocessing Functions Improvements",
@@ -1994,7 +1994,7 @@
     "url": "https://github.com/qutip/qutip-tutorials/"
   },
   "rustworkx": {
-    "amount_available": 300,
+    "amount_available": 100,
     "bounties": [
       {
         "assignees": [
@@ -2025,7 +2025,7 @@
         "assignees": [
           "jpacold"
         ],
-        "state": "open",
+        "state": "closed",
         "title": "Add support to `hexagonal_lattice_graph` for periodcity and position coordinates",
         "url": "https://github.com/Qiskit/rustworkx/issues/803",
         "value": 200
@@ -2034,7 +2034,7 @@
     "emoji": "\u2699\ufe0f",
     "name": "rustworkx",
     "num_bounties": 4,
-    "num_open_bounties": 2,
+    "num_open_bounties": 1,
     "total_amount": 450,
     "url": "https://github.com/Qiskit/rustworkx"
   },
@@ -2174,8 +2174,8 @@
       },
       {
         "assignees": [
-          "AbdullahKazi500",
-          "king-p3nguin"
+          "king-p3nguin",
+          "AbdullahKazi500"
         ],
         "state": "closed",
         "title": "Stabilizer simulation example utilizing stim backend",
@@ -2312,8 +2312,8 @@
       },
       {
         "assignees": [
-          "Gopal-Dahale",
-          "AbdullahKazi500"
+          "AbdullahKazi500",
+          "Gopal-Dahale"
         ],
         "state": "closed",
         "title": "Adding new examples and algorithms for TQ",

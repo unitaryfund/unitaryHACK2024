@@ -491,7 +491,7 @@
     "total_value": 372
   },
   {
-    "username": "schance995",
+    "username": "0mWh",
     "bounties": [
       {
         "url": "https://github.com/dorahacksglobal/qc-classifier/issues/1",
@@ -504,7 +504,7 @@
     "total_value": 75
   },
   {
-    "username": "0mWh",
+    "username": "schance995",
     "bounties": [
       {
         "url": "https://github.com/dorahacksglobal/qc-classifier/issues/1",
@@ -571,6 +571,25 @@
     ],
     "num_projects": 5,
     "total_value": 555
+  },
+  {
+    "username": "jpacold",
+    "bounties": [
+      {
+        "url": "https://github.com/Qiskit/rustworkx/issues/803",
+        "title": "Add support to `hexagonal_lattice_graph` for periodcity and position coordinates",
+        "project": "rustworkx",
+        "value": 200
+      },
+      {
+        "url": "https://github.com/unitaryfund/qrack/issues/876",
+        "title": "Extend `ZMask()` to `PhaseRootNMask()`",
+        "project": "qrack",
+        "value": 125
+      }
+    ],
+    "num_projects": 2,
+    "total_value": 325
   },
   {
     "username": "Tarun-Kumar07",
@@ -1113,19 +1132,6 @@
     ],
     "num_projects": 1,
     "total_value": 100
-  },
-  {
-    "username": "jpacold",
-    "bounties": [
-      {
-        "url": "https://github.com/unitaryfund/qrack/issues/876",
-        "title": "Extend `ZMask()` to `PhaseRootNMask()`",
-        "project": "qrack",
-        "value": 125
-      }
-    ],
-    "num_projects": 1,
-    "total_value": 125
   },
   {
     "username": "NnguyenHTommy",
