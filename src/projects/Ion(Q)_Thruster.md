@@ -16,6 +16,7 @@ bounties:
     value: 100
   - issue_num: 3
     value: 100
+    assignee: huyenemma
   - issue_num: 4
     value: 300
 ---

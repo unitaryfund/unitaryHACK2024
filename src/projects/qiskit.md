@@ -21,6 +21,8 @@ bounties:
     value: 50
   - issue_num: 12364
     value: 100
+    assignee: MozammilQ
+    state: closed
 ---
 
 [Qiskit](https://www.ibm.com/quantum/qiskit) is a popular SDK to build, transpile, execute, and visualize quantum circuits. It is mainly written in Python and there are some components in Rust.
